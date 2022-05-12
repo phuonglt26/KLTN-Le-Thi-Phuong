@@ -1,0 +1,7 @@
+,score
+Model,LGBMClassifier()
+K_best,2000
+Threshold,0.384
+F1,0.925531914893617
+Precision,0.9337121212121212
+Recall,0.9174937965260546

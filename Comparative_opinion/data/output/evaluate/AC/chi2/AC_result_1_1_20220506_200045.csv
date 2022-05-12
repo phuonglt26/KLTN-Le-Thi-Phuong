@@ -1,0 +1,6 @@
+,score
+K_best,3000
+Model,RandomForestClassifier()
+Macro-F1,0.8902309632384874
+Macro-P,0.8894396365535547
+Macro-R,0.8938988095238095

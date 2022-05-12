@@ -1,0 +1,600 @@
+28	Vậy	nên	nếu	chọn	so_sánh	Elantra_Sport	và	Cerato	Premium	thì	giá	xe	của	Elantra	vẫn	cao	hơn	đối_thủ	khá	nhiều	,	rơi	vào	khoảng	gần	100	triệu	đồng	0	0	0	0	0	1	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Mazda	CX	-	5	2019	cũng	mang	đến	cho	người	tiêu_dùng	nhiều	phiên_bản	lựa_chọn	hơn	cùng	mức	giá	rẻ	hơn	đối_thủ	Subaru_Forester	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+25	Đặt	Toyota_Hilux	2.8	G	4x4	AT	cạnh	Colorado	2.5	L	HIGH	COUNTRY	,	có_thể	thấy	giá	bán	của	Hilux	cao	hơn	đối_thủ	59	triệu	đồng	0	1	2	2	2	2	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+40	Mazda	CX	-	8	2019	hiện	đang	được	Thaco	áp_dụng	mức	giá	sau	ưu_đãi	dao_động	từ	1,199	-	1,444	tỷ	đồng	,	với	mức	giá	trên	đây	là	mẫu	xe	có_giá	cao	nhất	phân	khúc	SUV	7	chỗ	tại	Việt_Nam	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4
+17	Tuy_nhiên	,	điểm	yếu	của	Solati	chính	là	giá	bán	cao	hơn	đối_thủ	tới	80	triệu	đồng	0	0	0	0	0	1	0	0	0	0	0	0	3	0	0	0	0
+17	Nhìn	qua	có_thể	thấy	,	Mazda	2	có	mức	giá	cao	hơn	đối_thủ	trung_bình	50	triệu	đồng	0	0	0	0	0	1	2	0	0	0	0	0	3	0	0	0	0
+40	Có_thể	thấy	rằng	ở	mức	giá	niêm_yết	,	phiên_bản	tiêu_chuẩn	của	Mazda	6	có_giá	cao	hơn	phiên_bản	cao_cấp	nhất	của	Mazda	6	2018	lên	đến	400	triệu	đồng	và	cao	hơn	phiên_bản	thấp	nhất	lên	tới	hơn	600	triệu	đồng	0	0	0	0	0	0	0	0	0	0	4	1	2	0	4	0	0	0	4	4	1	2	4	0	0	0	0	0	0	4	0	0	0	4	0	0	0	0	0	0
+24	Phiên_bản	ít	trang_bị	nhất	của	Honda	Jazz	có_giá	bán	thấp	hơn	Honda	City	nhưng	phiên_bản	cao	nhất	là	RS	lại	có_giá	cao	hơn	đối_thủ	0	2	0	2	2	2	2	0	0	0	0	2	4	0	0	0	2	0	0	0	0	0	0	0
+12	Chiếc	sedan	có_giá	bán	thấp	hơn	nhưng	trang_bị	lại	không	thua_kém	đối_thủ	1	2	0	0	0	0	0	0	0	0	0	3
+41	Với	mức	giá	này	,	Honda	HR	-	V	hiện	đang	có_giá	bán	cao	nhất	phân	khúc	,	đặc_biệt	là	cao	hơn	đối_thủ	Hyundai_Kona	(	615	-	725	triệu	đồng	)	và	Ford	EcoSport	(	545	-	689	triệu	đồng	)	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Ở	phía	đối_thủ	,	giá	xe	Toyota	RAV4	2018	thậm_chí	còn	cao	hơn	khởi_điểm	từ	24.510	USD	(	57	triệu	đồng	)	0	0	3	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Ở	phía	Hyundai_Solati	,	khá	bất_ngờ	là	mẫu	xe	Hàn_Quốc	này	chỉ	bán	ra	với	duy_nhất	1	phiên_bản	với	mức	giá	cao	hơn	đối_thủ	tới	161	triệu	đồng	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+28	Tuy_nhiên	,	với	vị_trí	vững_chắc	của	Toyota_Vios	trên	thị_trường	thì	việc	giá	xe	cao	hơn	một_chút	so	với	các	đối_thủ	còn	lại	không	phải	là	vấn_đề	quá	quan_trọng	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+33	Đầu_tiên	,	khi	so_sánh	QX60	và	Audi	Q7	về	giá	bán	thì	Infiniti	QX60	có_giá	bán	đắt	hơn	ở	phiên_bản	thường	nhưng	lại	rẻ	hơn	ở	phiên_bản	cao_cấp	so	với	đối_thủ	từ	Đức	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+18	Về	phía	đối_thủ	,	Nissan	X	-	Trail	có_giá	bán	khởi_điểm_cao	hơn	so	với	Honda	CR	-	V	0	0	0	0	1	2	2	2	0	0	0	0	0	0	3	4	4	4
+37	Sở_hữu	giá	bán	cao	hơn	khá	nhiều	nên	Ford	Everest	có	một_chút	bề_thế	hơn	so	với	đối_thủ	,	cụ_thể	chiều	dài	x	rộng	tương_ứng	hơn	97mm	và	5mm	,	trong	khi	chiều	dài	cơ_sở	xe	hơn	105mm	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	Suzuki	Ciaz	có	mức	giá	cao	hơn	đối_thủ	những	42	triệu	đồng	1	2	0	0	0	0	0	3	0	0	0	0
+35	Bên	cạnh	đó	,	dù	mức	giá	đã	giảm	đáng_kể	so	với	thời	nhập_khẩu	nguyên	chiếc	,	nhưng	SantaFe	lắp_ráp	trong	nước	vẫn	là	dòng	xe	giữ	mức	giá	cao	nhất	trong	phân	khúc	SUV	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	3	4	4
+27	Với	giá	bán	cao	hơn	72	triệu	đồng	,	Hyundai	Accent	AT	tiêu_chuẩn	2021	sở_hữu	những	công_nghệ	hiện	địa	hơn	hẳn	đối_thủ	đồng_hương	Kia	Soluto	AT	Deluxe	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4
+21	Như_vậy	,	ở	thế_hệ	mới	,	giá	bán	của	Morning	2021	đã	tăng	đáng_kể	,	vào	top	cao	nhất	phân	khúc	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	3	4
+20	Tính	đến	nay	,	Hyundai	Kona	đang	là	mẫu	xe	được	đánh_giá	cao	nhất	nhì	phân	khúc	SUV	hạng	B	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+15	Giá	bán	của	Morning	2021	đã	tăng	đáng_kể	,	vào	top	cao	nhất	phân	khúc	0	0	0	1	2	0	0	0	0	0	0	0	0	3	4
+24	So	với	đối_thủ	đến	từ	Hàn	,	phiên_bản	cao_cấp	nhất	của	Honda	Brio	được	định_giá	bán	cao	hơn	với	mức	chênh_lệch	65	triệu	đồng	0	0	3	4	4	4	0	0	0	2	2	2	2	0	0	0	2	0	0	0	0	0	0	0
+25	Hiện_tại	,	Honda	CR	-	V	đang	được	bán	tại	Việt_Nam	dưới	dạng	nhập_khẩu	với	3	phiên_bản	và	có	mức	giá	cao	nhất	phân	khúc	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+37	Trong	khi	,	Honda	Accord	2020	định_vị	ở	phân	khúc	cao	với	giá	bán	vào	loại	cao	nhất	phân	khúc	,	thì	Mazda6	2020	tiếp_tục	trung_thành	với	chính_sách	giá	thấp	,	tiệm	cận	với	phân	khúc	C	0	0	0	1	2	2	0	0	3	4	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0
+20	Như_vậy	,	mẫu	SUV	đến	từ	Pháp	có_giá	bán	cao	hơn	214	triệu	đồng	so	với	đối_thủ	đến	từ	Hàn	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	3	0	0	0
+26	Với	tầm	tiền	rẻ	hơn	nhưng	danh_sách	trang_bị	an_toàn	trên	Hyundai	SantaFe	bản	máy	xăng	cao_cấp	là	hấp_dẫn	hơn	so	với	mẫu	xe	mang	thương_hiệu	Việt	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+24	Hyundai	Kona	được	lắp_ráp	trong	nước	,	trong	khi	đó	Honda	HR	-	V_nhập_khẩu	nguyên	chiếc	nên	có_giá	bán	cao	hơn	đối_thủ	36	triệu	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	0	0
+23	Có_lẽ	danh_sách	an_toàn	là	lý_do	hợp_lý	hơn	cả	để	giải_thích	cho	giá	bán	cao	hơn	đối_thủ	của	BT	-	50	3.2	AT	4WD	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	1	2	2	2	2	2
+27	Trong	khi	đó	High	Country	vốn	là	phiên_bản	nâng_cấp	từ	Colorado	LTZ	2.8	AT	4x4	2017	và	có_giá	bán	cao	hơn	đối_thủ	kha_khá	–	839	triệu	đồng	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+23	Ngay	ở	hiệp	đầu_tiên	của	trận_đấu	,	Triton	4x2	AT	đã	có	được	điểm	số	dẫn	trước	nhờ	giá	bán	tốt	hơn	đối_thủ	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+13	Hai	phiên_bản	xăng	của	SUV	Nhật_Bản	có_giá	bán	cao	hơn	hẳn	đối_thủ	Mỹ	1	2	2	2	2	2	0	0	0	0	0	3	4
+23	Phong_cách	thể_thao	thể_hiện	rõ	trên	mẫu	xe	này	ngoại	phần	ngoại_hình	trẻ_trung	,	nội_thất	ấn_tượng	và	khả_năng	vận_hành	vượt_trội	so	với	phân	khúc	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+47	Honda	City	2021	hiện	là	mẫu	xe	mạnh_mẽ	nhất	phân	khúc	nhờ	động_cơ	1.5	L	DOHC	i	-	VTEC	4	xy	-	lanh	thẳng	hàng	tạo	ra_công_suất	119	mã_lực	tại	6.600	vòng	/	phút	và	mô	-	men	xoắn	cực_đại	145	Nm	tại	4.300	vòng	/	phút	1	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Đồng_thời	,	mẫu	sedan	cỡ	nhỏ	của	Honda	hiện	còn	có	động_cơ	mạnh_mẽ	nhất	phân	khúc	và	những	trải	nghiệm	thực_sự	ấn_tượng	đối_với	chúng_tôi	0	0	1	2	2	2	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0
+20	Không_những	êm_ái	,	động_cơ	dầu	của	Sorento	mới	còn	mang	đến	những	trải	nghiệm	uy_lực	không	khác	gì	máy	xăng	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	4
+15	Về	cảm_giác	lái	,	Hyundai	Tucson	hiện_hành	đã	được	cải_thiện	đáng_kể	so	với	phiên_bản	tiền_nhiệm	0	0	0	0	1	2	0	0	0	0	0	0	0	3	4
+18	Nhược_điểm	của	xe	X55	là	cảm_giác	lái	thực_sự	chưa	tốt	khi	đặt	cạnh	các	đối_thủ	cùng	phân	khúc	0	0	1	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+24	Honda	City	2021	hiện	đang	là	mẫu	xe	mang	đến	trải	nghiệm	lái	thú_vị	nhất	cho	người	dùng	ở	phân	khúc	sedan	hạng	B	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+25	Về	mặt	giấy_tờ	,	động_cơ	của	Honda	City	2021	chỉ	tăng	1	mã_lực	so	với	đời	trước	,	nhưng	lại	vượt_trội	hoàn_toàn	so	với	đối_thủ	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+24	Theo	trải	nghiệm	thực_tế	của	đội_ngũ	so_sánh	xe	chúng_tôi	,	MG	ZS	2021	có	khả_năng	vận_hành	ấn_tượng	hơn	bản	cũ	nhờ	việc	cải_tiến	hộp_số	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	3	4	0	0	0	0
+36	Bởi	chúng_tôi	đã	đạp	sâu	chân	ga	để	thử	khả_năng	tăng_tốc	,	song	chiếc	xe	vẫn	lên	khá	từ	từ	,	không	quá	bốc	như	những	gì	mà	đối_thủ	khác	cùng	phân	khúc	là	Kia_Seltos	thể_hiện	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+15	Ford	EcoSport	2021	ấn_tượng	hơn	đối_thủ	với	khả_năng	tăng_tốc	tốt	hơn	nhờ	động_cơ	Ecoboost	trứ_danh	1	2	2	0	0	3	0	0	0	0	0	0	0	0	0
+25	Toyota_Fortuner	Legender	phiên_bản	mới	đã	cải_thiện	ở	khả_năng	vận_hành	với	độ	nhạy	chân	ga	tốt	hơn	phiên_bản	tiền_nhiệm	nhờ	việc	công_suất	đã	được	tăng	đáng_kể	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+31	Nhìn_chung	,	nhờ	sử_dụng	khung	gầm	,	động_cơ	của	BMW	X5	nên	VinFast	Lux	SA2	.	0	2021	là	chiếc	xe	mang	đến	trải	nghiệm	lái	rõ_ràng	tốt	hơn	Toyota_Fortuner	2021	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	3	4
+23	Honda	là	một	trong	những	chiếc	xe	có	động_cơ	ấn_tượng	hàng_đầu	phân	khúc	mà	đội_ngũ	so_sánh	xe	chúng_tôi	đã	từng	được	trải	nghiệm	1	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0
+14	Động_cơ	trên	Subaru	Forester	2020	không	có	sức_mạnh	trên	giấy_tờ	quá	ấn_tượng	như	đối_thủ	0	0	1	2	2	0	0	0	0	0	0	0	0	3
+28	Ở	khả_năng	vận_hành	,	Honda	CR	-	V	2020	là	chiếc	xe	không	thay_đổi	động_cơ	nên_người	dùng	sẽ	có	những	trải	nghiệm	không	khác_biệt	so	với	phiên_bản	cũ	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+22	Với	trải	nghiệm	thực_tế	của	chúng_tôi	,	điểm	mạnh	của	Honda	CR	-	V	vẫn	nằm	ở	động_cơ	mạnh_mẽ	hàng_đầu	phân	khúc	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	3	4
+15	Cũng	tương_tự	đối_thủ	,	Baic	Beijing	X7	2020	sử_dụng	động_cơ	Turbo	với	công_suất	188	mã_lực	0	0	3	0	1	2	2	2	0	0	0	0	0	0	0
+18	Nhìn	ngay	vào	thông_số	sức_mạnh	động_cơ	Baic	Beijing	X7	đang	tỏ	ra	vượt_trội	hơn	hẳn	so	với	Hyundai_Tucson	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3
+20	Không_những	êm_ái	,	động_cơ	dầu	của	Sorento	mới	còn	mang	đến	những	trải	nghiệm	uy_lực	không	khác	gì	máy	xăng	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	4
+16	Rõ_ràng	,	so	với	Fortuner	,	Kia	Sorento	là	chiếc	xe	có	thiên_hướng	vận_hành	thể_thao	hơn	0	0	0	0	3	0	1	2	0	0	0	0	0	0	0	0
+24	Không	chỉ	tăng	công_suất	về	mặt	lý_thuyết	,	Toyota_Fortuner	Legender	đã	cải_thiện	ở	khả_năng	vận_hành	với	độ	nhạy	chân	ga	tốt	hơn	phiên_bản	tiền_nhiệm	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+22	Ở	khả_năng	vận_hành	,	MG	ZS	đã	thực_sự	thay_đổi	so	với	phiên_bản	tiền_nhiệm	dù	động_cơ	của	xe	không	được	nâng_cấp	,	cải_tiến	0	0	0	0	1	2	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0
+21	Ford	Everest	Titanium	2020	là	một	chiếc	xe	sử_dụng	động_cơ	Bi	-	Turbo	và	có	sức_mạnh	tương_đương	đối_thủ	với	210	mã_lực	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+23	Hơn_nữa	,	động_cơ	trên	Everest	mới	êm_ái	hơn	rõ_ràng	so	với	loại	động_cơ	cũ	và	đặc_biệt	là	xe	có	hệ_thống	chống	ồn	chủ_động	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Đối_với	Toyota_Fortuner	2020	,	chiếc	xe	này	cũng	sử_dụng	động_cơ	dầu	2.4	L	,	nhưng	công_suất	thấp	hơn	đáng_kể	so	với	đối_thủ	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+28	Cùng	với	đó	,	khả_năng	vận_hành	vẫn	luôn	là	điểm	mạnh	của	mẫu	xe	này	trong	phân	khúc	với	động_cơ	,	khung	gầm	ổn_định	,	cảm_giác	lái	tốt	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	3	4	0	0	0	0	0	0	0	0	0	0
+26	Động_cơ	trên	mang	đến	sức_mạnh	188	mã_lực	và	cũng	với	CX	-	5	,	CRV	là	xe	có	sức_mạnh	lớn	nhất	phân	khúc	CUV	tại	Việt_Nam	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	4	4	4	4
+43	Toyota_Hilux	Adventure	2020	được	trang_bị	khối	động_cơ	dầu	Diesel	1GD	-	FTV	,	4	xi_lanh	thẳng	hàng	cho	công_suất	201	mã_lực	(	tăng	27	mã_lực	)	và	mô	-	men	xoắn	500	Nm	(	tăng	50	Nm	)	so	với	bản	cũ	trước_đây	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+30	Toyota_Hilux	Adventure	2020	giờ_đây	là	chiếc	xe	với	động_cơ	mạnh_mẽ	khi	công_suất	xe	đã	tăng	27	mã_lực	và	mô	-	men	xoắn	cũng	tăng	50	Nm	so	với	phiên_bản	tiền_nhiệm	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+26	Chiếc	xe	này	có	độ	nhạy	chân	ga	ấn_tượng	hơn	giúp	khả_năng	tăng_tốc	của	xe	được	cải_thiện	đáng_kể	so	với	chính	động_cơ	này	ở	đời	cũ	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+22	Nhìn_chung	,	cả	Toyota_Hilux	Adventure	2020	hay	Ford	Ranger	Wildtrak	2020	đều	là	những	chiếc	xe	bán	tải	có	khả_năng	vận_hành	ấn_tượng	0	0	0	1	2	2	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0
+27	Nhìn	nhanh	vào	thông_số	trên	giấy_tờ	,	Hyundai	Kona	đang	tỏ	ra	chiếm	ưu_thế	hơn	nhờ	động_cơ	tăng	áp	1.6	L	lớn	hơn	1.4	L	của	Kia_Seltos	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+11	Hyundai	Tucson	có	phần	động_cơ_thể_hiện	sức_mạnh	tốt	hơn	với	155	mã_lực	1	2	0	0	0	0	0	0	0	0	0
+14	Động_cơ	với	sức_mạnh	tốt	hơn	cũng	là	điểm	nhấn	mà	thương_hiệu	Hàn_Quốc	mang	lại	0	0	0	0	0	0	0	0	0	0	1	2	0	0
+17	Peugeot	5008	Active	2020	cũng	dùng	động_cơ	tăng	áp	nhưng	sức_mạnh	thấp	hơn	đáng_kể	so	với	đối_thủ	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+24	Động_cơ	1.5	L	trên	Toyota_Avanza	không	khác	với	đối_thủ	nên	sẽ	không	mang	lại	khả_năng	cầm	lái	thích_thú	hay	quá	lanh_lẹ	dành	cho	tài_xế	0	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Nói	về	cảm_giác	lái	của	Honda	CR	-	V	2020	,	mẫu	xe	này	sử_dụng	động_cơ	tăng	áp	tạo	ra	đến	188	mã_lực	hơn	nhiều	đối_thủ	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+29	Ở	chiều	ngược_lại	,	Toyota_Fortuner	2020	dù	sử_dụng	động_cơ	dung_tích	lớn	đến	2.8	L	nhưng	công_suất	xe	ở	mức	177	mã_lực	,	thấp	hơn	khả	nhiều	so	với	đối_thủ	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+17	Trên	thực_tế	,	động_cơ	của	Toyota_Fortuner	2020	không	mang	đến	những	trải	nghiệm	quá	tốt	như	đối_thủ	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3
+21	Theo	công_bố	,	MG	HS	2020	là	một	trong	những	chiếc	xe	an_toàn	nhất	phân	khúc	nhờ	sở_hữu	nhiều	công_nghệ	tiên_tiến	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0
+35	Cũng	tương_tự	đối_thủ	,	Suzuki	Ertiga	Sport	2020	dùng	động_cơ	cũ	mã_hiệu	KB15	,	4	xy	-	lanh	thẳng	hàng	,	dung_tích	1.5	L	cho	công_suất	103	mã_lực	và	mô	-	men	xoắn	138	Nm	0	0	3	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Tương_tự	,	Toyota_Rush	2020	đang	bán	ở	Việt_Nam	dùng	động_cơ	xăng	dung_tích	1.5	L	,	4	xi	-	lanh	cho	công_suất	tối_đa	102	mã_lực	và	mô	men	xoắn	tối_đa	134	Nm	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+30	Không	chỉ	đi	trong	đô_thị	,	xe	còn	có	khả_năng	vận_hành	tốt	ở	nhiều	cung	đường	hơn	với	khoảng	sáng	gầm	đến	200	mm	so	với	180	mm	của	Ertiga	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+29	Tương_tự	đối_thủ	,	Toyota_Rush	hiện_hành	được	trang_bị	khối	động_cơ	xăng	dung_tích	1.5	L	,	4	xy	lanh	cho	công_suất	cực_đại	102	mã_lực	và	mô	men	xoắn	tối_đa	134	Nm	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25	Đồng_thời	,	Kia	Soluto	2020	sử_dụng	khối	động_cơ	nhỏ	,	công_suất	thấp	hơn	nên	những	cú	nước_rút	,	vượt	xe	sẽ	có	phần	thua_kém	đối_thủ	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+22	Nhiều	người	cho	rằng	Kia_Soluto	2019	có	động_cơ	lớn	hơn	cho	công_suất	và	mô	-	men	xoắn	lớn	hơn	Mitsubishi	Attrage	2020	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+15	Kia	Rondo	2020	vượt_trội	hơn	so	với	Mitsubishi	Xpander	2020	về	sức_mạnh	và	khả_năng	vận_hành	1	2	2	0	0	0	0	3	4	4	0	0	0	0	0
+34	So	với	bản	cũ	,	động_cơ	trên	GLC	300	mới	mạnh	hơn	13	mã_lực	,	mô	-	men	xoắn	được	giữ	nguyên	cùng	hộp_số	tự_động	9	cấp	9G	-	Tronic	và	hệ_thống	dẫn_động	4Matic	0	0	3	4	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+32	Ở	phương_diện	động_cơ	,	Mer	GLC	300	4Matic	tiếp_tục	cho	thấy	khả_năng	hoạt_động	tốt	hơn	với	công_suất	nhỉnh	hơn	6	mã_lực	so	với	X3	dù	cùng	là	máy	tăng	áp	2.0	L	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+22	Bằng	việc	tăng	hầu_hết	thông_số	kích_thước	xe	và	hạ	thấp	trọng_tâm	,	Lexus	ES	250	2020	sẽ	có	khả_năng	vận_hành	tốt	hơn	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0
+17	Mẫu	xe	của	Toyota	mang	lại	cảm_giác	tăng_tốc	tốt	hơn	đối_thủ	Hyundai_Accent	vì	sở_hữu	động_cơ	mạnh	hơn	1	2	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0
+22	Như_vậy	,	khối	động_cơ	của	Ford	EcoSport	2020	thể_hiện	sức_mạnh	vận_hành	và	hiệu_suất	tiêu_hao	nhiên_liệu	tốt	hơn	so	với	Honda	Jazz	2020	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+10	Công_suất	động_cơ	xe	Toyota_Hiace	2020	mạnh	hơn	Ford	Transit	2020	0	0	0	1	2	0	0	3	4	4
+23	Nhưng	có_lẽ	,	Hyundai	Elantra	chỉ	Sport	ở	tên	gọi	còn	khả_năng	vận_hành	ở	phân	khúc	này	thì	Honda	Civic	RS	nổi_trội	hơn	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0
+28	Động_cơ	trên	Mazda	3	2020	không	thay_đổi	so	với	bản	cũ	về	các	thông_số	nhưng	hãng	xe	Nhật_Bản	cho	biết	đã	tinh_chỉnh	để	có	khả_năng	vận_hành	hiệu_quả	hơn	0	0	1	2	2	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13	Honda	Civic	RS	2020	có	khả_năng	vận_hành	ấn_tượng	nhất	phân	khúc	hạng	C	1	2	2	2	0	0	0	0	0	3	4	4	4
+23	Nhờ	sở_hữu	một	thân_hình	khoẻ_khoắn	,	không	quá	cồng_kềnh	,	Kia	Sorento	vận_hành	một_cách	tự_tin	,	mạnh_mẽ	,	ăn_đứt	đối_thủ	đến	từ	Nhật_Bản	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	4	4	4
+47	Nhờ	sử_dụng	động_cơ	có	dung_tích	lớn	hơn	,	tạo	ưu_thế	về	cả	công_suất	lẫn	momen	xoắn	,	Kia_Optima	2019	2.0	AT	mang	lại	cảm_giác	lái	bốc	hơn	nhưng	nó	không_thể	tạo	ra	sự	hưng_phấn	mỗi	lần	thốc	ga	đáng	cân_nhắc	như	Toyota_Corolla	Altis	2019	1.8	G	CVT	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4
+20	Nhìn	vào	các	thông_số	trên	,	động_cơ	của	Kia_Rondo	2019	có	vẻ	mạnh_mẽ	và	khả_năng	vận_hành	vượt_trội	so	với	Avanza	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3
+24	Cùng	sử_dụng	động_cơ	dung_tích	2.0	L	,	nhưng	Ford_Tourneo	2019	đang	sở_hữu	những	thông_số	công_suất	và	mô	-	men	xoắn	hơn	hẳn	Toyota_Innova	2019	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+27	Động_cơ	Bi	-	Turbo	với	hộp_số	tự_động	10	cấp	của	Ford_Everest	2019	đang	giúp	mẫu	xe	này	nhỉnh	hơn	CX	-	8	và	công_suất	cũng	lớn	hơn	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0
+25	Ford_Tourneo	2019	dùng	động_cơ	xăng	EcoBoost	2.0	L	cùng	dung_tích	nhưng	công_suất	lớn	hơn	ở	mức	200	mã_lực	và	300	Nm	mô	-	men	xoắn	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19	Xét	về	khả_năng	vận_hành	,	Honda	CR	-	V	2019	tỏ	ra	vượt_trội	hơn	so	với	đối_thủ	cùng	quê	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	3	4	4
+20	Với	khả_năng	vận_hành	mạnh_mẽ	cùng	trang_bị	an_toàn	vượt_trội	,	Fadil	hiện	đang	là	chiếc	xe	được	rất	nhiều	người	săn_đón	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+51	Về	vận_hành	,	Honda	Brio	sử_dụng	động_cơ	1.2	L	SOHC	4	xi_lanh	thẳng	hàng	,	16	van	biến_thiên_i	-	VTEC	,	cho	công_suất	88	mã_lực	,	tức_là	chỉ	mạnh	hơn	một_chút	so	với	động_cơ	Kappa	1.25	L	,	4	xi_lanh	thẳng	hàng	,	16	van	DOHC	,	86	mã_lực	của	Kia_Morning	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+13	CX	-	5	mạnh_mẽ	hơn	về	mặt	vận_hành	và	an_toàn	so	với	Tucson	1	2	2	0	0	0	0	0	0	0	0	0	3
+36	Bên	cạnh	đó	,	do	có	trọng_lượng	nhẹ	hơn	,	công_suất	và	mô	-	men	xoắn	lớn	hơn	nên	Mazda	6	Premium	2.5	2019	sẽ	có	lợi_thế	hơn	về	khả_năng	vận_hành	,	ít_nhất	là	trên	lý_thuyết	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+45	Khi	cả	hai	chạy	ở	chế_độ	lái	Sport	,	phản_ứng	của	động_cơ	Mazda	6	Premium	2.5	2019	có	vẻ	nhanh_nhạy	hơn	một_chút	so	với	Toyota_Camry	2.5	Q	2019	do	công_suất	và	mô	-	men	xoắn	đều	đạt	cực_đại	ở	số	vòng	tua	máy	thấp	hơn	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Với	động_cơ	tăng	áp	mạnh_mẽ	,	cảm_giác	lái	của	Civic	RS	được	đánh_giá	là	mạnh_mẽ	và	bốc	hơn	so	với	phiên_bản	thường	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3	4
+14	Về	cơ_bản	,	động_cơ	của	Traveller	khó	có_thể	mạnh_mẽ	được	như	V	-	Class	0	0	0	0	0	1	0	0	0	0	0	3	4	4
+42	Toyota	quả	không	hổ_danh	là	mẫu	xe	ăn_khách	nhất	phân	khúc	xe	cỡ	D	với	động_cơ	2.5	L	,	4	xy	lanh	,	16	van	DOHC	,	VVT	-	I	kép	,	công_suất	184	mã_lực	,	235	Nm	mô	-	men	xoắn	1	0	0	0	0	0	0	0	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+75	Về	vận_hành	,	Kia_Sedona	lại	"	trên_cơ	"	Traveller	một_chút	khi	sử_dụng	động_cơ	Diesel	,	2.2	L	CRDi	và	Xăng	,	Lambda	3.3	L	MPI	,	công_suất	từ	197	-	266	mã_lực	,	mô	men	xoắn	cực_đại	318	-	440	Nm	,	nhỉnh	hơn	khá	nhiều	so	với	động_cơ	Diesel	2.0	L	4	kì	,	4	xy	lanh	thẳng	hàng	,	tăng	áp	,	công_suất	150	mã_lực	,	mô	-	men	xoắn	370Nm	của	Traveller	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+20	Tuy_nhiên	,	Mitsubishi	Triton	có	phần	nhỉnh	hơn	về	khả_năng	vận_hành	nhờ	vào	dòng	máu	off	-	road	của	Mitsubishi	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+21	Dù	dung_tích	động_cơ	nhỏ	hơn	nhưng	Colorado	lại	có	công_suất	nhỉnh	hơn	Hilux	,	dù	mô	-	men	xoắn	không	bằng	0	0	0	0	0	0	1	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+21	GLC	300	có	công_suất	kém	hơn	đối_thủ	một_chút	khi	lắp_đặt	động_cơ	i4	2.0	L	,	công_suất	245	mã_lực	và	370	Nm	1	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Sức_mạnh	này	thua_kém	1	chút	so	với	Chevrolet_Trailblazer	2019	(	động_cơ	2,5	L	,	công_suất	180	mã_lực	trên	3.600	vòng	/	phút	,	440	Nm	trên	2.000	vòng	/	phút	)	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	Pajero	Sport	vượt_trội	hơn	ở	khả_năng	vận_hành	đỉnh_cao	với	hàng_loạt	những	tính_năng	,	trang_bị	off	-	road	,	vượt	địa_hình	mạnh_mẽ	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18	Xét	về	khả_năng	vận_hành	,	Mitsubishi	Pajero	Sport	được	xem	là	vượt_trội	hơn	so	với	Hyundai	SantaFe	2019	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	3	4	4
+19	SUV	đến	từ	Nhật_Bản	vượt_trội	hơn	về	khả_năng	vận_hành	và	sự	mạnh_mẽ	trong	di_chuyển	trên	các	loại	địa_hình	khó	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	Như_vậy	có_thể	thấy	,	Kia_Cerato	2019	bản	2.0	AT	Premium	sở_hữu	khả_năng	vận_hành	mạnh_mẽ	hơn	hẳn	so	với	bản	1.6	AT	0	0	0	0	1	2	2	2	2	2	0	0	0	0	0	0	0	0	3	4	4
+19	Với	khoảng	sáng	gầm	xe	vượt_trội	,	Pajero_Sport	sẽ	mang	đến	khả_năng	vận_hành	linh_hoạt	hơn	so	với	Peugeot	5008	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	4
+23	Mitsubishi	Pajero_Sport	mang	trên	mình	dòng	máu	off	-	road	danh_tiếng	và	đem	đến	khả_năng	vận_hành	mạnh_mẽ	hơn	so	với	Peugoet	5008	2019	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+27	Mẫu	xe_nước	Mỹ	mang	trên	mình	khối	động_cơ	có	dung_tích	nhỏ	hơn	nhưng	cho	hiệu_suất	vượt_trội	và	sản_sinh	công_suất	cũng	như	mô	men	xoắn	lớn	hơn	hẳn	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+40	Bên	cạnh	đó	,	với	hệ	dẫn_động	4	bánh	toàn	thời_gian	,	phiên_bản	cao_cấp	nhất	của	SantaFe	thế_hệ	mới	sẽ	mang	đến	khả_năng	vận_hành	trên	các	loại	địa_hình	khó	vượt_trội	hơn	so	với	mẫu	SUV	7	chỗ	của	nhà	Peugeot	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4
+30	Tuy_nhiên	,	mẫu	xe_nước	Pháp	tỏ	ra	yếu_thế	hơn	so	với	SUV	Hàn_Quốc	về	mặt	sức_mạnh	của	động_cơ	cũng	như	được	bán	ra	với	một	mức	giá	cao	hơn	đáng_kể	0	0	1	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19	Tuy_nhiên	,	sức_mạnh	lớn	hơn	làm	cho	C300	AMG	có	khả_năng	tiết_kiệm	nhiên_liệu	kém	hơn	người	anh_em	cùng	nhà	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	3	4	4	4
+18	Có_thể	thấy	,	trang_bị_động_cơ	và	khả_năng	vận_hành	của	Ranger	vẫn	mạnh_mẽ	hơn	so	với	phiên_bản	mới	của	Mitsubishi_Triton	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	4	4	4
+31	Mẫu	xe	Đức	lại	kém	mạnh_mẽ	hơn	1	chút	khi	sở_hữu	động_cơ	xăng	1.5	L	4	xy	lanh	Turbocharged	,	công_suất	tối_đa	184	mã_lực	,	300	Nm	mô	-	men	xoắn	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	Theo	đó	,	Toyota_Vios	có	khả_năng	vận_hành	mạnh_mẽ	hơn	so	với	chiếc	hatchback	Suzuki_Swift	0	0	0	1	0	0	0	0	0	0	0	3	4	4
+22	Và	theo	bảng	so_sánh	thông_số	kỹ_thuật	của	2	mẫu	xe	,	hiệu_suất	vận_hành	của	Honda_Jazz	2019	lớn	hơn	Mazda	2	hatchback	2019	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	3	4	4	4
+25	Nếu	chỉ	dựa	trên	các	thông_số	về	động_cơ	cũng	như	hộp_số	,	có_thể	thấy	rõ	sự	vượt_trội	của	Cadillac_Escalade	2019	so	với	Lexus	LX570	2019	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	3	4	4
+15	Như_vậy	,	VinFast	Fadil	có	khả_năng	vận_hành	mạnh_mẽ	hơn	so	với	cựu_vương	phân	khúc	A	0	0	1	2	0	0	0	0	0	0	0	3	4	4	4
+22	Có_thể	thấy	,	Toyota_Vios	G	2019	được	trang_bị_động_cơ	mạnh_mẽ	hơn	so	với	Nissan	Sunny	XV	2019	,	giúp	đạt	khả_năng	vận_hành	cao	0	0	0	1	2	2	0	0	0	0	0	0	3	4	4	4	0	0	0	0	0	0
+32	Tuy	cùng	sở_hữu	khối	động_cơ	có	dung_tích	2.0	L	Turbo	nhưng	"	trái_tim	"	của	Lexus	NX300	lại	sản_sinh	công_suất	thấp	hơn	ở	mức	235	mã_lực	và	mô	men	xoắn	350	Nm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19	Từ	đó	có_thể	thấy	,	Honda	CR	-	V	1.5	L	có	khả_năng	vận_hành	mạnh_mẽ	hơn	so	với	đối_thủ	0	0	0	0	0	1	2	2	2	2	2	0	0	0	0	0	0	0	3
+34	Tuy_nhiên	,	Honda	CR	-	V	1.5	L	có	phần	nhỉnh	hơn	về	khả_năng	vận_hành	khi	sở_hữu	sức_mạnh	mạnh_mẽ	nhất	phân	khúc	và	không_gian	bên	trong	yên_tĩnh	nhờ	vào	tính_năng	chủ_động	kiểm_soát	tiếng	ồn	0	0	1	2	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0
+30	Phía	đối_thủ	Xpander	lại	tỏ	ra	"	nhỉnh	"	hơn	khi	sở_hữu	động_cơ	1.5	L	DOHC	16	van	,	tạo	ra_công_suất	104	mã_lực	và	mô	men	xoắn	cực_đại	141	Nm	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	Nếu	xét	về	yếu_tố	vận_hành	,	có_thể	thấy	Kia	Rondo	vượt_trội	hơn	về	mặt	hiệu_suất	hoạt_động	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0
+31	Tuy	sức_mạnh	động_cơ	kém	hơn	Rondo	GATH	,	nhưng	Xpander	AT	nổi_trội	hơn	đối_thủ	về	khả_năng	leo	lề	nhờ	lợi_thế	gầm	cao	205	mm	so	với	151	mm	của	xe	Hàn	0	0	0	0	0	3	4	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+30	Zotye	Z8	sử_dụng	động_cơ	tăng	áp	khiến	cho	chiếc	xe_tăng_tốc	rất	yếu	và	khi	đánh	lại	dễ	bị	ghì	khiến	chiếc	xe	giảm_tốc_độ	nhiều	hơn	đối_thủ	Mazda	CX	-	5	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+22	Mazda	CX	-	5	nhờ	sở_hữu	động_cơ	hút	khí	tự_nhiên	nên	tất_cả	các	thao_tác	vận_hành	đều	thực_sự	lanh_lẹ	hơn	đối_thủ	rất	nhiều	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+19	Nếu	so_sánh	thông_số	này	có_thể	thấy	Hyundai	Kona	có	sức_mạnh	vận_hành	lớn	hơn	so	với	Honda	HR	-	V	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	4	4	4
+29	Trong	khi	bản	1.6	Turbo	lại	cho	thấy	khả_năng	vượt_trội	hơn	với	công_suất	177	mã_lực	và	265	Nm	nhờ	vào	khối	động_cơ	Gamma	1.6	T	-	GDI	1.6	L	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+29	Tuy_nhiên	,	ở	bản	động_cơ	tăng	áp	1.5	L	4	xi	-	lanh	,	Honda	CR	-	V	đã	giành	chiến_thắng	trước	đối_thủ	khi	cho	sức_mạnh	đến	190	mã_lực	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	3	0	0	0	0	0	0
+16	Các	phiên_bản	Mazda	CX	-	5	cũng	được	trang_bị_động_cơ	này	nhưng	có	mức	công_suất	thấp	hơn	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0
+27	So_sánh	xe	Toyota_Yaris	1.5	G	2018	và	Honda	Jazz	1.5	RS	2018	về	hiệu_suất	vận_hành	có_thể	thấy	Honda	Jazz	1.5	RS	có	công_suất	mạnh_mẽ	hơn	Yaris	mới	0	0	3	4	4	4	0	1	2	2	2	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0
+12	Như_vậy	,	Mazda	3	có	thông_số	vận_hành	thấp	hơn	Ford_Focus	khá	nhiều	0	0	1	2	0	0	0	0	0	3	0	0
+14	Như_vậy	,	xét	theo	công_suất	vận_hành	thì	Kona	vẫn	hơn	hẳn	đối_thủ	từ	Mỹ	0	0	0	0	0	0	0	1	0	0	0	3	4	4
+17	Dù	khá	thua_kém	đối_thủ	ở	nhiều	mặt	nhưng	Hyundai_Solati	lại	là	kẻ	chiến_thắng	khi	đọ	chỉ_số	vận_hành	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0
+18	Như_vậy	,	có_thể	thấy	rằng	Hyundai	Solati	chỉ	có	một	ưu_điểm	thực_sự	nổi_bật	hơn	đối_thủ	là	khả_năng	vận_hành	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	0	0	0
+40	Có_thể	thấy	,	dù	có	dung_tích	động_cơ	nhỏ	hơn	nhưng	Ecosport_lai	cho	công_suất	và	mô	-	men	xoắn	cao	hơn	hẳn	đối_thủ	,	chưa	kể	nhờ	công_nghệ	Ecobosst	nên	mẫu	xe	Mỹ	tiết_kiệm	nhiên_liệu	hơn	rất	nhiều	so	với	đối_thủ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+32	Rất	mạnh	về	thiết_kế	trẻ_trung	cùng	loạt	trang_bị	tiện_nghi	hiện_đại	,	tuy_nhiên	nếu	xét	về	khả_năng	vận_hành	,	Hyundai	Accent	1.4	AT	đặc_biệt	2018	khó_lòng	địch	lại	Honda	City	1.5	TOP	2018	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	3	4	4	4	4
+21	Như_vậy	,	Mazda	2	sử_dụng	động_cơ	1,5	L	nên	công_suất	nhỉnh	hơn	11	mã_lực	so	với	động_cơ	1,4	L	của	Accent	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+40	Xét	về	thông_số	vận_hành	,	Honda	Jazz	2018	vẫn	nhỉnh	hơn	Mazda	2	một_chút	(	12	mã_lực	,	4	Nm	)	nhưng	đáng	tiếc	là	Honda	Jazz	chỉ	có	phanh	tang	trống	sau	,	nếu	đi	lâu	sẽ	hơi	bất_lợi	0	0	0	0	0	1	2	2	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Tổng_kết	,	Mazda	2	có	nhiều	lợi_thế	hơn	đối_thủ	Honda	Jazz	một_chút	nhờ	thiết_kế	đẹp_mắt	,	thời_trang	,	cabin	rộng_rãi	và	động_cơ	đủ	dùng	0	0	1	2	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	Tuy_nhiên	sức_mạnh	động_cơ	của	tân_binh	Chevrolet	Trailblazer	có	phần	vượt_trội	hơn	so	với	Toyota_Fortuner	0	0	0	0	0	1	2	0	0	0	0	0	0	3
+15	Nếu	xét	về	thông_số	vận_hành	,	có_thể	thấy	Chevrolet	Trax	mạnh	hơn	Ford_Ecosport	khá	nhiều	0	0	0	0	0	0	0	0	1	2	0	0	3	0	0
+22	Mazda3	2.0	L	2018	có	ưu_thế	hơn	về	khả_năng	vận_hành	,	khả_năng	tiết_kiệm	nhiên_liệu	và	chi_phí	bảo_dưỡng	mềm	hơn	so	với	đối_thủ	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+18	Chiếc	xe	Honda	rẻ	hơn	,	được	cập_nhật	nhiều	hơn	,	an_toàn	hơn	và	vận_hành	cũng	mạnh_mẽ	hơn	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Tuy_nhiên	với	kết_cấu	khoảng	sáng	khung	gầm	xe	cao	hơn	,	Kia	Morning	S	2018	lại	có	lợi_thế	hơn	về	yếu_tố	vận_hành	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0
+35	Trong	khi	Mazda	CX	-	5	2018	với	động_cơ	2,5	L	cũng	vẫn	cho	công_suất	188	mã_lực	,	điểm	khác_biệt	duy_nhất	là	CX	-	5	có	mô	-	men	xoắn	lớn	hơn	đối_thủ	11	Nm	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+29	Tuy_nhiên	,	nhờ	gầm	xe	thấp	và	động_cơ	kết_hợp	hộp_số	tự_động	5	cấp	,	khả_năng	vận_hành	trên	những	địa_hình	phức_tạp	của	Suzuki	Celerio	được	đánh_giá	cao	hơn	Hyundai	Grand_i10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	3	4
+24	Nhìn	vào	thông_số	trên	có_thể	thấy	i10	hơn	Mirage	10	mã_lực	sức_mạnh	và	20Nm	mô	-	men	xoắn	dù	dùng	động_cơ	dung_tích	ngang	nhau	0	0	0	0	0	0	1	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11	Như_vậy	mẫu	xe	Cerato	đương_nhiên	sẽ	có	khả_năng	vận_hành	mạnh_mẽ	hơn	0	1	2	2	0	0	0	0	0	0	0
+21	Mặc_dù	có	thiết_kế	tương_tự	về	động_cơ	,	nhưng	Sonata	2018	xuất_sắc	hơn	về	khía_cạnh	thiết_kế	,	khả_năng	điều_khiển	và	tiết_kiệm	nhiên_liệu	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0
+22	Nhìn	qua	cũng	thấy	sức_mạnh	của	mẫu	xe	Mỹ	hoàn_toàn	vượt_trội	so	với	sản_phẩm	Nhật	,	dù	dung_tích	động_cơ	bé	hơn	hẳn	0	0	0	0	0	0	1	2	2	0	0	0	0	3	4	0	0	0	0	0	0	0
+17	Nhìn	vào	dung_tích	động_cơ	,	cũng	dễ	hiểu	khi	Mazda	6	có	sức_mạnh	vượt_trội	hơn	hẳn	Camry	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	3
+14	Như_vậy	,	mẫu	xe	Hàn_Quốc	chắc_chắn	sẽ	sở_hữu	khả_năng	vận_hành	mạnh_mẽ	hơn	hẳn	đối_thủ	0	0	1	2	2	0	0	0	0	0	0	0	0	3
+18	Nhờ	lắp_đặt	động_cơ	dung_tích	lớn	,	Kia	Rondo	nhỉnh	hơn	đối_thủ	Nhật_Bản	tới	59	mã_lực	cùng	64	Nm	0	0	0	0	0	0	1	2	0	0	3	4	0	0	0	0	0	0
+46	Hyundai	Elantra	2016	sử_dụng	động_cơ	2.0	lít	,	công_suất	tối_đa	153	mã_lực	tại	6.200	v	/	p	cùng	mô	-	men	xoắn	cực_đại	196	Nm	tại	4.000	v	/	p	,	tức_là	mạnh	hơn	14	mã_lực	và	20Nm	mô	-	men	xoắn	so	với	Cruze	LTZ	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+30	Honda	CR	-	V	2018	tiêu_chuẩn	dành	cho	thị_trường	Mỹ	đi	kèm	với	động_cơ	4	xi_lanh	dung_tích	2,4	lít	cho	184	mã_lực	,	khá	ổn	so	với	việc	lái_xe	thường_ngày	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+62	Cụ_thể	,	Nissan	Navara	EL	lắp_đặt	động_cơ_diesel	2,5	l	nhưng	lại	trang_bị	bộ	tăng	áp	Turbo	VGS	khá	"	nhẹ_tay	"	thay_vì	"	chơi	hẳn	"	dạng	tăng	áp	hạng	nặng	như	phiên_bản	SL	và	VL	,	điều	này	dẫn	đến	việc	EL	kém	hơn	Triton	4x2	AT	một_chút	về	công_suất	,	dù	vớt_vát	là	mô	-	men	xoắn	thì	ngang_ngửa	nhau	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+33	Tuy_nhiên	,	bạn	cũng	cần	biết	rằng	,	Hyundai	Tucson	CKD	có_thể	sẽ	tốt	hơn	khi	xét	đến	"	tính	"	SUV	,	bởi	chiếc	xe	đồ_sộ	,	vận_hành	mạnh_mẽ	và	an_toàn	hơn	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18	Dù	có	dung_tích	động_cơ	thấp	nhưng	Trax	vẫn	có_thể	tự_tin	nhờ	hệ_thống	tăng	áp	độc_nhất	trong	phân	khúc	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	4
+18	Vitara	được	đánh_giá	cao	hơn	nhờ	âm_thanh	động_cơ	cũng	rất	hấp_dẫn	,	nhẹ_nhàng	ban_đầu	và	táo_bạo	sau	đó	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57	Về	hiệu_suất	,	Cerato	ăn	điểm	nhờ	động_cơ	2.0	L	,	công_suất	và	mô	men	xoắn	lần_lượt	vượt	trên	đối_thủ	20	mã_lực	và	18	Nm	,	chưa	kể	mẫu	xe	cũng	có	khả_năng	tiết_kiệm	nhiên_liệu	khá	tốt	,	ở	mức	7	-	7.5	L	/	100km	đường_trường	,	hơn	xa	9	-	10L	/	100km	của	Cruze	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+31	Xét	về	khả_năng	tăng_tốc	từ	0	-	96km	/	h	khi	có	cùng	động_cơ	tiêu_chuẩn	,	Q5	2018	nắm	lợi_thế	hơn	với	công_suất	252	mã_lực	so	với	250	mã_lực	của	XC60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+18	Về	thông_số	vận_hành	,	Nissan	X	-	Trail	sử_dụng	động_cơ	QR25DE	2.5	L	,	cho	công_suất	tương_đương	đối_thủ	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	3
+33	Về	phía	Accord	2018	,	Honda	đã	trang_bị	công_nghệ	tăng	áp	cho	động_cơ	I4	1.5	L	turbocharge	,	đưa	chiếc	xe	tiến	tới	con_số	192	mã_lực	,	thấp	hơn	một_chút	so	với	Camry	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+15	Honda	CR	-	V	có	hai	động_cơ	và	cả	hai	đều	cho	nhiều	sức_mạnh	hơn	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0
+35	Ngược_lại	,	dù	sở_hữu	động_cơ	xăng	V6	3.0	L	dung_tích	nhỏ	hơn	nhưng	Pajero	lại	hơn	hẳn	đối_thủ	đến	20	mã_lực	,	kết_hợp	cùng	hộp_số	tự_động	8	cấp	tạo	cảm_giác	chắc_chắn	khi	off	-	road	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	Về	mặt	tổng_thể	chiếc	Trailblazer	vận_hành	tốt	hơn	chiếc	Pajero_Sport	do	bộ_phận	giảm_xóc	và	độ	đầm	của	xe	được	chú_trọng	hơn	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+20	Nhờ	sử_dụng	động_cơ	dung_tích	3.2	lít	,	Ford	Everest	có	sức_mạnh	lớn	hơn	đối_thủ	tới	34	mã_lực	và	225	Nm	0	0	0	0	0	0	0	1	2	0	0	0	0	3	0	0	0	0	0	0
+41	Trong	đó	,	động_cơ	V6	3.0	L	TFSI	cho	công_suất	333	mã_lực	,	tạo	ra_sức_mạnh	tăng_tốc	từ	0	-	100km	/	h	trong	6,3	giây	,	nhanh	hơn	0,6	giây	so	với	phiên_bản	trước	và	tốc_độ	tối_đa	250	km	/	h	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+41	Tuy_nhiên	động_cơ	V6	3.5	L	mới	chỉ	tạo	ra_sức_mạnh	295	mã_lực	tại	6.300	vòng	/	phút	,	mô	-	men	xoắn	cực_đại	370	Nm	tại	4.600	–	4.700	vòng	/	phút	,	kém	hơn	bản	3.0	L	của	Q7	38	mã_lực	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	0	0
+43	Tuy_nhiên	,	Audi	A3	2017	là	mẫu	xe	lợi_thế	hơn	một_chút	do	có	khả_năng	tăng_tốc	0	-	97km	/	h	nhanh	hơn	vài	phần	mười	giây	và	hộp_số	ly	hợp	kép	6	cấp	cũng	kết_hợp	tổng_thể	tốt	hơn	với	động_cơ	và	hệ	dẫn_động	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11	Nếu	về	mặt	thông_số	vận_hành	thì	Chevrolet_Trax	sẽ	có	lợi_thế	hơn	0	0	0	0	0	0	1	0	0	0	0
+25	Tuy_nhiên	,	tỷ_lệ	sức_mạnh	/	dung_tích	động_cơ	của	Colorado	lại	tốt	hơn	,	đạt	mức	197	/	2.8	so	với	200	/	3.2	của	Ranger	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+20	Nhờ	ứng_dụng	hệ_thống	tăng	áp	mới	nên	động_cơ	EcoBoost	của	Explorer	đã	mạnh	hơn	đối_thủ	109	mã_lực	và	174	Nm	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0	0	0
+20	Với	trang_bị_động_cơ	dung_tích	1.4	lít	,	Ciaz	chỉ	có	sức_mạnh	91	mã_lực	,	thua_kém	đến	27	mã_lực	so	với	Honda_City	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3
+17	Chiếc	xe	vận_hành	tương_đối	ổn_định	và	tiết_kiệm	,	nhỉnh	hơn	đối_thủ	Vios	16	mã_lực	và	10	Nm	0	0	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0
+16	Nissan	Sunny	cuối_cùng	cũng	có	điểm	hơn	đối_thủ	Ciaz	nhờ	công_suất	và	khả_năng	vận_hành	lớn	hơn	1	2	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+28	Dù	là	dạng	SUV	7	chỗ	nhưng	Hyundai	SantaFe	lại	chỉ	lắp_đặt	động_cơ	2,2	L	,	kém	hơn	hẳn	dạng	2.5	L	của	Mazda	CX	-	5	2016	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+28	Nhìn_chung	,	nếu	xét	về	mặt	thông_số	thì	rõ_ràng	Mazda6	có	khả_năng	vận_hành	mạnh_mẽ	hơn	,	chênh_lệch	so	với	mẫu	xe	Hàn	9	mã_lực	và	22	Nm	sức_kéo	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0
+13	Khi	về	khả_năng	vận_hành	thì	Aveo	rõ_ràng	có	lợi_thế	hơn	về	mặt	thông_số	0	0	0	0	0	1	0	0	0	0	0	0	0
+18	Nếu	chỉ	nhìn	vào	bảng	thông_số	vận_hành	,	có_thể	thấy	Chevrolet	Captiva	Revv	mạnh	hơn	đối_thủ	4	mã_lực	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	3	0	0
+32	Mẫu	sedan	đến	từ	Đức	được	trang_bị_động_cơ	xăng	tăng	áp	TSI	,	sản_sinh	công_suất	tối_đa	177	mã_lực	và	mô	men	xoắn	cực_đại	250	,	thấp	hơn	chỉ	1	mã_lực	so	với	Camry	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+36	Xe	sử_dụng	động_cơ	2,4	lít	bốn	xi	-	lanh	sản_sinh	công_suất	185	mã_lực	và	mô	-	men	xoắn	245	Nm	,	thấp	hơn	1	chút	so	với	động_cơ	2.5	L	2WD	của	Mazda	CX	-	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4
+13	Dù	được	định_vị	thấp	hơn	nhưng	i10	lại	giành	ưu_thế	về	khả_năng	vận_hành	0	0	0	0	0	0	1	0	0	0	0	0	0
+30	Chưa	kể	,	nhờ	bán_kính	vòng	quay	nhỏ	hơn	đối_thủ	0.4	m	nên	K3	cũng	vượt	mặt	Civic	hơn	khi	vận_hành	ở	các	khu_vực	nhỏ	hẹp	,	cần	quay	đầu	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+24	Về	khả_năng	vận_hành	,	dù	cùng	sử_dụng	động_cơ	dung_tích	2.0	lít	nhưng	K3	lại	có	công_suất	nhỉnh	hơn	Civic	khoảng	6	mã_lực	và	4Nm	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0
+36	Thực_tế	,	khi	nhìn	vào	bảng_số_liệu	động_cơ	của	2	xe	cũng	có_thể	thấy	rằng	Kia	Carens	thực_sự	là	người	chiến_thắng	,	chiếc	xe	hơn	đối_thủ	9	mã_lực	sức_mạnh	và	mô	-	men	xoắn	cũng	hơn	7Nm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+15	Nếu	chỉ	xét	trên	các	thông_số	vận_hành	thì	Ford_Focus	sẽ	yếu_thế	hẳn	so	với	Civic	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3
+28	Bởi	lẽ	Mazda	BT	-	50	2016	có	lợi_thế	khá	rõ_ràng	nhờ	sở_hữu	động_cơ_diesel	công_suất	mạnh	hơn	tới	39	mã_lực	cùng	mô	-	men	xoắn	cực_đại	hơn	110Nm	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20	Với	hộp_số_ít	cấp	hơn	nên	dù	vận_hành	khá	mượt	,	Triton	vẫn	“	lép_vế	”	hơn	về	khả_năng	vận_hành	êm_ái	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+12	Nissan	sở_hữu	thông_số	kỹ_thuật	vượt_trội	hơn	với	chế_độ	kiểm_soát	vòng	quay	động_cơ	1	0	0	0	0	0	0	0	0	0	0	0
+33	Nếu	Nissan	NP300	Navara	VL	2015	ghi_điểm	nhờ	khả_năng	vận_hành	mạnh_mẽ	,	trang_bị	an_toàn	khá	đầy_đủ	thì	Mitsubishi	Triton	4x4	AT	2015	lại	vượt_trội	hơn	về	tính_năng	vận_hành	trơn	mượt	và	tiết_kiệm	nhiên_liệu	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0
+41	Nếu	xét	về	phần_cứng	,	Sedona	GATH	sẽ	đem	tới	khả_năng	vận_hành	mạnh_mẽ	hơn	nhờ	động_cơ	V6	dung_tích	3.3	L	,	công_suất	và	mô	-	men	xoắn	nhiều	hơn	so	với	khối	động_cơ	4	xilanh	thẳng	hàng	2.4	L	của	Odyssey	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+37	Động_cơ	1.6	L	Duratec	16	van	của	Focus	2016	mạnh	hơn	13	mã_lực	và	15	Nm	so	với	động_cơ	Skyactiv	1.5	L	,	4	xi_lanh	thẳng	hàng	,	16	van	DOHC	của	Mazda	3	1.5	L	2015	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+47	Mặc_dù	cả	Hyundai	và	Honda	đều	trang_bị	cho	sản_phẩm	của	mình	hộp_số	CVT	nhưng	do	động_cơ	của	Honda	City	2016	có	dung_tích	xi_lanh	lớn	hơn	cùng	việc	kết_hợp	với	công_nghệ	i	-	VTEC	nên	Honda	City	2016	có	công_suất	và	mức	mô	-	men	xoắn	lớn	hơn	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0
+28	Do	sử_dụng	động_cơ	có	dung_tích	lớn	hơn	và	công_suất	cũng	lớn	hơn	nên	Hyundai	Santa	Fe	đem	lại	cảm_giác	mạnh_mẽ	hơn	nhiều	so	với	Mazda	CX	-	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	4	4	4
+12	Nếu	so	về	dung_tích	xylanh	thì	động_cơ	của	Peugeot	508	nhỏ	hơn	0	0	0	0	0	0	0	0	1	2	0	0
+22	Thậm_chí	,	động_cơ	của	Peugeot	508	2015	còn	có	mô	-	mem	xoắn	cao	hơn	so	với	động_cơ	của	Camry	2.5	Q	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+37	Vios	sử_dụng	động_cơ	VVT	-	i	1.5	L	sản_sinh	công_suất	107	mã_lực	,	mô	-	men	xoắn	cực_đại	141	Nm	,	thấp	hơn	nhiều	so	với	sức_mạnh	139	mã_lực	,	momen	xoắn	cực_đại	176	Nm	của	Cruze	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+22	Toyota_Vios	E	MT	(	3	túi	khí	)	sở_hữu	động_cơ	xăng	1.5	L	mạnh_mẽ	hơn	đáng_kể	so	với	Kia	Soluto	MT	Deluxe	1	2	2	2	2	2	2	2	0	0	0	0	0	0	0	0	0	0	3	4	4	4
+21	Với	động_cơ	mạnh_mẽ	hơn	,	không	khó	hiểu	khi	Kia	Seltos	2021	sẽ	tốn	xăng	hơn	so	với	Ford	EcoSport	2021	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	3	4	4
+18	Nhờ	trang_bị	công_nghệ	eVGT	nên	mặc_dù	có_thể_tích	nhỏ	hơn	thì	sức_mạnh	động_cơ_diesel	của	Santa	Fe	lớn	hơn	Pajero_Sport	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	3
+42	Toyota_Hilux	2021	được	trang_bị	khối	động_cơ	dầu	Diesel	1GD	-	FTV	,	4	xi_lanh	thẳng	hàng	cho	công_suất	201	mã_lực	(	tăng	27	mã_lực	)	và	mô	-	men	xoắn	500	Nm	(	tăng	50	Nm	)	so	với	bản	cũ	trước_đây	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+40	Trong	khi	đó	,	Fadil	sở_hữu	khối	động_cơ	thuộc	hàng	mạnh	nhất	phân	khúc	với	dung_tích	1.4	L	,	sản_sinh	công_suất	98	mã_lực	tại	6.200	vòng	/	phút	,	mô	men	xoắn	cực_đại	128	Nm	tại	4.400	vòng	/	phút	0	0	0	0	1	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+17	Ford	EcoSport	1.5	L	AT	Trend	vượt_trội	hơn	khá	nhiều	so	với	Suzuki	XL7	ở	khả_năng	vận_hành	1	2	2	2	2	2	0	0	0	0	0	0	3	4	0	0	0
+23	Trong	khi	đó	công_nghệ	động_cơ	tăng	áp	giúp	Toyota_Raize	sớm	đạt	mô	-	men	xoắn	tối_đa	ở	vòng	tua	thấp	so	với	Kia_Sonet	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+25	Về	sức_mạnh	vận_hành	,	Hyundai_Accent	trang_bị_động_cơ	1.4	L	cho	sức_mạnh	100	mã_lực	,	lớn	hơn	nhiều	so	với	con_số	79	mã_lực	trên	Attrage	1.2	L	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+13	Về	vận_hành	,	Pajero	Sport	mới	hoàn_toàn	vượt_trội	so	với	mẫu	xe	đồng_hương	0	0	0	1	2	0	0	0	0	0	3	4	4
+21	Dù	có	cùng	dung_tích	nhưng	động_cơ_diesel	trên	mẫu	SUV	nhà	Mitsubishi	cho	ra	mức	công_suất	và	moment	xoắn	tốt	hơn	hẳn	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0
+17	Kết_hợp	với	khung	gầm	mới	,	Santa	Fe	2021	cho	khả_năng	vận_hành	đầm	chắc	hơn	bản	tiền_nhiệm	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	3	4
+44	Một	trong	những	ưu_điểm	lớn	nhất	của	dòng	xe	NEW	Mitsubishi	Triton	4x4	AT	MIVEC	Premium	là	động_cơ	2.4	L	MIVEC	công_suất	lên	tới	179	mã_lực	và	mô	men	xoắn	cực_đại	là	430Nm	,	tăng	3	mã	và	30Nm	so	với	những	người	tiền_nhiệm	0	0	0	0	0	0	0	0	0	1	2	2	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+46	VinFast	Fadil	2021	là	mẫu	xe	mạnh	nhất	phân	khúc	hatchback	hạng	A	với	động_cơ	xăng	I	-	4	,	dung_tích	1.4	L	cho	công_suất	cực_đại	98	mã_lực	tại	6.200	vòng	/	phút	và	mô	-	men	xoắn	cực_đại	128	Nm	tại	4.400	vòng	/	phút	1	2	2	0	0	0	0	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Về	vận_hành	,	Mazda	CX	-	5	2.0	Deluxe	hoàn_toàn	vượt_trội	so	với	Toyota_Corolla	Cross	1.8	V	với	công_suất	lớn	hơn	đến	16	hp	0	0	0	1	2	2	2	2	2	0	0	0	0	3	4	4	4	0	0	0	0	0	0	0
+14	Tuy_nhiên	Toyota_Vios	1.5	G	CVT	vẫn	sở_hữu	khả_năng	vận_hành	tiết_kiệm	và	tinh_tế	hơn	hẳn	0	1	2	2	2	0	0	0	0	0	0	0	0	0
+31	Với	những	thông_số	như	trên	thì	chúng_ta	cũng	dễ_dàng	nhận	ra	khả_năng	vận_hành	của	VinFast	LUX	A	base	2021	mạnh_mẽ	và	chiếm	ưu_thế	hơn	hẳn	so	với	Toyota_Camry	2.0	G	2021	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	3	4	4	4
+49	Xét	về	khả_năng	vận_hành	,	mẫu	xe	nhỏ	đến	từ	Nhật	là	Honda	Brio	G	chiếm	lợi_thế	hơn	khi	không	chỉ	được	trang_bị_động_cơ	mạnh_mẽ	hơn	,	mà	còn	được	trang_bị	hộp_số	vô	cấp	CVT	,	mang	lại	cảm_giác	lái	thú_vị	hơn	so	với	hộp_số	tự_động	4	cấp	trên	i10	0	0	0	0	0	1	2	2	2	2	2	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15	Vinfast	LUX	A2	.	0	Premium	vượt_trội	hơn	hẳn	Camry	2.5	Q	ở	khả_năng	vận_hành	1	2	2	2	2	2	0	0	0	3	4	4	0	0	0
+17	Honda	CR	-	V	được	trang_bị_động_cơ	xăng	tăng	áp	hiện_đại	,	cho	sức_mạnh	mã_lực	lớn	hơn	Tucson	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+27	Cụ_thể	,	động_cơ	1.5	L	trên	Mazda	2	2020	cho	mức	công_suất	và	mô	men	xoắn	tốt	hơn	đáng_kể	so	với	động_cơ	Kappa	1.4	L	trên	Accent	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+32	Không	chỉ	mạnh	hơn	,	động_cơ	Skyactiv	-	G	trên	Mazda	2	cũng	được	tối_ưu	tốt	hơn	Accent	với	mức	tiêu_thụ	nhiên_liệu	hỗn_hợp	tốt	hơn	(	số_liệu	theo	công_bố	từ	hãng	)	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+36	Sức_mạnh	công_suất	đạt	được	trên	Hyundai	SantaFe	bản	máy	xăng	cao_cấp	là	lớn	hơn	so	với	Peugeot	5008	do	xe	trang_bị_động_cơ	có	dung_tích	lớn	hơn	,	đáp_ứng	linh_hoạt	nhu_cầu	đi_lại	trong	phố	thị	và	cả	đường_trường	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Cụ_thể	,	động_cơ	1.5	L	trên	Vios	cho	mức	công_suất	và	mô	men	xoắn	tốt	hơn	so	với	động_cơ	Kappa	1.4	L	trên	Accent	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+24	Không	chỉ	mạnh	hơn	,	động_cơ	trên	Vios	cũng	được	tối_ưu	tốt	hơn	Accent	với	mức	tiêu_thụ	nhiên_liệu	tốt	hơn	,	dù	không	đáng_kể	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0
+33	Là	phiên_bản	thể_thao	,	Elantra	1.6	T	mạnh_mẽ	hơn	nhờ	được	trang_bị_động_cơ	Turbo	,	cho	công_suất	vượt_trội	hơn	hẳn	với	204	mã_lực	và	265	Nm	,	đi	kèm	là	hộp_số	tự_động	7	cấp	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20	Về	vận_hành	,	Fadil	với	động_cơ	vượt	tầm	phân	khúc	chiếm	ưu_thế	hoàn_toàn	so	với	động_cơ	1.2	truyền_thống	của	i10	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+23	Động_cơ	1.4	L	kết_hợp	với	hộp_số	vô	cấp	CVT	mang	đến	cho	Fadil	khả_năng	vận_hành	êm_ái	,	nhàn_nhã	và	linh_hoạt	hơn	đối_thủ	Hàn_Quốc	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	4
+29	Với	kiểu	định_giá	lưng_chừng	giữa	2	phân	khúc	A	và	B	,	Suzuki	Swift	sở_hữu	nền_tảng	động_cơ	thấp	nhất	trong	số	các	mẫu	xe	ở	phân	khúc	hạng	B	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	4	4	4	4	4	4	4
+14	Mazda	CX	-	5	bản	cao_cấp	nhất	trang_bị_động_cơ	2.5	L	cho	công_suất	mạnh	hơn	1	2	2	2	2	2	2	0	0	0	0	0	0	0
+27	Việc	được	trang_bị	loại	động_cơ	có	dung_tích	1.4	L	trên	Soluto	giúp	cho	xe	có	công_suất	và	mô	-	men	xoắn	vượt_trội	hơn	hẳn	so	với	Attrage	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+22	Đều	trang_bị_động_cơ	dung_tích	2.0	L	nhưng	sức_mạnh	mã_lực	mà	Hyundai	Tucson	đạt	được	lớn	hơn	đáng_kể	so	với	Nissan	X	-	Trail	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	4	4	4
+28	Cùng	sử_dụng	động_cơ	xăng	với	công_nghệ	tăng	áp	,	tuy_nhiên	với	dung_tích	lớn	hơn	nên	động_cơ	trên	Hyundai	Kona	cho	sức_mạnh	vượt_trội	hơn	50	mã_lực	và	95	Nm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0
+39	Về	mặt	trang_bị_động_cơ	thì	Honda	Accord	vượt_trội	hơn	khi	được	trang_bị_động_cơ	tăng	áp	1.5	L	,	có	dung_tích	nhỏ	hơn	,	đỡ	hao	xăng	hơn	nhưng	lại	mạnh_mẽ	hơn	3	mã_lực	và	10	Nm	so	với	Mazda6	2.5	L_Premium	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+8	Như_vậy	Honda	Brio	có	động_cơ	mạnh_mẽ	hơn	i10	0	1	2	0	0	0	0	3
+22	Trang_bị_động_cơ	nhỏ	hơn	nhưng	Vinfast	LUX	SA2	.	0	cho	công_suất	mạnh	hơn	Fortuner	2.8	V	4x4	tới	54	mã_lực	và	10Nm	0	0	0	0	1	2	2	2	2	0	0	0	0	3	4	4	4	0	0	0	0	0
+17	Về	mặt	vận_hành	,	Mercedes	GLS	2020	sở_hữu	khối	động_cơ	có	sức_mạnh	nhỉnh	hơn	đối_thủ	BMW	X7	0	0	0	0	1	2	2	0	0	0	0	0	0	0	3	4	4
+30	Đều	trang_bị_động_cơ	2.0	L	Turbo	nhưng	sức_mạnh	mà	mẫu	SUV	Việt_đạt	được	là	ấn_tượng	hơn	với	228	mã_lực	,	mạnh	hơn	15	mã_lực	so	với	mẫu	SUV	đến	từ	Mỹ	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+18	Về	phần	trang_bị_động_cơ	,	Honda	Civic	RS	được	đánh_giá	cao	hơn	Mazda3	khi	trang_bị_động_cơ	tăng	áp	1.5	L	0	0	0	0	1	2	2	0	0	0	0	3	0	0	0	0	0	0
+15	Civic	RS	được	đánh_giá	cao	bởi	sức_mạnh	vận_hành	nhờ	động_cơ	tăng	áp	hiện_đại	hơn	Mazda3	1	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+31	Tại	Thái_Lan	Nissan	X	-	Trail	2019	có	2	phiên_bản	động_cơ	bao_gồm	:	2.5	L	cho	công_suất	171hp	và	mômen	xoắn	cực_đại	233Nm	mạnh	hơn	2	mã_lực	so	với	đời	trước	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+42	Hyundai	Tucson	2.0	L	diesel	đặc_biệt	trang_bị_động_cơ	dầu	dung_tích	2.0	L	,	áp_dụng	công_nghệ	van	biến_thiên	điều_khiển	điện_tử	e	-	VGT	và	hệ_thống	phun	nhiên_liệu	trực_tiếp	CRDi	,	cho	khả_năng	vận_hành	mạnh_mẽ	hơn	hẳn	so	với	Mazda	CX	-	5	2.0	L_Luxury	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	0	0
+44	Trang_bị_động_cơ	trên	Kona	vượt_trội	hơn	với	loại	1.6	L	công_nghệ	tăng	áp	,	sản_sinh	công_suất	175	mã_lực	tại	5.500	v	/	p	và	mô	-	men	-	xoắn	256Nm	,	mang	lại	khả_năng	tiết_kiệm	nhiên_liệu	tốt	hơn	và	vận_hành	mạnh_mẽ	trên	nhiều	cung	đường	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18	Sở_hữu	động_cơ	dung_tích	cao	hơn	hiển_nhiên	Mazda	6	có	phần	thắng_thế	về	sức_mạnh	so	với	động_cơ	trên	Camry	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3
+20	Tuy_nhiên	,	dù	nếu	so_sánh	với	bản	động_cơ	2.5	L	của	Camry	thì	Mazda	6	vẫn	có	phần	trội	hơn	0	0	0	0	0	0	3	4	4	4	4	4	0	1	2	0	0	0	0	0
+17	Hyundai_Accent	trang_bị_động_cơ	nhỏ	hơn	,	công_suất	thấp	hơn	nhưng	đối	lại	,	khả_năng	tiêu_hao	nhiên_liệu	tiết_kiệm	hơn	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+36	Mức	công_suất	trên	thua_kém	khá	nhiều	so	với	Honda	City	2018	,	do	đó	Hyundai	Accent	2018	vận_hành	ở	mức	khá	,	chỉ_thực_sự	thua_kém	khi	đi	trên	những	cung	đường_trường	yêu_cầu	nhiều	về	tốc_độ	và	gia_tốc	0	0	0	0	0	0	0	0	3	4	4	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+35	Có_thể	thấy	với	khối	động_cơ	tăng	áp	Ecosport	cho	sức_mạnh	vượt_trội	hơn	tại	tua	máy	tương_đương	,	cùng	với	đó	khả_năng	tiết_kiệm	nhiên_liệu	của	Ecosport	cũng	nhỉnh	hơn	với	con_số	tầm	5,4	lít	/	100km	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+20	Động_cơ	này	có	mức	công_suất	107	mã_lực	tại	6000	vòng	/	phút	,	kém	hơn	so	với	Ford	Ecosport	2018	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+15	Có_thể	nói	,	về	khả_năng	vận_hành	Chevrolet	Trax	mạnh_mẽ	vượt_trội	hơn	so	với	đối_thủ	Ford_Ecosport	0	0	0	0	0	0	1	2	0	0	0	0	0	3	4
+23	Động_cơ	xăng	V6	3.0	L	hơn	hẵn	đối_thủ	đến	20	mã_lực	,	khiến	Pajero	Sport	không	chỉ	vận_hành	mạnh_mẽ	mà	còn	vô_cùng	nuột_nà	0	0	0	0	0	0	0	3	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0
+23	Với	trang_bị_động_cơ	dung_tích	lớn	hơn	hẳn	,	khá	dễ	hiểu	khi	Kia	Rondo	vượt_trội	hơn	với	chênh_lệch	59	mã_lực	cùng	64	Nm	sức_kéo	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0
+29	Tuy_nhiên	,	điểm	“	ăn_khách	”	của	Cerato	chính	là	động_cơ	2.0	L	hơn	hẳn	đối_thủ	về	công_suất	và	mô	men	xoắn	lần_lượt	là	20	mã_lực	và	18	Nm	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+35	Sử_dụng	khối	động_cơ	1.5	L	,	Honda	City	nhỉnh	hơn	đối_thủ	101	phân_khối	,	12	mã_lực	và	10	Nm	nên	hiển_nhiên	khả_năng	“	vọt	ga	”	của	City	tốt	hơn	Rio	là	điều	không_thể	bàn_cãi	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	3	0	0	0	0
+43	Với	lợi_thế	về	dung_tích	,	động_cơ	2NR	-	FE	của	Toyota	cho	thông_số	hiệu_năng	tốt	hơn	bốn	xilanh	từ	K14B	,	xét	xa	hơn	thì	các	thông_số	này	đều	ở	mức	khá	tốt	và	đã	được	cải_thiện	hơn	so	với	người	tiền_nhiệm	trước_đây	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+47	Ở	phân	khúc	bán	tải	hiện_nay	,	có_lẽ	khó	có	đối_thủ	nào	qua_mặt	được	High	Country	về	khoảng	sức_mạnh	nhờ	việc	Chevrolet	mang	đến	động_cơ	Duramax	áp_dụng	công_nghệ	turbocharger	biến_thiên	,	cung_cấp	công_suất	và	mô	-	men	xoắn	“	khủng	”	:	197	mã_lực	và	500	Nm	0	3	4	4	4	4	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+47	Đấu_sĩ	Nhật_Bản	không	chịu_thua_kém	với	khả_năng	vận_hành	linh_hoạt	ở	nhiều	điều_kiện	đường_xá	khác	nhau	,	ở	thành_phố	,	cao_tốc	hay	off	-	road	nhờ	vô	-	lăng	trợ_lực	nhẹ_nhàng	,	bán_kính	quay_vòng	5,9	m	(	nhỏ	nhất	phân	khúc	)	và	bốn	chế_độ	gài	cầu	khác	nhau	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0
+23	Trải	nghiệm	thực_tế	cũng	phản_ánh	điều	đó	khi	Navara	vượt	qua	những	cung	đường	lầy_lội	mạnh_mẽ	và	ít	khó_khăn	hơn	so	với	Triton	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+17	Về	mặt	thông_số	kỹ_thuật	,	Navara	vượt_trội	nhờ	trợ_lực	lái	thủy_lực	với	chế_độ	kiểm_soát	vòng	quay	động_cơ	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+24	Hyundai	SantaFe	đem	lại	cảm_giác	mạnh_mẽ	hơn	do	dung_tích	động_cơ	lớn	hơn	và	công_suất	cũng	tốt	hơn	nhiều	so	với	Mazda	CX	-	5	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4
+37	Như_vậy	là	về	sức_mạnh	động_cơ	,	Mazda	3	đã	bị	Focus	bỏ	lại	phía	sau	khi	công_suất	cực_đại	chỉ	dừng	lại	ở	con_số	155	mã_lực	,	khá	chênh_lệch	so	với	con_số	170	mã_lực	của	chiến_binh	nước	Mỹ	0	0	0	0	0	0	1	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	Động_cơ	của	Everest	có	công_suất	cao	hơn	và	mô	-	men	xoắn	cực_đại	cũng	cáo	và	đạt	được	tại	vòng	tua	sớm	hơn	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Honda	Civic	Type	R	2015	được	trang_bị_động_cơ	Turbo	VTEC	2.0	lít	,	cho	công_suất	306	mã_lực	,	mạnh	hơn	so	với	các	phiên_bản	cũ	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+32	Không	chịu	kém_cạnh	,	Toyota_Vios	GR	-	S	2021	cũng	xuất_hiện	để	khiến	đối_thủ	không	"	cô_đơn	"	với	diện_mạo	bớt	lành_tính	và	trở_nên	"	ngầu	"	hơn	theo	một_cách	rất	riêng	0	0	0	0	1	2	2	2	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+32	Tuy_nhiên	,	bước	sang	bản	facelift	,	Toyota_Vios	GR	-	S	2021	cho	thấy	sự	thay_đổi	để	bắt	kịp	xu_hướng	tương_tự	Honda	City	RS	đã	làm	với	thiết_kế	thể_thao	,	phóng_khoáng	hơn	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0
+22	Khi	đặt	cạnh	nhau	,	Honda	City	RS	2021	vượt_trội	hơn	nhờ	sở_hữu	thông_số	kích_thước	lớn	hơn	đối_thủ	Toyota_Vios	GR	-	S	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	3	4	4	4
+21	Ở	phần	đuôi	,	Honda	City	RS	sở_hữu	cụm	đèn	hậu	góc_cạnh	hơn	vẻ	hiền_lành	của	Toyota_Vios	GR	-	S	2021	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+24	Là	thế_hệ	mới	nên	Honda	City	RS	có	khoang	nội_thất	thay_đổi	gần	như	hoàn_toàn	so	với	"	người	tiền_nhiệm	"	theo	xu_hướng	hiện_đại	hơn	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0
+35	Rõ_ràng	,	vô	-	lăng	trên	Honda	City	RS	hơn	hẳn	đối_thủ	với	thiết_kế	dạng	vát	đáy	,	còn	Toyota_Vios	GR	-	S	không	khác_biệt	so	với	bản	thường	ngoại_trừ	đường	chỉ	khâu	màu	đỏ	0	0	0	0	0	0	1	2	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	Với	chiều	dài	trục	cơ_sở	lớn	,	Honda	City	RS	2021	là	chiếc	xe	mang	đến	không_gian	nội_thất	rộng_rãi	nhất	cho	người	dùng	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+32	Nhìn	vào	những	thông_số	kích_thước	trên	,	VinFast	Lux	SA2	.	0	đang	nhỉnh	hơn	Kia	Sorento	về	mọi	chỉ_số	,	điều	này	giúp	xe	vạm_vỡ	hơn	khi	nhìn	từ	phần	thân	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Dáng_vẻ	bệ_vệ	được	thể_hiện	rõ	ở	phía	sau	đuôi	xe	VinFast	Lux	SA2	.	0	nhờ	thông_số	kích_thước	chiều	cao	và	rộng	đều	lớn	hơn	đối_thủ	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	3
+21	Tuy_nhiên	,	với	đội_ngũ	so_sánh	xe	chúng_tôi	,	thiết_kế	màn_hình	xe	cần	thay_đổi	bởi	nó	không	thực_sự	ấn_tượng	như	nhiều	đối_thủ	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	3	4
+24	Về	trải	nghiệm	hàng	ghế	thứ	3	,	theo	cảm_nhận	của	chúng_tôi	,	Kia	Sorento	có	phần	rộng_rãi	hơn	VinFast	Lux	SA2	.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	3	4	4	4	4
+28	Xét	về	thông_số	kích_thước	,	Toyota_Corolla	Cross	rỏ	ra	hoàn_toàn	vượt_trội	so	với	đối_thủ	và	nhìn	từ	thân	,	chiếc	xe	đến	từ	Nhật_Bản	cũng	bề_thế	hơn	rõ_rệt	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Bên	phía	đối_diện	,	thay_vì	nét	bo	tròn	ở	đầu	xe	,	đuôi	xe	của	Toyota_Corolla	Cross	1.8	V	2021	có	phần	góc_cạnh	và	cứng_cáp	hơn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0
+25	Cụm	đèn	hậu	LED	3D	nổi	khổi	mang	đến	sự	nhận_diện	tốt	,	nhưng	đội_ngũ	cảm_thấy	thiết_kế	này	vẫn	khá	đơn_điệu	so	với	Peugeot	2008	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+23	Khi	đặt	cạnh	nhau	,	rõ_ràng	Mitsubishi	Xpander	2021	chiếm	ưu_thế	hơn	đối_thủ_nhờ	ngôn_ngữ	thiết_kế	mới	đầy	táo_bạo	,	hướng	đến	khách_hàng	trẻ	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+34	Xét	về	thông_số	kích_thước	,	Toyota_Innova	tỏ	ra	vượt_trội	hơn	hẳn	đối_thủ	,	duy	chỉ	chiều	dài	trục	cơ_sở	của	xe	ngắn	hơn	,	điều	này	sẽ	ảnh_hưởng	lớn	đến	khoang	nội_thất	bên	trong	0	0	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6	Gương	xe	bọc	crom	tương_tự	đối_thủ	0	0	0	0	0	3
+17	Toyota_Innova	2.0	G	2021	mới	nâng_cấp	không	thay_đổi	thiết_kế	so	với	bản	cũ	đã	bán	ở	Việt_Nam	1	2	2	2	2	2	0	0	0	0	0	3	4	0	0	0	0
+20	Thế	nhưng	,	Mitsubishi_Xpander	lại	có	trọng_lượng	nhẹ	hơn	Innova	nên	khả_năng	vận_hành	cũng	không	phải	là	điều	quá	lo_ngại	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0
+24	Tuy_nhiên	,	mâm	xe	không	ảnh_hưởng	quá	nhiều	bởi	dù_sao	chiếc	xe	đến	từ	Nhật_Bản	vẫn	có	khoảng	sáng	gầm	xe	tốt	hơn	Seltos	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	3
+22	Suzuki	XL7	2020	tương_tự	có	phần	trần	xe	sơn	đen	và	gương	chiếu	hậu	tích_hợp	dải	LED	xi	-	nhan	giống_hệt	đối_thủ	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+19	Cụm	đèn	hậu	của	chiếc	xe	này	dù	dùng	bóng	LED	nhưng	thiết_kế	vẫn	tương_đối	đơn_điệu	và	giống_hệt	Suzuki_Ertiga	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	3
+27	Nhìn_chung	,	ngoại_hình	của	Kia	Seltos	đang	cho	thấy	sự	trẻ_trung	hơn	đối_thủ	,	nhưng	công_nghệ	đèn_pha	LED	đang	là	điểm	nhấn	của	Suzuki	XL7	tại	Việt_Nam	0	0	0	0	1	2	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+17	Khi	đặt	cạnh	nhau	,	rõ_ràng	Hyundai	Tucson	đang	chiếm	lợi_thế	nhờ	kích_thước	lớn	hơn	đối_thủ	Baic_X55	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	4
+21	Tuy_nhiên	,	khi	nhìn	vào	những	thông_số	kích	thức	cụ_thể	,	mẫu	xe	đến	từ	Trung_Quốc	cũng	không	thua_thiệt_hơn	quá	nhiều	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0
+30	Bên	phía	đối_diện	,	Hyundai_Tucson	bản	mới	thay_đổi	với	"	bộ	móng	"	tạo_hình	mới_mẻ	hơn	,	kích_thước	mâm	18	inch	hợp_kim	đa	chấu	được	giữ	nguyên	như	bản	cũ	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+19	Đáng	tiếc	,	bộ	mâm	xe	kích_thước	nhỏ	chỉ	14	inch	thua_thiệt	so	với	các	đối_thủ	cùng	phân	khúc	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	4	4	4	4
+30	Đặc_biệt	,	đường	gân	nổi	của	City	rõ	nét	hơn	khá	nhiều	so	với	đối_thủ	và	đặt	ngay	trên	tay	nắm	cửa	giúp	gia_tăng	hiệu_ứng	chiều	cao	cho	người	nhìn	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+40	Khi	đặt	nội_thất	2	mẫu	xe	này	cạnh	nhau	,	rõ_ràng	Kia	Soluto	đang	thua_thiệt_hơn	khá	nhiều	với	không_gian	tương_đối	nghèo_nàn	,	các	chi_tiết	hoàn_thiện	của	mẫu	xe	này	đậm	chất	bình_dân	với	nhựa	cứng	,	điều	hòa_cơ	khá	thô	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+38	Không_gian	ghế_ngồi	của	City	cũng	"	ăn_đứt	"	đối_thủ	với	sự	rộng_rãi	nhất	phân	khúc	sedan	hạng	B	,	bệ	tỳ	tay	và	cửa	gió	điều	hòa	cho	hành_khách	phía	sau	cũng	là	điểm	khác_biệt	của	City	đời_mới	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+14	Xét	về	tính	thẩm_mỹ	,	màn_hình	xe	City	cũng	được	thiết_kế	ấn_tượng	hơn	Soluto	0	0	0	0	0	0	0	1	0	0	0	0	0	3
+28	Xét	về	kích_thước	,	Hyundai	Kona	đang	chiếm	ưu_thế	hơn	khi	ở	những	thông_số	chiều	dài	,	rộng	,	trục	cơ_sở	đều	ấn_tượng	hơn	đối_thủ	đến	từ	Mỹ	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4
+12	Các	thông_số	kích_thước	của	MG	ZS	2021	và	Ford	EcoSport	khá	tương_đồng	0	0	0	0	1	2	2	0	3	4	0	0
+28	Ford	EcoSport	2021	không	thay_đổi	phần	thân	so	với	đời	cũ	,	vẫn	còn	đó	gương	chiếu	hậu	chỉnh	/	gập	điện	kết_hợp	báo	rẽ	dạng	bóng	thường	1	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15	Bộ	mâm	dạng	cánh	hoa	17	inch	được	giữ	nguyên	từ	"	người	tiền_nhiệm	"	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0
+22	Không	dừng	lại	ở	phần	ngoại_hình	mới	,	MG	ZS	2021	đã	biết	cách	lấy_lòng	người	dùng	với	khoang	lái	hiện_đại	hơn	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0
+29	Trên	VinFast	Lux	SA2	.	0	2021	,	nhà	sản_xuất	Việt_Nam	thiết_kế	cụm	đèn	hậu	đặt	thấp	khác_biệt	so	với	hầu_hết	đối_thủ	cùng	phân	khúc	để	tạo	điểm	nhấn	0	1	2	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0
+28	Bên	kia	chiến_tuyến	,	Toyota_Fortuner	2021	đã	rũ	bỏ	thiết_kế	già_cỗi	,	thay	vào	đó	là	"	gương_mặt	"	đầy	sức_sống	và	trẻ_hóa	hoàn_toàn	so	với	đời	cũ	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+43	VinFast	Lux	SA2	.	0	2021	là	chiếc	xe	sở_hữu	bộ	mâm	hợp_kim	lớn	nhất	phân	khúc	với	kích_thước	20	inch	dạng	6	chấu	kép	2	tông	màu	cùng	bộ	lốp	trước	275	/	40R20	và	315	/	35R20	to	bản	phía	sau	1	2	2	2	2	2	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Khi	quan_sát	từ	đuôi	xe	,	VinFast	Lux	SA2	.	0	thể_hiện	rõ	dáng_vẻ	bệ_vệ	nhờ	thông_số	kích_thước	chiều	cao	và	rộng	đều	lớn	hơn	đối_thủ	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+24	VinFast	Lux	SA2	.	0	là	chiếc	xe	duy_nhất	trong	phân	khúc	sở_hữu	hệ_thống	ghế_ngồi	bọc	da	Nappa	toát	lên	vẻ	sang_trọng	,	cao_cấp	1	2	2	2	2	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0
+36	Xét	về	không_gian_hàng	ghế	thứ	3	,	Toyota_Fortuner	2021	mang	đến	sự	thoải_mái	hơn	cho	người	dùng	ở	khoảng	để	chân	và	trần	xe	so	với	những	gì	mà	VinFast	Lux	SA2	.	0	đang	thể_hiện	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	0	0
+20	Mặc_dù	vậy	,	thiết_kế	này	của	Subaru	Forester	2020	vẫn	bị	coi	là	khá	lạc_hậu	so	với	những	đối_thủ	hiện_nay	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	4	4
+21	Vô	-	lăng	trên	Honda	CR	-	V	được	thiết_kế	bắt_mắt	hơn	với	chất_liệu	bọc	da	với	khả_năng	cầm	nắm	vừa_vặn	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Bên	phía	đối_diện	,	Subaru	Forester	cũng	dùng	vô	-	lăng	3	chấu	bọc	da	,	nhưng	chiếc	xe	này	không	mang	đến	cảm_giác	cao_cấp	như	đối_thủ	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+23	Nếu	xét	về	độ	ổn_định	của	khung	gầm	,	sẽ	không	có	chiếc	nào	trong	phân	khúc	vượt	qua	được	Subaru	Forester	hiện_hành	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	1	2	0
+24	Mặc_dù	có	hệ_thống	lái	trợ_lực	điện	nhưng	chúng_tôi	đánh_giá	vô	-	lăng	của	Subaru	Forester	không	bị	quá	nhẹ	như	đối_thủ	CR	-	V	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	3	4	4	4
+15	Do	là	chiếc	xe	7	chỗ	nên	đang	sở_hữu	các	thông_số	kích_thước	nhỉnh	hơn	Kia_Seltos	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+30	Đến	với	phiên_bản	nâng_cấp	,	bộ	"	móng	"	chính	là	sự	khác_biệt	của	Mitsubishi_Xpander	với	họa	tiết	mới	gọn_gàng	hơn	và	duy_trì	dạng	5	chấu	với	kích_thước	17	inch	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Hơn_nữa	,	Baic	Beijing	X7	cũng	sử_dụng	bộ	la	-	zăng	lớn	hơn	đối_thủ	là	19	inch	cùng	thiết_kế	dạng	2	tông	màu	khác_biệt	0	0	1	2	2	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0
+16	Về	thiết_kế	vô	-	lăng	,	Honda	CR	-	V	không	thay_đổi	so	với	bản	cũ	0	0	0	0	0	0	1	2	2	2	0	0	0	0	3	4
+21	Nhìn	ngang	từ	phần	thân	xe	,	Xpander	đang	tỏ	ra	trường	xe	hơn	nhờ	thông_số	chiều	dài	ấn_tượng	hơn	XL7	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3
+18	Điểm	nhấn	giúp	xe	ấn_tượng	hơn	đối_thủ	là	cụm	đèn	hậu	liền	mạch	với	nhau	bởi	dải_crom	sang_trọng	0	0	0	1	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+18	Suzuki	XL7	2020	là	chiếc	xe	kế_thừa	gần	như	trọn_vẹn	thiết_kế	khoang	nội_thất	của	"	đàn_anh	"	Ertiga	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+28	Trong	phân	khúc	MPV	,	Suzuki	XL7	2020	là	chiếc	xe	sở_hữu	màn_hình	giải_trí	kích_thước	lớn	nhất	đến	10	inch	và	khu_vực	điều_hoà	có	thiết_kế	gọn_gàng	hơn	đối_thủ	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+27	Đó	là	nhờ	xe	có	chiều	dài	nội_thất	lên	tới	2.840	mm	và	trục	cơ_sở	lớn	đến	2.775	mm	,	thông_số	trên	vượt_trội	so	với	đối_thủ	XL7	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+21	Suzuki	XL7	2020	nổi_bật	hơn	các	đối_thủ	cùng	phân	khúc	khi	vô	-	lăng	dạng	D	-	Cut	thể_thao	bọc	da	1	2	2	0	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0
+16	Ngược_lại	đối_thủ	,	Mitsubishi	Pajero	Sport	2021	đã	nâng_cấp	mạnh_mẽ	với	khoang	nội_thất	nhiều	cải_tiến	hơn	0	3	0	1	2	2	2	0	0	0	0	0	0	0	0	0
+29	Đổi	lại	phần	vô	-	lăng	nặng	,	Mitsubishi	Pajero_Sport	lại	có	bán_kính	vòng	quay	tối_thiểu	chỉ	5,6	m	nhỏ	nhất	phân	khúc	nên	việc	xoay_trở	xe	dễ_dàng	hơn	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0
+27	Hyundai	Tucson	cũng	dùng	lưới	tản_nhiệt	hình	lục_giác	,	nhưng	trái_ngược	với	đối_thủ	,	những	thanh	vắt	ngang	trên	chiếc	xe	đến	từ	Hàn_Quốc	được	bọc	crom	1	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Đến	với	những	trang_bị	ở	phần	thân	,	Baic	Beijing	X7	đang	tỏ	ra	vượt_trội	hơn	đối_thủ	khi	dùng	bộ	la	-	zăng	19	inch	với	họa	tiết	cầu	kỳ	hơn	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15	Về	tổng_thể	nội_thất	,	Hyundai	Tucson	2020	vẫn	không	nhiều	thay_đổi	so	với	phiên_bản	trước	0	0	0	0	1	2	2	0	0	0	0	0	0	3	4
+19	Tuy_nhiên	,	cảm_giác	cầm	nắm	của	phần	vô	-	lăng	này	không	được	"	nịnh	tay	"	như	đối_thủ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+27	Nhờ	trục	cơ_sở	lớn	nhất	phân	khúc	nên	Beijing	X7	có	hàng	ghế	sau	rộng_rãi	có	khả_năng	ngả	ghế	và	tích_hợp	bệ	tỳ	tay	ở	vị_trí	trung_tâm	0	0	0	0	0	3	4	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	So	với	đối_thủ	,	Toyota_Fortuner	Legender	2021	sử_dụng	bộ	mâm	nhỏ	hơn	với	kích_thước	18	inch	5	chấu	kép	dạng	phay	bóng	0	0	3	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Toyota_Fortuner	Lengender	2021	ngoài	việc	bổ_sung	mảng	màu	đỏ	kết_hợp	với	đen	ở	khoang	nội_thất	,	chiếc	xe	này	không	có	gì	thay_đổi	so	với	đời	cũ	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+24	Cụm	đèn_pha	và	xi	-	nhan	trước	là	chi_tiết	khác_biệt	nhất	trên	mẫu	xe	đến	từ	Hàn_Quốc	so	với	các	đối_thủ	cùng	phân	khúc	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	3	4	4	4	4
+24	Tuy_nhiên	,	Kia	Seltos	đang	nắm	giữ	chiều	dài	trục	cơ_sở	lớn	hơn	giúp	không_gian	xe	rộng_rãi	và	khoảng	sáng	gầm	hơn	hẳn	đối_thủ	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+35	Phía	sau	tay_lái	,	2	mẫu	xe	này	duy_trì	cụm	đồng_hồ	Analog	Về	không_gian	ghế_ngồi	,	Kia	Seltos	đang	nhỉnh	hơn	đối_thủ	với	chiều	dài	trục	cơ_sở	2.610	mm	so	với	2.585	mm	của	ZS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Ngược_lại	,	MG	ZS	2021	gây	ấn_tượng	mạnh	bởi	hệ_thống	an_toàn	dẫn_đầu	phân	khúc	,	thiết_kế	nội	/	ngoại_thất	đã	thể_thao	và	tiện_nghi	hơn	0	0	1	2	2	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0
+36	Sang	đến	phần	thân	,	chiếc	Ford	Everest	2020	tỏ	ra	bề_thế	,	vượt_trội	hoàn_toàn	so	với	đối_thủ	nhờ	thông_số	kích_thước	lớn	,	duy	có	khoảng	sáng	gầm	Fortuner	ấn_tượng	nhất	phân	khúc	đạt	279	mm	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	Mẫu	xe	này	sở_hữu	ngoại_hình	cơ_bắp	,	thể_thao	,	an_toàn	hơn	chính	phiên_bản	tiền_nhiệm	1	2	2	0	0	0	0	0	0	0	0	3	4	4
+13	Dải_đèn	hậu	LED	của	xe	thiết_kế	tương_đối	đơn_giản	so	với	đối_thủ	trực_tiếp	Kia_Seltos	0	0	0	0	1	0	0	0	0	0	3	4	4
+19	MG	HS	2020	có	phần	đuôi	thiết_kế	chỉn_chu	hơn	đối_thủ	,	cụm	đèn	hậu	LED	vuốt	ngược	ra	sau	1	2	2	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0
+22	Trong	khi	đó	,	Suzuki	Ertiga	Sport	2020	cũng	có	cụm	đèn	hậu	LED	nhưng	thiết_kế	không	thực_sự	liền	mạch	như	đối_thủ	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+22	Hơn_nữa	,	cụm	đèn	hậu	LED	trên	Mazda	3	All_New	đã	có	thiết_kế	sắc_sảo	hơn	so	với	những	gì	mà	Corolla_Altis	thể_hiện	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	3	0
+29	Nhìn	từ	xa	,	đầu	xe	Toyota_Fortuner	2020	có	nét	gì	đó	dữ_dằn	hơn	đối_thủ	nhờ	cặp	đèn_pha	được	thiết_kế	thon	gọn	và	hiện_đại	hơn	với	công_nghệ	LED	hoàn_toàn	0	0	0	0	0	0	1	2	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	Nissan	Terra	có	hệ_thống	đèn	sương_mù	được	hạ	thấp	xuống	cản	dưới	tương_tự	đối_thủ	1	2	0	0	0	0	0	0	0	0	0	0	0	3
+24	Không	giống	Hyundai_Accent	,	logo	Toyota	của	Vios	2019	được	đặt	ở	vị_trí	tầm	cao	,	mang	tới	cái	nhìn	mạnh_mẽ	và	khỏe_khoắn	hơn	0	0	3	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Xét	về	tổng_thể	,	phần	đuôi	xe	của	Toyota_Vios	2019	thực_sự	dễ	gây	ấn_tượng	cho	người	xem	hơn	là	Hyundai_Accent	2019	bởi	sự	sắc_sảo	của	cụm	đèn	hậu	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+35	Nhìn_chung	,	ở	ngoại_thất	Ford_Tourneo	2019	bề_thế	hơn	nhờ	thông_số	kích_thước	xe	lớn	hơn	đáng_kể	nhưng	Toyota_Innova	lại	là	mẫu	xe	không	phá_cách	đặc_biệt	phù_hợp	với	những	người	trung	tuổi	khi	xét	về	độ	bền_dáng	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+29	Được	hình_thành	dựa	trên	cấu_trúc	Heartect	,	Suzuki_Ertiga	2019	“	ăn_đứt	”	đối_thủ	Xpander	về	thiết_kế	đầu	xe	với	cụm	đèn_pha	projector	mới_mẻ	kết_hợp	với	dải_đèn	LED	chạy	ban_ngày	0	0	0	0	0	0	0	1	2	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18	Mazda	CX	-	8	2019	sở_hữu	đuôi	xe	với	thiết_kế	thon	gọn	nhờ	bề	ngang	nhỏ	hơn	đối_thủ	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+37	Ống_xả	Honda	CR	-	V	2019	là	dạng	đơn	nhưng	vẫn	được	bố_trí	2	bên	cân_đối	mạ	crom	,	hệ_thống	đèn	hậu	được	đánh_giá	cao	hơn	đối_thủ	nhờ	thiết_kế	chữ	"	L	"	ăn_nhập	với	tổng_thể	xe	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0
+17	Phần	đuôi	xe	Hyundai_Tucson	2019	nổi_bật	hơn	đối_thủ	nhờ	dải_đèn	hậu	LED	thiết_kế	mới	gọn_gàng	bắt_mắt	hơn	0	0	0	1	2	0	0	3	0	0	0	0	0	0	0	0	0
+15	So	với	Toyota_Camry	,	cụm	đèn	hậu	trên	mẫu	Mazda	6	không	được	ấn_tượng	bằng	0	0	3	0	0	0	0	0	0	1	2	0	0	0	0
+38	Người	dùng	xe	Camry	dễ_dàng	cảm_nhận	được	điều	đó	qua	các	tấm	ốp	trang_trí_giả	vân	gỗ	,	đường	viền	mạ	bạc	,	nhựa	mềm	,	đường	chỉ	khâu	đều	thể_hiện	sự	tinh_tế	cao	hơn	hẳn	đối_thủ	Mazda	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+23	Ở	phía	Cerato	,	phần	đèn	hậu	của	xe	lại	cho	cảm_giác	tinh_tế	và	được	nhiều	chuyên_gia	ca_ngợi	là	phong_cách	nhất	phân	khúc	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+24	Kia	Cerato	2.0	Premium	2019	lại	gây	ấn_tượng	nhất	ở	thiết_kế	đèn	hậu	LED	nối_liền	2	bên	trông	tương_tự	như	nhiều	mẫu	xe	sang	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4
+24	Tuy_nhiên	,	thiết_kế	cụm	đèn_pha	trên	Camry	2.0	G	mang	đến	sự	sang_trọng	,	sắc	nét	và	hài	hòa	hơn	so	với	Mazda	6	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+28	Dù	có	phần	mâm	hơi	nhỏ	so	với	đối_thủ	nhưng	Accord	2.4	AT	lại	có	bộ	lốp	225	/	50R17	dày	hơn	,	giúp	chiếc	xe	vận_hành	êm_ái	0	0	0	0	0	0	0	0	3	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Phần_đèn	hậu	của	Sedona	là	dạng	chữ	nhật	có	bo	góc	,	cho	cảm_giác	thời_trang	hơn	so	với	dạng	hình_trụ	của	Traveller	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+14	Không	chỉ	kích_cỡ	to_lớn	hơn	,	Kia	Cerato	cũng	có	động_cơ	mạnh_mẽ	hơn	đối_thủ	0	0	0	0	0	0	1	2	0	0	0	0	0	3
+34	Về	mặt	tổng_thể	,	đuôi	xe	của	Mazda	6	mang	đến	nhiều	ấn_tượng	hơn	so	với	Kia_Optima	với	phần	đèn	được	thiết_kế	sắc	nét	và	nổi_bật	với	thanh	crome	chạy	dài	nối_liền	hai	bên	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+39	Bên	cạnh	đó	,	phiên_bản	cao_cấp	nhất	của	Mazda	6	được	trang_bị	bộ	mâm	hợp_kim	5	chấu	kép	có	kích_thước	lên	đến	19	inch	mang	lại	cảm_giác	mạnh_mẽ	hơn	so	với	bộ	mâm	có	kích_thước	18	inch	của	Kia_Optima	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+23	Nhìn_chung	,	Mercedes	-	Benz	C300	AMG	đang	chiếm	ưu_thế	về	mặt	thiết_kế	ngoại_thất	,	trang_bị	nội_thất	và	khả_năng	vận_hành	so	với	C250_Exclusive	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+26	Chi_tiết	crom	được	kéo_dài	từ	lưới	tản_nhiệt	đến	cụm	đèn_chiếu	sáng	giúp	đầu	xe	Mazda	2	trông	đẹp_mắt	và	không	kém	phần	sang_trọng	so	với	đối_thủ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3
+18	Mazda	CX	-	8	2019	sở_hữu	đuôi	xe	với	thiết_kế	thon	gọn	nhờ	bề	ngang	nhỏ	hơn	đối_thủ	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+11	Cụm	đèn	trước	của	Solati	cũng	cho	cảm_giác	tinh_xảo	hơn	đối_thủ	0	0	0	0	1	0	0	0	0	0	3
+26	Đèn	hậu	2	bên	hông	được	nối	với	nhau	nhờ	thanh	ngang	mạ	crom	khắc	tên	xe	Terra	,	trông	bắt_mắt	không	kém	so	với	đối_thủ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3
+23	Về	phần	đối_thủ	Honda_Jazz	2019	,	hai	bên	sườn	xe	có	phần	"	gân_guốc	"	hơn	và	thân	xe	có	cảm_giác	dài	hơn	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Cụm	đèn	hậu	của	mẫu	xe	Việt_Nam	có	phần	kém	nổi_bật	hơn	so	với	những	đường_nét	sắc_sảo	,	giữ	dằn	trên	đèn	hậu	của	Mazda	6	2018	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+11	So	với	Colorado	thì	Navara	có	phần	đuôi	thùng_xe	vuông_vức	hơn	0	0	3	0	1	0	0	0	0	0	0
+33	Như_vậy	,	không	còn	nghi_ngờ	gì	khi	nói	rằng	VinFast	SA2	.	0	có	thực_lực	hoàn_toàn	vượt	xa	đối_thủ	Toyota_Fortuner	về	mọi	mặt	như	độ	rộng_rãi	,	công_nghệ	,	trang_bị	cho	tới	vận_hành	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+29	Suzuki_Swift	từ	lâu	được	xem	là	chiếc	"	Mini	Cooper	Nhật	"	nên	ngoại_hình	được	đánh_giá	cao	hơn	nhờ	sự	cá_tính	,	phong_cách	và	nổi_bật	hơn	hẳn	đối_thủ	Toyota_Yaris	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+14	Nối_liền	hệ_thống	đèn	hậu	xe	Avanza	mới	cũng	là	dải_crom	to	bản	tương_tự	đối_thủ	0	0	0	0	0	1	2	0	0	0	0	0	0	3
+14	Xét	một_cách	tổng_thể	,	Toyota_Avanza	2019	thua	hoàn_toàn	so	với	Xpander	ở	phần	ngoại_thất	0	0	0	0	1	2	0	0	0	0	3	0	0	0
+31	Khi	di_chuyển	trên	những	địa_hình	xấu	,	Toyota_Rush	được	đánh_giá	cao	hơn	đối_thủ	khi	được	trang_bị	bộ	lốp	dày	215	/	60R17	,	còn	Xpander	mỏng	hơn	với	205	/	55R16	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20	Phía	đối_thủ	,	mẫu	xe	Nhật	chỉ	trang_bị	cụm	đèn	trước	dạng	Halogen	sắc_sảo	,	có	thiết_kế	hầm_hố	,	nam_tính	0	3	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Đối_với	tiêu_chí	so_sánh	về	độ	thoải_mái	của	ghế_ngồi	,	Honda	CR	-	V	2018	được	đánh_giá	cao	hơn	và	giành	chiến_thắng	trước	đối_thủ	Toyota	RAV4	2018	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	3	0	0	0
+41	Cùng	với	đó	khoảng	sáng	gầm	xe	của	Ford	Ecosport	Titanium	1.0	L	EcoBoost	2018	cao	hơn	so	với	Honda	HR	-	V	1.8	L	2018	giúp	cho	mẫu	xe	Nhật_Bản	có	lợi_thế	về	vận_hành	hơn	trên	những	địa_hình	khó	nhằn	0	0	0	0	0	0	0	0	1	2	2	2	2	2	2	0	0	0	0	3	4	4	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13	Mẫu	xe	Mỹ_gắn	thêm	đèn	nên	trông	sáng_sủa	và	dễ	nhìn	hơn	đối_thủ	1	2	0	0	0	0	0	0	0	0	0	0	3
+21	Ở	phía	Sorento	,	xe	trông	mềm_mại	với	thiết_kế	đèn	uốn	cong	,	cánh	gió	xe	dài	hơn	đối_thủ	1	chút	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+9	Mazda	2	không	có	đèn	hậu	độc_đáo	như	đối_thủ	1	2	0	0	0	0	0	0	3
+42	Về	đuôi	xe	,	Terra	và	Fortuner	đều	có	sẵn	cụm	đèn	LED	khá	cơ_bản	tuy_nhiên	thiết_kế	của	Toyota_Fortuner	được	đánh_giá	là	mới_mẻ	hơn	với	cụm	đèn	hậu	hình	lưỡi	dao	,	đi	kèm	cản	sau	mạ	crôm	với	đèn	phản_quang	hấp_dẫn	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Tuy	thông_số	kỹ_thuật	có	phần	kém	hơn	Honda	Civic	1.8	E	2018	nhưng	Toyota_Corolla	Altis	1.8	G	2018	lại	được	đánh_giá	cao	hơn	đối_thủ	ở	cảm_giác	lái	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	3	0	0	0
+22	Về	đầu	xe	,	Honda	Civic	cho	cảm	khác	bắt_mắt	hơn	Elantra	khi	có	sẵn	đèn	xe	Full	-	LED	sắc	xảo	0	0	0	0	1	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0
+33	Những	đường	vân	nổi	mềm_mại	nối	dài	vòm	bánh_xe	phía	trước	cho	đến	cụm	đèn	hậu	khiến	cho	chiều	dài	thân	xe	Grand	i10	2018	càng	thêm	vượt_trội	hơn	so	với	đối_thủ	Suzuki_Celerio	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	3	4
+45	Về	phần	đối_thủ	,	Mitsubishi	Mirage	cũng	cho	cảm_giác	khá	nhẹ_nhàng	nhưng	cứng_cáp	hơn	đối_thủ	một_chút	nhờ	gân	dập	trên	mặt	ca	-	pô	,	lưới	tản_nhiệt	tổ	ong	viền	crôm	,	cụm	cản	trước	với	gân	rẽ	nhánh	bao	lấy	đèn	sương_mù	khá	nổi_bật	0	0	3	0	1	2	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Cả	2	mẫu	xe	đều	chạy	đèn	LED	ban_ngày	nhưng	dài	LED	của	Cruze	trông	sắc	nét	và	thú_vị	hơn	đối_thủ	một_chút	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	0
+30	Nếu	so_sánh	xe	Chevrolet	Colorado	2017	và	Ford	Ranger	2017	về	trang_bị	ngoại_thất	thì	chắc_chắn	cặp	đèn	cốt	Projector	của	Colorado	sẽ	có	lợi_thế	hơn	trước	đèn	Halogen	của	Ranger	0	0	0	1	2	2	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	Cũng	giống	đối_thủ	Fortuner	,	Pajero	cũng	lắp_đặt	đèn_pha	Projector	sắc_cạnh	,	đi	kèm_cặp	đèn	sương_mù	2	bên	khá	liền	mạch	0	0	3	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+43	So	với	đối_thủ	đồng_hương	Kia	Sorento	thì	Santa	Fe	nhỉnh	hơn	về	chiều	dài	cùng	chiều	cao	,	kém	đôi_chút	ở	chiều	rộng	,	trong	khi	cùng	có	chiều	dài	cơ_sở	2.700	(	mm	)	và	khoảng	sáng	gầm	185	(	mm	)	0	0	0	0	3	4	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Dù_vậy	,	đối_thủ	Innova	lại	nhanh	chân	hơn	1	bước	khi	thiết_kế	khoảng	sáng	gầm	xe	lớn	hơn	,	giúp	chiếc	xe	vận_hành	tốt	ở	nhiều	địa_hình	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+36	Cả	hai	chiếc	hatchback	đều	được	trang_bị	đèn	phanh	trên	cao	công_nghệ	Tuy	sở_hữu	kích_thước	tổng_thể	tương_đương	nhau	,	nhưng	Yaris	có	phần	bề_thế	hơn	khi	đặt	cạnh	chiếc	hatchback	“	nữ_tính	”	nhà	Mazda	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4
+23	Tuy_nhiên	,	về	mặt	tổng_thể	,	Fortuner	có	phần	"	đuối	"	hơn	Santafe	về	nhiều	mặt	từ	thiết_kế	,	trang_bị	tới	vận_hành	0	0	0	0	0	0	1	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0
+44	Phần	đầu	của	Honda	City	2016	không	có	quá	nhiều	thay_đổi	với	mặt	ga	-	lăng	cỡ	lớn	mạ	crom	đặc_trưng	cùng	dàn	đèn_pha	Halogen	,	bên	cạnh	đó	,	xe	còn	có	hốc	đèn	sương_mù	và	cản	trước	hầm_hố	hơn	so	với	đối_thủ	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+49	Ngoài_ra	,	xe	cũng	lắp_đặt	gương	chiếu	hậu	chỉnh	điện	,	đèn	báo	rẽ	và	đèn	hậu	LED.	​	Nhờ	kích_thước	lớn	hơn	đối_thủ	ở	cả	3	chiều	dài	x	rộng	x	ngang	(	17	x12	x	24	mm	)	nên	mẫu	xe	Hàn_Quốc	có	không_gian	nội_thất	rất	rộng_rãi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0
+17	Về	kích_thước	tổng_thể	,	Honda	Accord	sở_hữu	dáng_vẻ	bề_thế	hơn	Toyota_Camry	với	chiều	dài	tổng_thể	lớn	hơn	0	0	0	0	1	2	0	0	0	0	3	0	0	0	0	0	0
+29	Ngoài_ra	,	đèn	nội_thất	của	Toyota_Vios	E	MT	được	trang_bị	cho	cả	2	hàng	ghế	,	tiện_dụng	so	với	chỉ	1	hàng	ghế	trước	trên	Kia	Soluto	MT	Deluxe	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4
+11	Có_thể	thấy	,	City_dài	và	rộng	hơn	đáng_kể	so	với	Accent	0	0	0	0	0	0	0	0	0	0	3
+34	Ngoài_ra	,	Accent	cũng	có	khoảng	sáng	gầm	cao	hơn	hẳn	,	chính	vì_vậy_mà	khả_năng	“	leo	lề	”	,	vận_hành	ở	điều_kiện	đường_sá	gồ_ghề	được	đảm_bảo	hơn	so	với	đối_thủ	đến	từ	Nhật	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4
+42	Di_chuyển	ra	phía	sau	,	đuôi	xe	Accent	1.4	AT	2021	tiếp_tục	với	những	đường_nét	trẻ_trung	,	hiện_đại	bởi	sự	xuất_hiện	của	bộ	khuếch	lưu	khí	động_học	và	cặp	đèn	hậu	LED	3D	được	tinh_chỉnh	nhẹ	,	hiện_đại	so	với	đời	cũ	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+24	Ngoài_ra	,	đèn	phản_quang	trên	Vios	có	thiết_kế	to	bản	hơn	thay_vì	thanh_mảnh	như	trên	đối_thủ	,	bên	ngoài	cũng	không	được	viền	chrome	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+28	Dải_đèn	LED	được	kéo_dài	sang	2	bên	giúp	người	dùng	có	cảm_giác	đầu	xe	rộng	và	bề_thế	hơn	rất	nhiều	so	với	các	dòng	xe	cùng	phân	khúc	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	4	1	4	4	4
+16	Thế_mạnh	của	Camry	2.0	G	là	thiết_kế	mới	trẻ_trung	hơn	,	vận_hành	tốt	hơn	bản	tiền_nhiệm	0	0	1	2	2	0	0	0	0	0	0	0	0	0	3	4
+13	Đồng_thời	vị_trí	đèn_pha	của	Xpander	cũng	được	dời	thấp	xuống	so	với	Ertiga	0	0	0	0	1	0	0	0	0	0	0	0	3
+37	Tuy	có_giá	bán	rẻ	hơn	nhưng	Kia	Morning	S	lại	nổi_trội	hơn	đôi_chút	nhờ	đèn_pha	có	thêm	tính_năng	tự_động	bật	tắt	,	đèn	hậu	LED	,	trong	khi	đó	trên	Brio	RS	chỉ	là	loại	bóng	thường	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0
+16	Thông_số	kỹ_thuật	về	kích_thước	cho	thấy	SantaFe	có	kích_thước	tổng_thể	lớn	hơn	so	với	Peugeot	5008	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	4
+46	Trong	khi	đó	,	do	chưa	phải	bản	cao_cấp	nhất	nên	Vios	E	CVT	chỉ	sở_hữu	các	trang_bị	cơ_bản	như	đèn_pha	Halogen	,	gương	gập	/	chỉnh	điện	tự_động	và	mâm	đúc	cũng	chỉ	có	đường_kính	15	inch	–	nhỏ	hơn	1	inch	so	với	đối_thủ	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+34	Về	trang_bị	ngoại_thất	,	bản	AT	của	Xpander	vừa	ra_mắt	cũng	đã	được	cải_tiến	lên	hệ_thống	đèn_chiếu	sáng	full	-	LED	,	thay_thế	cho	loại	halogen	trước	đây	để	tạo	thế	cân_bằng	với	đối_thủ	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+46	Sở_hữu	các	thông_số	về	kích_thước	tổng_thể	nhỉnh	hơn	so	với	đối_thủ	(	dài	hơn	160mm	,	cao	hơn	50mm	)	,	chiều	dài	cơ_sở	cũng	lớn	hơn	35mm	,	Nissan	X	-	Trail	vì_thế	mang	lại	cho	người	dùng	một	không_gian	nội_thất	rộng_rãi	,	thoải_mái	hơn	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+35	La	-	zăng	5	chấu	kép	trên	Tucson	cũng	được	làm	mới	,	kết_hợp	với	cụm	đèn	hậu	LED	và	cặp	ống_xả	kép	ở	đuôi	xe	tạo	cảm_quan	trẻ_trung	và	thể_thao	hơn	so	với	đối_thủ	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+25	Thông_số	khoảng	sáng	gầm	trên	Mazda6	cao	hơn	34mm	so	với	trên	Accord	,	đảm_bảo	hơn	cho	khả_năng	vận_hành	linh_hoạt	trên	những	đoạn	đường	gồ_ghề	0	0	0	0	0	1	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+53	Các	thông_số	về	kích_thước	tổng_thể	,	chiều	dài	cơ_sở	và	khoảng	sáng	gầm	trên	Mazda3	đều	nhỉnh	hơn	so	với	Honda_Civic	,	về	lý_thuyết	thì	sẽ	giúp	mang	lại	kích_thước	bề_thế	hơn	,	bên	cạnh	đó	là	độ	rộng_rãi	,	thoái	mái	trong	không_gian	nội_thất	và	khả_năng	vận_hành	linh_hoạt	trong	điều_kiện	đường_sá	gồ_ghề	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Bù	lại	,	mẫu	xe	Pháp	có	cửa_sổ	trời	toàn_cảnh	panoramic	,	hệ_thống	đèn	viền	nội_thất	ambient	light	“	nịnh	mắt	”	hơn	cửa_sổ	sunroof	trên	đối_thủ	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+22	Ngoài_ra	,	khoảng	sáng	gầm	xe	của	mẫu	xe	Hàn_đạt	150mm	,	lợi_thế	hơn	khá	nhiều	so	với	con_số	135mm	trên	Honda_City	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+27	Về	phần	đuôi	xe	,	Colorado	có	thiết_kế	cứng_cáp	với	cụm	đèn	hậu	dạng	3	tầng	,	các	chi_tiết	đều	được	vuốt	góc_cạnh	hơn	so	với	đối_thủ	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+12	Chevrolet	Trax	sở_hữu	thiết_kế	lai	hiện_đại	và	bắt_mắt	hơn	so	với	đối_thủ	1	2	0	0	0	0	0	0	0	0	0	3
+38	Trong	khi	đó	,	ở	phiên_bản	này	Ecosport	chỉ	sử_dụng	cụm	đèn	dạng	halogen	đơn_giản	,	điểm	cộng	ở	thế_hệ	mới	này	là	cụm	đèn	sương_mù	được	thiết_kế	sắc	xảo	hơn	so	với	bóng	tròn	như	phiên_bản	cũ	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+53	So	với	đối_thủ	,	Ecosport	có	thiết_kế	rắn_rỏi	hơn	,	thể_hiện	ở	những	đường	gân	dập	nổi	dứt_khoát	từ	phần	hốc	bánh	trước	đến	tận	cụm	đèn	hậu	phía	sau	tăng	tính_năng	khí	động_học	,	viền	cửa	mạ	chrome	sang_trọng	,	gương	chiếu	hậu	chỉnh	/	gập	điện	thiết_kế	2	tone	màu	đẹp_mắt	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	CX	-	5	trang_bị	2	ống_xả	viền	chrome	khá	thể_thao	trong	khi	đó	đối_thủ	chỉ	là	ống_xả	đơn	kém	sang	hơn	1	2	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0
+22	Bên	sườn	xe	,	Kia	Rio	nhỉnh	hơn	City	khi	được	trang_bị	bộ	lazang	đúc	hợp_kim	nhôm	với	kích_thước	17	-	inch	0	0	0	0	1	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Cụm	đèn_pha	của	Triton	MIVEC	cùng	đối_thủ	BT	-	50	3.2	AT	4WD	cùng	sử_dụng	bóng	Halogen	và	có	tính_năng	tự_động	bật	/	tắt	,	hiện_đại	và	tiện_lợi	0	0	0	1	2	0	0	3	4	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+30	Fortuner	2.5	G	lịch_lãm	với	các	góc	bo	tinh_tế	,	cụm	đèn	hậu	tạo_hình	vòng_tròn	,	đèn	phản_quang	mảnh_dẻ	và	đuôi	lướt	gió	lộ	diện	rõ	hơn	so	với	đối_thủ	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+37	Dải_đèn	LED	chạy	ban_ngày	được	vuốt	cong	ấn_tượng	kết_hợp	với	bóng	halogen	tạo	cho	mặt	trước	của	Captiva	Revv	cái	nhìn	dữ_dằn	,	hầm_hố	hơn	so	với	phiên_bản	tiền_nhiệm	vốn	đã	quá	quen_thuộc	với	người	dùng	Việt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0
+24	Ở	góc	nhìn	này	,	đối_thủ	Hoa_Kì	tỏ	ra	nhỉnh	hơn	đôi_chút	nhờ	mâm	xe	hợp_kim	18	-	inch	so	với	17	-	inch	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Mũi	xe	thiết_kế	hơi	vuông	,	cụm	đèn_pha	kích_thước	lớn	sắc	nét	cũng	có	thiết_kế	theo	kiểu	xếch	ngược	Caren	có	vẻ	“	hiền	”	hơn	so	khi	đứng	cạnh	Innova	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3
+29	So	về	nhiều	mặt	như	không_gian	nội_thất	,	trang_bị	tiện_nghi	…	thì	Pajero	nhỉnh	hơn	so	với	Everest	và	vì_thế	cũng	có	mức	giá	cao	hơn	so	với	đối_thủ	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+21	SantaFe	với	kích_thước	thừa_kế	từ	bản	7	chỗ	do	đó	kích_thước	sẽ	lớn	hơn	CX	-	5	là	điều	dễ	hiểu	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0
+26	Một	trong	những	điểm	đáng	tự_hào	của	chiếc	xe	này	là	sở_hữu	khoảng	sáng	gầm	cao	hơn	so	với	hầu_hết	các	đối_thủ	trong	cùng	phân	khúc	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4
+9	SantaFe	có	thiết_kế	ngoại_thất	hiện_đại	hơn	so	với	Fortuner	1	0	0	0	0	0	0	0	3
+9	Không_gian	nội_thất	của	Fortuner	rộng_rãi	hơn	so	với	SantaFe	0	0	0	1	0	0	0	0	3
+22	Nhìn	từ	bên	cạnh	,	D	-	max	“	kém	”	hơn	đối_thủ	đôi_chút	khi	không	có	hai	đường	gân	dập	nổi	0	0	0	0	0	1	2	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0
+19	Cụm	đèn	hậu	của	D	-	max	tỏ	ra	cứng_cáp	với	kích_thước	và	thiết_kế	gãy_gọn	hơn	so	với	đối_thủ	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	3
+31	Cả	hai	đều	được	trang_bị	đèn	báo	rẽ	tích_hợp	trên	gương	chiếu	hậu	,	hệ_thống	chiếu	sáng	của	RIO	hiện_đại	và	đẹp	hơn	so	với	thiết_kế	đơn_giản	và	truyền_thống	của	Attrage	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3
+33	Nhìn	tổng_thể	,	Hyundai	Sonata	có	kích_thước	lớn	hơn	so	với	người	đồng_hương	của	mình	,	và	nếu	Kia	Optima	gợi_cảm_giác	mạnh_mẽ	thì	Sonata	mang	lại	những	cảm_xúc	về	sự	tinh_tế	và	lịch_lãm	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	2	0	0	0	0	0	0	0	0	0
+30	Ở	phần	đầu	,	Honda	City	RS	và	Toyota_Vios	GR	-	S	2021	đều	sử_dụng	cụm	đèn_pha	với	những	khoang	LED	chia	nhỏ	bên	trong	và	tích_hợp	đèn	định_vị	ban_ngày	0	0	0	0	1	2	2	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Đáng	chú_ý	,	xe	sở_hữu	màn_hình	giải_trí	kích_thước	lớn	và	hiển_thị	sắc	nét	hơn	những	gì	mà	Toyota_Vios	GR	-	S	thể_hiện	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	0
+23	Ở	phía	sau	,	cụm	đồng_hồ	của	Vios	GR	-	S	dạng	màu	đỏ	thể_thao	hơn	và	màn_hình	TFT	4,2	inch	lớn	hơn	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+30	Kia	Sorento	2021	có	ghế	trước	chỉnh	điện	đa	hướng	,	có	chức_năng	làm	mát	/	sưởi	ấm	và	đặc_biệt	xe	có	nhớ	2	vị_trí	ghế	lái	hơn	hẳn	đối_thủ	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+26	Sự	thiếu_sót	của	đối_thủ	là	điểm	mạnh	của	Kia_Sorento	với	màn_hình	giải_trí	12,3	inch	kết_nối	Apple	CarPlay	và	Android_Auto	cùng	hệ_thống	âm_thanh	vòm	12	loa	Bose	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Kia	Seltos	Premium	2021	ghi_điểm	với	người	dùng	nhờ	phần	ghế	ngồi	rộng_rãi	,	đặc_biệt	hàng	ghế	trước	xe	còn	có	tính_năng	thông	gió	duy_nhất	trong	phân	khúc	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+29	Ngoài_ra	,	hàng	ghế	sau	của	xe	còn	có	bệ	tỳ	tay	kiêm	hộc	để	cốc	và	cửa	gió	điều	hòa	,	2	chi_tiết	hơn	hẳn	đối_thủ	Peugeot	2008	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+27	Ghế	lái	chỉnh	điện	,	hàng	ghế	sau	chưa	có	cửa	gió	điều	hòa	và	không	có	bệ	tỳ	tay	trung_tâm	là	yếu	điểm	so	với	đối_thủ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+32	Điểm_trừ	của	Peugeot	2008	là	điểm	cộng	của	Corolla_Cross	khi	xe	cung_cấp	đủ	cho	khách_hàng	sự	thoải_mái	,	các	tiện_ích	như	cửa	gió	điều	hòa	,	bệ	tỳ	tay	và	tựa	đầu	0	0	1	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19	Ở	bản	mới	,	lưới	tản_nhiệt	của	xe	gọn_gàng	hơn	và	sơn	đen	toàn_bộ	để	mang	đến	diện_mạo	mới	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+24	Ngoài_ra	,	mẫu	xe	đa_dụng	của	Toyota	còn	vượt_trội	hơn	nhờ	loạt	cảm_biến	trước	giúp	người	dùng	dễ_dàng	điều_khiển	xe	hơn	ở	khu_vực	nội_đô	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	Xét	về	ngoại_thất	,	rõ_ràng	Mitsubishi	Xpander	có	diện_mạo	trẻ_trung	,	công_nghệ	đèn	hiện_đại	hơn	đối_thủ	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	3
+28	So	với	đối_thủ	,	Innova	tiện_nghi	hơn	nhờ	điều	hòa	tự_động	2	giàn	lạnh	,	cổng	USB	,	bàn	làm_việc	ghế	sau	,	khởi_động	nút	bấm	.	.	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Về	khả_năng	chiếu	sáng	,	Suzuki	XL7	nhỉnh	hơn	đối_thủ	trong	tầm	giá	600	triệu	đồng	khi	sở_hữu	đèn_pha	LED	với	các	khoang	bóng	khá	tinh_tế	0	0	0	0	0	1	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	Lưới	tản_nhiệt	truyền_thống	dạng	vân	mắt_xích	là	chi_tiết	khiến	nhiều	cho	rằng	xe	Nhật	chưa	phá_cách	so	với	những	đối_thủ	đến	từ	Hàn_Quốc	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	3	4	4	4	4
+19	So	với	Baic	X55	,	Hyundai	Tucson	là	chiếc	xe	mà	chúng_tôi	đánh_giá	có	khả_năng	cách_âm	tốt	hơn	hẳn	0	0	3	4	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0
+35	Sở_hữu	mức	giá	cao	nên	Honda	City	cũng	được	"	trang_hoàng	mặt_tiền	"	khá	ấn_tượng	với	cụm	đèn_pha	LED	chia	khoang	,	đây	cũng	là	trang_bị	cao_cấp	nhất	phân	khúc	sedan	hạng	B	tại	Việt_Nam	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4
+20	Nhược_điểm	của	Ford	EcoSport	2020	đến	từ	khả_năng	cách_âm	vẫn	còn	khá	kém	so	với	mặt_bằng	chung	của	phân	khúc	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+22	Hơn_nữa	,	MG	ZS	còn	có	ghế	lái	chỉnh	điện	vượt_trội	hơn	hẳn	bản	cao_cấp	của	EcoSport	vẫn	là	ghế	chỉnh	cơ	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+32	Hàng	ghế	sau	xe	có	bệ	tỳ	tay	kiêm	hộc	để	đồ	,	nhưng	việc	thiếu	đi	cửa	gió	điều	hòa	là	thiệt_thòi	lớn	với	người	dùng	EcoSport	so	với	MG	ZS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	4
+28	Về	khả_năng	cách_âm	,	nếu	so	với	đối_thủ	trực_tiếp	Ford	EcoSport	,	chúng_tôi	đánh_giá	cao	hơn	bởi	ZS	không	xuất_hiện	nhiều	tiếng	ù	khi	di_chuyển	ở	tốc_độ	cao	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+20	Ở	chiều	ngược_lại	,	Ford	EcoSport	2021	có	khả_năng	cách_âm	ở	mức	trung_bình	so	với	mặt_bằng	chung	của	phân	khúc	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	3	4
+21	VinFast	Lux	SA2	.	0	là	chiếc	xe	có	khả_năng	cách_âm	hàng_đầu	phân	khúc	,	nhưng	vẫn	còn	"	sạn	"	1	2	2	2	2	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+16	So	với	đối_thủ	,	Mitsubishi	Xpander	2020	thua_thiệt	đôi_chút	khi	chỉ	có	màn_hình	cảm_ứng	7	inch	0	0	3	0	1	2	2	0	0	0	0	0	0	0	0	0
+29	Với	Mitsubishi	Xpander	2020	,	người	dùng	sẽ	có	một	chiếc	xe	với	ngoại_hình	trẻ_trung	mang	hơi_hướng	tương_lai	,	công_nghệ	đã	được	áp_dụng	hiều	hơn	so	với	bản	cũ	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+23	Ngoài_ra	,	mẫu	SUV	này	còn	có	thêm	ăng	ten	vây	cá_mập	mới	,	tính_năng	đá	cốp	để	gia_tăng	sự	tiện_nghi	tương_tự	đối_thủ	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+21	Điểm	mạnh	nhất	của	Baic	Beijing	X7	2020	đến	từ	những	trang_bị	tiện_nghi	dẫn_đầu	phân	khúc	CUV	hạng	C	tại	Việt_Nam	0	0	0	0	1	2	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0
+17	Những	tiện_nghi	của	Hyundai	Tucson	2020	không	nhiều	như	đối_thủ	,	nhưng	vẫn	ở	mức	đủ	dùng	0	0	0	1	2	2	0	0	0	3	0	0	0	0	0	0	0
+25	Khả_năng	cách_âm	của	Toyota_Fortuner	mới	chưa	được	cải_tiến	quá	nhiều	so	với	bản	cũ	,	nhưng	động_cơ	của	xe	giờ_đây	đã	được	tinh_chỉnh	êm_ái	hơn	0	0	0	1	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0
+16	Tương_tự	đối_thủ	,	Hilux	mới	cũng	có	đèn_pha	sử_dụng	công_nghệ	LED	Projector	kết_hợp	đèn	định_vị	ban_ngày	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+26	Phần	gương	chiếu	hậu	,	Toyota_Hilux	Adventure	tỏ	ra	ấn_tượng	hơn	khi	sử_dụng	đèn	xi	-	nhan	LED	,	còn	Ford	Ranger	Wildtrak	là	bóng	Halogen	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	0	0	0
+19	Ford	Ranger	Wildtrak	duy_trì	đèn	hậu	chia	thành	3	khoang	,	đây	rõ_ràng	là	điểm	thua_thiệt_hơn	đối_thủ	cạnh_tranh	trực_tiếp	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+25	Tuy_nhiên	,	Kia	đã	làm	tốt	hơn	ở	cụm	đèn	hậu	với	nhiều	dải	LED	hiện_đại	hơn	và	nối_liền	với	nhau	bởi	dải_crom	to	bản	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	Ở	bên	kia	chiến_tuyến	,	Kia	Sedona	cũng	không	thua_kém	khi	cụm	đèn_pha	/	cos	sử_dụng	bóng	LED	có	tính_năng	tự_động	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	Hơn_nữa	,	mẫu	xe	đến	từ	xứ_sở	kim	chi	còn	nổi_bật	hơn	khi	có	dải_đèn	LED	định_vị	ban_ngày	và	đèn	sương_mù	0	0	1	2	2	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+26	Hai	mẫu	xe	cùng	đến	từ	Nhật_Bản	này	có	sự	cải_tiến	ở	một_số	chi_tiết	,	trong	đó	Avanza	còn	được	bổ_sung_công_nghệ	đèn_chiếu	sáng	tốt	hơn	đối_thủ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3
+19	Nằm	ở	mức	giá	612	triệu	đồng	,	nhưng	Toyota_Avanza	2020	đang	tỏ	ra	"	nghèo_nàn	"	về	trang_bị	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0
+18	Hơn_nữa	,	đèn	sương_mù	LED	trên	xe	CRV	cũng	mang	đến	cái	nhìn	hiện_đại	so	với	đối_thủ	trực_tiếp	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	4
+12	Tương_tự	đối_thủ	,	MG	HS	được	trang_bị	đèn_pha	/	cos	dạng	LED	0	3	0	1	2	0	0	0	0	0	0	0
+20	Không	chỉ	vậy	,	người	dùng	còn	không	được	sử_dụng	dải_đèn	định_vị	ban_ngày	trên	Ertiga	như	đối_thủ	cùng	phân	khúc	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	4	4	4
+27	Khi	trình_làng	tại	Việt_Nam	,	các	chuyên	giá	đánh_giá	xe	Toyota_Rush	2020	cao	bởi	đây	là	chiếc	MPV	duy_nhất	trong	phân	khúc	áp_dụng	công_nghệ	đèn_chiếu	sáng	LED	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0
+32	Gương	trên	chiếc	xe	này	sẽ	không	có	công_nghệ	chống	chói	tự_động	,	nhớ	vị_trí	như	đối_thủ	mà	chỉ	xuất_hiện	chỉnh	/	gập	điện	,	đèn	báo	rẽ	LED	và	đèn	Welcome_Light	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Tuy_nhiên	,	đèn	hậu	trên	Suzuki	Ertiga	2020	là	đèn	LED	,	tạo	hiệu_ứng	tốt	hơn	so	với	cụm	đèn	hậu	của	đối_thủ	Toyota_Avanza	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+25	Hyundai	Tucson	2020	sở_hữu	gương	chiếu	hậu	nhiều	tính_năng	hơn	đối_thủ	gồm	chỉnh	/	gập	điện	,	sấy	gương	kèm	đèn	báo	rẽ	dạng	LED	1	2	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20	Xét	về	trang_bị	tiện_nghi	,	mẫu	xe	Mỹ	có	vẻ	trội	hơn	với	nhiều	tính_năng	hấp_dẫn	hơn	khi	đặt	cạnh	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+38	Cụm	đèn	hậu	của	Ford_Tourneo	2019	được	thiết_kế	đặt	dọc	,	bóng	LED	là	trang_bị	tốt	hơn	đối_thủ	và	xe	có	đường	mạ	crom	to	bản	ở	ngay	trên	phần	gắn	biển	số	giúp	đuôi	xe	cứng_cáp	hơn	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	Trong	khi	đó	,	đối_thủ	Suzuki	Ciaz	2018	được	trang_bị	hệ_thống	phun	nhiên_liệu	đa	điểm	nên	được	đánh_giá	cao	về	mặt	tiết_kiệm	nhiên_liệu	0	0	0	0	3	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	Tuy_nhiên	,	Peugeot_Traveller	2019	nổi_bật	hơn	đối_thủ	khi	được	trang_bị	tính_năng	rửa	đèn_pha	tự_động	0	0	1	2	0	0	3	0	0	0	0	0	0	0
+15	Soluto	có	gương	chiếu	hậu	xe	có	tích_hợp	đèn	xi	-	nhan	LED	tương_tự	đối_thủ	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+38	Brio	và	Morning	cùng	có	khả_năng	tiết_kiệm	nhiên_liệu	khá	đáng	nể	,	tuy_nhiên	Morning	vẫn	"	trên_cơ	"	đối_thủ	một_chút	với	thông_số	tiêu_hao	chỉ	4.9	L	/	100km	,	tốt	hơn	mức	5,3	L	/	100km	của	Brio	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Như_vậy	,	có_thể	thấy	rằng	Honda	Brio	sở_hữu	lượng	trang_bị	nổi_bật	hơn	Kia_Morning	khá	nhiều	,	đặc_biệt	là	ở	trang_bị	giải_trí	,	an_toàn	và	vấn_đề	vận_hành	0	0	0	0	0	1	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+15	Cụm	đèn	hậu	của	Toyota_Wigo	2019	ấn_tượng	hơn	với	công_nghệ	LED	và	cách	bố_trí	dạng_tầng	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0
+33	Cả	hai	mẫu	xe	Toyota_Camry	2.5	Q	2019	và	Mazda	6	Premium	2.5	2019	đều	sử_dụng	công_nghệ	chiếu	sáng	LED	nhưng	mẫu	xe	của	Toyota	nổi_trội	hơn	nhờ	sở_hữu	hệ_thống	đèn	Full	LED	0	0	0	0	1	2	2	2	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Phiên_bản	Mazda	3	2.0	2018	sedan	cũng	sở_hữu	đèn_pha	dạng	LED	tương_tự	như	đối_thủ	cùng	lưới	tản_nhiệt	dạng	thanh	ngang	trơn	sáng	bóng	đơn_giản	0	1	2	2	2	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0
+18	V	-	Class	sử_dụng	đèn	Full	-	LED	nên	hấp_dẫn	hơn	một_chút	so	với	bóng	Xenon	của	Traveller	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+23	Tuy_nhiên	,	Traveller	lại	lắp_đặt	đèn	Xenon	tự_động	có	sẵn	tính_năng	rửa	đèn	-	1	trong	những	trang_bị	đắt	tiền	hơn	rất	nhiều	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	So	với	Attrage	,	i10	dù	là	xe	hạng	A	nhưng	lại	có	lợi_thế	hơn	vì	sở_hữu	đèn	chạy	ngày	LED	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Màn_hình	trung_tâm	của	C200	được	đánh_giá	cao	hơn	so	với	đối_thủ	khi	sở_hữu	kích_thước	10,25	inch	và	đặt	ngang	,	hỗ_trợ	kết_nối	Apple_Carplay	,	Android_Auto	,	.	.	0	0	0	1	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13	Ở	đuôi	xe	,	cụm	đèn	hậu	của	Explorer	lại	lép_vế	trước	GLC	0	0	0	0	0	0	0	0	1	0	0	0	3
+19	Hyundai	Accent	yếu_thế	hơn	mẫu	xe	của	Mazda	khi	chỉ	trang_bị	đèn_pha	Bi	-	Halogen	,	đèn	sương_mù	Projector	1	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+15	Chiếc	xe	Việt_Nam	có	trang_bị	tốt	hơn	,	động_cơ	linh_hoạt	hơn	,	thiết_kế	đẹp	hơn	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+16	Phần	đèn	báo	phanh	của	Hiace	là	đèn	LED	,	tốt	hơn	đèn	thường	của	Solati	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3
+33	Phía	đối_thủ	,	Nissan	Terra	V	2019	sở_hữu	cụm	đèn_pha	to	bản	đi	cùng	dải_đèn	LED	chiếu	sáng	ban_ngày	có	chức_năng	tự_động	bật	/	tắt	tương_tự	như	VinFast	LUX	SA2	.	0	cao_cấp	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4
+33	Đi	dọc	thân	xe	,	có_thể	thấy	Nissan	Terra	V	2019	và	VinFast	LUX	SA2	.	0	đều	trang_bị	gương	chiếu	hậu	có	khả_năng	chỉnh	,	gập	điện	,	tích_hợp	đèn	báo	rẽ	0	0	0	0	0	0	0	1	2	2	2	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20	Như_vậy	,	mẫu	xe	cỡ	nhỏ	của	Suzuki	cho	khả_năng	tiết_kiệm	nhiên_liệu	hơn	hẳn	so	với	mẫu	Hatchback	của	Honda	0	0	1	2	2	2	2	2	0	0	0	0	0	0	0	0	3	4	4	4
+16	Tuy_nhiên	,	Nissan	Navara	vẫn	nhỉnh	hơn	Colorado	với	hệ_thống	đèn_pha	LED	/	Projector	tự_động	bật_tắt	0	0	1	2	0	0	0	3	0	0	0	0	0	0	0	0
+24	Tuy_nhiên	,	Vinfast	LUX	vẫn	tốt	hơn	một_chút	vì	bóng	đèn_pha	có_thể	tự_động	bật	tắt	,	trong	khi	Fortuner	chỉ	là	bóng	chiếu	cơ_bản	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+15	Đèn	sương_mù	của	SA2	.	0	là	tích_hợp	chiếu	góc	hiện_đại	hơn	đối_thủ	người	Nhật	0	0	0	1	2	2	0	0	0	0	0	0	3	4	4
+18	Có_thể	nhận	thấy	Mazda2	được	trang_bị	nhiều	tính_năng	tiện_nghi	và	cả	tính_năng	an_toàn	hơn	so	với	Attrage	2018	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+21	Cụm	đèn_pha	trên	bản	cao_cấp	Wildtrak	chỉ	được	trang_bị	đèn	dạng	Projector	,	kém	hẳn	so	với	đèn	LED	của	Raptor	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+16	Điểm_trừ	của	Toyota_Avanza	mới	là	không	được	trang_bị	đèn_chiếu	sáng	ban_ngày	khá	thiệt_thòi	so	với	đối_thủ	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3
+15	Hyundai	Kona	lắp_đặt	đèn_pha	halogen	cho	các	phiên_bản	thường	,	hơi	kém	so	với	Rush	1	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+15	Chiếc	xe	Hàn_Quốc	có	nhiều	trang_bị	hơn	,	vận_hành	thực_sự	mạnh_mẽ	và	an_toàn	hơn	đối_thủ	1	2	2	0	0	0	0	0	0	0	0	0	0	0	3
+20	Tuy_vậy	,	cụm	đèn_pha	của	Sunny	XV	chỉ	là	loại	đèn	Halogen	thông_thường	,	còn	kém	so	với	Vios	G	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	3	4
+17	Cùng	với	đó	,	khả_năng	tiết_kiệm	nhiên_liệu	của	Toyota_Vios	G	2019	cũng	tốt	hơn	so	với	đối_thủ	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	3
+15	S450	Luxury	được	yêu	thích	hơn	1	chút	vì	đèn	có	khả_năng	chống	chói	tiện_dụng	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Mặt_khác	,	về	khả_năng	tiết_kiệm	nhiên_liệu	,	Honda	CR	-	V	có	mức	tiêu_thụ	thấp	hơn	so	với	Toyota_Fortuner	máy	xăng	và	tương_đương	với	bản	dầu	Fortuner	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0
+33	Thực_tế	,	nếu	nói	về	trang_bị	đầu	xe	thì	Honda	City	vẫn	có	chút	hấp_dẫn	hơn	Honda_Jazz	vì	gắn	full	-	LED	,	trong	khi	Honda	Jazz	vẫn	còn	dùng	đèn	sương_mù	halogen	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	4	0	0	0	0	0	0
+38	Tuy_vậy	,	Honda	Civic	1.5	L	có	khả_năng	tiết_kiệm	nhiên_liệu	tốt	hơn	Altis	Sport	2.0	L	với	mức	tiêu_thụ	lần_lượt	ở	đường	kết_hợp	,	đô_thị	và	ngoài	đô_thị	lần_lượt	là	5,8	/	8,0	/	4,6	lít	/	100km	0	0	1	2	2	2	0	0	0	0	0	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	Tuy_nhiên	,	hiện_đại	hơn	đối_thủ	,	đèn	của	Tucson	có	thêm	tính_năng	mở_rộng	góc	chiếu	,	giúp	cho	người	lái	quan_sát	tốt	hơn	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+30	Xét	về	tổng_thể	,	Hyundai	Konda	2.0	AT	2018	hiện	đang	nổi_bật	hơn	Mitsubishi	Xpander	1.5	AT	2018	nhờ	vào	trang_bị	tiện_nghi	,	khả_năng	vận_hành	và	các	tính_năng	an_toàn	vượt_trội	0	0	0	0	1	2	2	2	2	0	0	0	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0
+40	Mazda	CX	-	5	hoàn_toàn	đả	bại	đối_thủ	khi	có	thêm	tính_năng	cân_bằng	điện_tử	,	chống	trượt	,	hỗ_trợ	khởi	hàng	ngang	dốc	,	mã_hóa	động_cơ	,	cảnh_báo	chống	trộm	,	khóa	cửa	tự_động	,	định_vị	GPS	,	cảm_biến	trước_sau	1	2	2	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	Tại	thị_trường	Indonesia	,	Xpander	còn	được	bình_chọn	là	mẫu	xe	tiết_kiệm	nhiên_liệu	nhất	phân	khúc	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	4
+24	Đối_với	bản	cơ_sở	,	CR	-	V	2.4	L	tiết_kiệm	nhiên_liệu	hơn	RAV4	với	các	con_số	tương_ứng	là	9,0	-	7,3	lít	/	100km	0	0	0	0	1	2	2	2	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+23	Toyota	Wigo	2018	và	Kia	Morning	2018	đều	được	trang_bị	đèn_pha	Halogen	,	riêng	Morning	vượt_trội	hơn	với	đèn	LED	chiếu	sáng	ban_ngày	3	4	4	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+59	​	Dĩ_nhiên	,	nếu	so_sánh	trang_bị	thì	CX	-	5	vẫn	kém	hơn	1	chút	khi	chỉ	có	đèn	trước	LED	,	đèn_pha	tự_động	bật	tắt	,	đèn	sương_mù	LED	;	khó	có_thể	so	với	đèn	Full	-	LED	,	tự_động	điều_chỉnh	góc	chiếu	,	dẫn	đường	tự_động	và	đèn	sương_mù	tự	bật	khi	vào	cua	của	Peugeot	3008	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+32	Để	bù	cho	cụm	đèn	trước	halogen	thua_kém	đối_thủ	thì	gương	chiếu	hậu	của	Avanza	có_thể	chỉnh	gập	điện	gắn	báo	rẽ	,	tốt	hơn	gương	chỉ	gắn	báo	rẽ	của	Rush	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+18	Phiên_bản	cao_cấp	Yaris	G	còn	được	trang_bị	hệ_thống	đèn_chiếu	giúp	cho	người	lái	có	tầm	nhìn	tốt	hơn	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+32	Về	đầu	xe	,	Toyota	Yaris	2018	hay	Ford	Ecosport	2018	đều	sử_dụng	đèn_pha	halogen	và	có	thêm	bóng	projector	nếu	mua	bản	cao_cấp	,	cho	khả_năng	chiếu	sáng	cao	hơn	hẳn	0	0	0	0	1	2	2	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+17	Bởi	lẽ	,	Ecosport	gần	như	lấn_át	đối_thủ	về	mọi	mặt	,	từ	trang_bị	cho	tới	động_cơ	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0
+30	Do	đó	,	mặc_dù	phiên_bản	cơ_sở	của	C	-	HR	tiết_kiệm	nhiên_liệu	tốt	hơn	HR	-	V	,	nhưng	cũng	khó	để	so_sánh	khi	nâng_cấp	lên	các	phiên_bản	cao_cấp	hơn	0	0	0	0	1	2	2	2	2	2	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Tuy_nhiên	,	Vios	thua_kém	Hyundai	Accent	2018	khi	không	trang_bị	đèn	LED	và	đèn_pha	vẫn	là	loại	halogen	projector	có	khá	nhiều	hạn_chế	về	khả_năng	hỗ_trợ	người	lái	0	0	1	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Đèn	xe	Accent	đằng	sau	là	đèn	LED	3D	nên	chắc_chắn	sẽ	làm	hài_lòng	người	dùng	hơn	so	với	đèn	thường	của	Mazda	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+20	Fortuner	2018	cũng	vượt_trội	hơn	Trailblazer	khi	được	trang_bị	đầy_đủ	hệ_thống	đèn_pha	LED	trong	khi	đối_thủ	vẫn	ứng_dụng	đèn	Halogen	1	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	Hiện_đại	hơn	Mazda2	một_chút	,	Toyota_Vios	được	trang_bị	đèn_pha	halogen	kiểu	projector	0	0	3	0	0	1	0	0	0	0	0	0
+24	Tuy_nhiên	cả	2	mẫu	xe	này	đều	bị	hạn_chế	so	với	các	đối_thủ	khác	trong	cùng	phân	khúc	khi	không	có	đèn	LED	ban_ngày	0	0	1	2	2	0	0	0	0	0	0	3	4	4	4	4	4	4	0	0	0	0	0	0
+39	Ở	phía	đối_thủ	,	Toyota_Yaris	có	lợi_thế	về	tiết_kiệm	nhiên_liệu	,	nhưng	chừng	đó	cũng	không	đủ	để	bù	vào	những	khiếm_khuyết	về	trang_bị	(	dù	xe	có_giá	hơn	600	triệu	)	hay	động_cơ	(	chỉ	84	mã_lực	)	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19	Cả	về	trang_bị	,	vận_hành	hay	ngoại_thất	đều	cho	thấy	Mitsubishi	Triton	còn	trên_cơ	mẫu	xe	Mỹ	hơn	một_chút	0	0	0	0	0	0	0	0	0	0	1	2	0	0	3	4	4	0	0
+35	Honda	CR	-	V	có	sẵn	hỗ_trợ	đánh	lại	chủ_động	,	đèn	báo	phanh	khẩn_cấp	,	cảnh_báo	chống	buồn_ngủ	và	đặc_biệt	là	camera	lùi	3	góc_quay	,	tốt	hơn	1	góc_quay	của	CX	-	5	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+31	Chưa	kể	,	Colorado	cũng	sử_dụng	hộp_số	tự_động	6	cấp	,	hơn	hẳn	hộp_số	5	cấp	của	Triton	nên	chắc_chắn	xe	sẽ	cho	trải	nghiệm	tốt	hơn	và	tiết_kiệm	nhiên_liệu	hơn	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+32	Tuy_nhiên	,	Mirage	lại	cho	khả_năng	tiết_kiệm	nhiên_liệu	đáng	kinh_ngạc	khi	chỉ	ngốn	4.99	l	/	100	km	đường	hỗn_hợp	,	thấp	hơn	nhiều	so	với	mức	6l	/	100km	của	i10	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+34	Bên	cạnh	đó	,	việc	trang_bị	công_nghệ	Skyactiv	cũng	giúp	Mazda	6	tiết_kiệm	nhiên_liệu	khá	tốt	,	hoàn_toàn	áp_đảo	đối_thủ	với	chỉ_số	6,9	lít	/	100km	(	Camry	là	8,2	lít	/	100km	)	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Santa	Fe	chắc_chắn	cho	cảm_giác	tốt	hơn	nhờ	thiết_kế	đèn	HID	cho	khả_năng	chiếu	pha	tự_động	,	hơn	hẳn	đèn	halogen	"	cùi	bắp	"	của	Toyota_Fortuner	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+12	Dù_vậy	yếu	điểm	của	xe	trước	đối_thủ	Corolla	là	đèn_pha	dạng	Halogen	0	0	0	0	1	0	3	4	0	0	0	0
+15	Dù	thua_kém	về	tính_năng	giải_trí	nhưng	Chevrolet	Trax	2017	lại	trên_cơ	đối_thủ	về	hệ_thống	an_toàn	0	0	0	0	0	0	1	2	2	0	0	3	0	0	0
+14	Cả	hai	mẫu	SUV	đều	có	khả_năng	tiết_kiệm	nhiên_liệu	tốt	so	với	phân	khúc	1	2	2	2	0	0	0	0	0	0	0	0	3	4
+22	Hiện_tại	,	động_cơ	này	tạo	ra	mức	tiêu_thụ	nhiên_liệu	trung_bình	7,9	lít	/	100km	,	giảm	28	%	so	với	phiên_bản	trước	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+29	Dù	kém	hơn	đối_thủ	về	trang_bị	giải_trí	nhưng	X	-	Trail	lại	cực_kì	có	lợi_thế	ở	trang_bị	an_toàn	,	kể_cả	so	với	tất_cả	các	mẫu	xe	trong	phân	khúc	0	0	0	3	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15	Dù_vậy	,	Ford	Explorer	vẫn	nhỉnh	hơn	1	chút	nhờ	công_nghệ	chiếu	sáng	đèn_pha	tự_động	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0
+25	Đầu	xe	có	cảm_giác	khá	thoáng	và	rộng	,	đi	kèm	đèn_pha	halogen	và	đèn	projector	bắt_mắt	hơn	so	với	bóng	halogen	truyền_thống	của	City	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+36	Mazda	CX	-	5	phiên_bản	mới	lắp_đặt	đèn	định_vị	LED	nửa	vòng_tròn	cho	cả	đầu	và	đuôi	xe	,	ngoài_ra	các	trang_bị	như	cần	gạt	mưa	tự_động	,	đèn	sương_mù	LED	rõ_ràng	đã	ghi_điểm	hơn	đối_thủ	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+23	Ngoài_ra	,	đèn_pha	và	cần	gạt	mưa	của	xe	đều	là	tự_động	,	đem	lại	tiện_ích	hơn	hẳn	so	với	mẫu	xe	Hàn_Quốc	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+20	Sự	tiện_dụng	,	chắc_chắn	,	bền_bỉ	và	khả_năng	tiết_kiệm	nhiên_liệu	đáng	ngạc_nhiên	đã	giúp	Innova	nhanh_chóng	vượt	xa	các	đối_thủ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3
+57	So	với	đối_thủ	mazda	3	2015	,	mẫu	sedan	nhà	Hyundai	có	vẻ	“	chơi_trội	”	hơn	khi	sử_dụng	bóng	Bi	-	Xenon	và	dải_đèn	LED	ban_ngày	trên	tất_cả	các	phiên_bản	,	trong	khi	bản	cao_cấp	nhất	của	Mazda	3	2015	mới	trang_bị	đèn_pha	Bi	-	Xenon	,	2	phiên_bản	1.5	L	đều	chỉ	dùng	bóng	Halogen	0	0	3	4	4	4	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Ngoài_ra	,	hộp_số	tự_động	4	cấp	cũng	giúp	Grand	i10	ghi_điểm	với	khách_hàng	nhờ	khả_năng	tiết_kiệm	nhiên_liệu	và	việc	vận_hành	dễ_dàng	hơn	so	với	hộp_số	sàn	5	cấp	của	đối_thủ	Mirage	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+20	Trong	khi	đó	,	đối_thủ	Mazda	2	có	phần	hiện_đại	hơn	với	đèn_pha	dạng	LED	,	tự_động	điều_chỉnh	độ	cao	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Mẫu	xe_hơi	đến	từ	Nhật_Bản	có	chút	yếu_thế	so	với	đại_diện	Hàn_Quốc	khi	cụm	đèn_pha	chỉ	là	halogen	kết_hợp	với	projector	còn	đèn_pha	của	CX	-	5	là	Bi	-	xenon	1	2	2	2	2	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	Bù	lại	,	Vios	tiết_kiệm	nhiên_liệu	hiệu_quả	hơn	chiếc	sedan	của	Chevrolet	0	0	0	1	0	0	0	0	3	4	4	4
+14	Đấy	là	chưa	kể	đến	khả_năng	tiết_kiệm	nhiên_liệu	của	Hilux	cũng	trội	hơn	Ranger	0	0	0	0	0	0	0	0	0	1	0	0	0	3
+15	Kia	Soluto	MT	Deluxe	có	mức	tiêu_hao	nhiên_liệu	thấp	hơn	so	với	Toyota_Vios	E	MT	1	2	2	2	0	0	0	0	0	0	0	0	3	4	4
+38	Do	đó	,	về	khả_năng	chiếu	sáng	,	đèn_pha	Mitsubishi	Pajero	Sport	có	tầm	chiếu	xa	và	bao_quát	hơn	đối_thủ	,	giúp	người	lái	dễ_dàng	quan_sát	hơn	,	đặc_biệt	là	khi	chạy	đêm	ở	những	cung	đường	mới	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19	Tuy_nhiên	,	Triton	có	bi	projector	,	cho	độ	chụm	của	ánh_sáng	tốt	hơn	là	Hilux	dùng	dạng	bóng	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+11	Toyota_Raize	với	đèn	báo	rẽ	LED	có	hiệu_ứng	dòng_chảy	hiện_đại	hơn	1	0	0	0	0	0	0	0	0	0	0
+30	Khả_năng	mang	theo	hành_lý	của	Kia	Sonet	còn	được	đánh_giá	cao	hơn	khi	mẫu	xe	này	được	trang_bị	giá	nóc	tiêu_chuẩn	,	trong	khi	đối_thủ	Toyota_Raize	không	trang_bị	tính_năng	này	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0
+13	Giống	như	đối_thủ	của	mình	,	xe	cũng	được	trang_bị	dải_đèn	LED	ban_ngày	0	0	3	0	0	0	1	0	0	0	0	0	0
+30	Về	khả_năng	chiếu	sáng	,	Hyundai	Accent	2021	sử_dụng	hệ_thống	đèn_pha	Halogen	Projector	nên	hiệu_năng	mang	lại	là	kém_cạnh	hơn	so	với	dàn	đèn	công_nghệ	LED	hiện_đại	trên	Toyota_Vios	2021	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+38	Isuzu	D	-	Max	2021	trang_bị_động_cơ	turbo	biến_thiên	Diesel	1.9	L_Ddi	,	có	dung_tích	nhỏ	hơn	,	tiết_kiệm	nhiên_liệu	hơn	đồng_thời	mạnh	hơn	14	mã_lực	và	26Nm	,	đạt	150	mã_lực	và	mô	-	men	xoắn	cực_đại	350Nm	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+10	KIA	Cerato	2.0	Premium	trang_bị	hệ_thống	đèn_pha	hiện_đại	hơn	đối_thủ	1	2	2	2	0	0	0	0	0	3
+24	Xe	có	đèn_pha	LED	,	tự_động	bật	/	tắt	,	cường_độ	chiếu	sáng	và	tầm	chiếu	tốt	hơn	Honda	Civic	là	đèn_pha	bi	halogen	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0
+22	Ngoài_ra	,	thân	xe	nhẹ	hơn	cũng	cho	Suzuki	Ertiga	Sport	khả_năng	tiết_kiệm	nhiên_liệu	tốt	hơn	đáng_kể	so	với	Mitsubishi	Xpander	AT	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	4	4
+8	Peugeot	5008	cho	khả_năng	tiết_kiệm	nhiên_liệu	vượt_trội	hơn	1	2	0	0	0	0	0	0
+28	Tại	Việt_Nam	,	Kia	Seltos	2020	sở_hữu	khá	nhiều	ưu_điểm	vượt_trội	so	với	Ford	EcoSport	,	từ	danh_mục	trang_bị	hiện_đại	,	cho	đến	động_cơ	tăng	áp	mạnh_mẽ	hơn	0	0	0	1	2	2	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+36	Bản_thể_thao	của	Elantra	nhỉnh	hơn	khi	đèn_pha	có	thêm	chức_năng	mở_rộng	góc	chiếu	theo	tay_lái	,	gương	chiếu	hậu	với	chức_năng	sấy	–	cực_kỳ	hữu_ích	trong	điều_kiện	thời_tiết	mưa	nhiều	và	sương	mùa	như	tại	Việt_Nam	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57	Peugeot	3008	lợi_thế	hơn	đôi_chút	khi	có	cần	số	điện_tử	,	đồng_hồ	lái	màn_hình	kỹ_thuật_số	kích_thước	lớn	,	đèn	trang_trí	nội_thất	,	điều	hòa	tự_động	2	vùng	có	tính_năng	khử	mùi	và	lọc	ion	,	ngăn	làm	mát	trung_tâm	,	dung_tích	cốp	đạt	tới	520	lít	(	trên	CX	-	5	chỉ	505	lít	)	.	.	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Có_thể	thấy	,	Attrage	2020	vượt	hẳn	đối_thủ	về	trang_bị	khi	gần	như	toàn_bộ	hệ_thống	đèn_chiếu	sáng	sử_dụng	công_nghệ	LED	,	không	chỉ	hiện_đại	mà	còn	an_toàn	hơn	0	0	0	1	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	Mitsubishi	Attrage	vượt_trội	hơn	Kia	Soluto	về	trang_bị	tiện_nghi	và	công_nghệ	hiện_đại	1	2	0	0	3	4	0	0	0	0	0	0
+20	Tuy_nhiên	,	Mazda	6	có	lợi_thế	tốt	hơn	rất	nhiều	về	trang_bị	giải_trí	,	sức_mạnh	vận_hành	và	khả_năng	hỗ_trợ	lái	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+46	Trong	khi	đó	,	Vinfast	LUX	SA2	.	0	hấp_dẫn	hơn	đáng_kể	bởi	màn_hình	thông_tin	giải_trí	10.4	inch	,	hệ_thống	âm_thanh	8	loa	,	đèn	trang_trí	nội_thất	,	gương	chiếu	hậu	tự_động	điều_chỉnh	khi	lùi	và	bộ	mâm	xe	kích_thước	lớn	hơn	(	19	inch	)	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	So	về	trang	thiết_bị	ngoại_thất	thì	Accent	1.4	AT	nhỉnh	hơn	khi	được	trang_bị	hệ_thống	đèn	trước	Halogen_Projector	(	trên	Soluto	AT	Deluxe	là	Halogen	loại	thường	)	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	Tiguan	Allspace	tỏ	ra	hào_phóng	hơn	về	mặt	trang_bị	so	với	đối_thủ	GLC	200	1	2	0	0	0	0	0	0	0	0	0	3	0	0
+34	Dòng	SUV	của	Hyundai	còn	nổi_trội	với	hộp_số	tự_động	8	cấp	mới	,	cho	khả_năng	chuyển	số	êm_ái	và	tiết_kiệm	nhiên_liệu	hơn	so	với	hộp_số	tự_động	6	cấp	trên	Mazda	CX	-	5	Luxury	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+17	Mazda	2	có_giá	bán	cao	hơn	40	triệu	,	tương_xứng	với	nhiều	tính_năng	hơn	so	với	đối_thủ	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+13	Tuy_nhiên	Triton	cao_cấp	hơn	với	bóng	HID	Projector	và	đèn	LED	ban	này	0	1	0	0	0	0	0	0	0	0	0	0	0
+8	Nissan	Navara	hiện_đại	hơn	với	đèn	LED	Projector	1	2	0	0	0	0	0	0
+13	Hyundai	Kona	có	lợi_thế	hơn	về	trang_bị	,	tiện_nghi	giải_trí	và	tính_năng	an_toàn	1	2	0	0	0	0	0	0	0	0	0	0	0
+21	Có_thể	thấy	,	Hyundai	Santa_Fe	2019	có	lợi_thế	hơn	hẳn	về	trang_bị	tiện_nghi	-	an_toàn	cũng	như	một_số	tính_năng	hỗ_trợ	lái	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18	Theo	số_liệu	công_bố	của	nhà	sản_xuất	,	Hyundai	Accent	có	khả_năng	tiết_kiệm	nhiên_liệu	tốt	hơn	Honda	City	đôi_chút	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	3	4	0
+20	City	nhỉnh	hơn	khi	được	trang_bị	hệ_thống	đèn	cụm	đèn	full	LED	,	trên	Accent	là	loại	Bi	-	halogen	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Bù	lại	,	dàn	đèn	hậu	của	Trailblazer	xuất_hiện	nhiều	bóng	LED	hơn	ở	cụm	đèn	phanh	còn	đối_thủ	chỉ	thuần	là	halogen	toàn_bộ	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+23	Tuy_nhiên	,	ở	phiên_bản	cao_cấp	nhất	Chevrolet_Trailblazer	dường_như	nhỉnh	hơn	ở	hầu_hết	các	hạng_mục	từ	tiện_nghi	,	an_toàn	cũng	như	động_cơ	mạnh_mẽ	hơn	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25	EcoSport	nổi_bật	hơn	cả	,	tuy_nhiên	nếu	đem	ra	so_sánh	thì	Chevrolet	Trax	vẫn	có	những	ưu_điểm	vượt_trội	riêng	về	công_nghệ	và	khả_năng	vận_hành	mạnh_mẽ	1	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0
+27	Không	kém_cạnh	đối_thủ	Outlander	cũng	được	trang_bị	đèn_pha	công_nghệ	LED	và	có	tới	2	bóng	LED	,	hệ_thống	rửa	đèn_pha	hỗ_trợ	khi	đi	đường	bụi	bẩn	ban_đêm	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+17	Nhìn_chung	có_thể	thấy	SantaFe	hơn	hẳn	Fortuner	về	mọi	mặt	từ	tiện_nghi	,	công_nghệ	hay	độ	an_toàn	0	0	0	1	0	0	3	0	0	0	0	0	0	0	0	0	0
+22	Bên	cạnh	đó	,	Cerato	có	phần	nhỉnh	hơn	khi	được	trang_bị	đuôi	cá	ở	cốp	sau	và	đèn	phanh	dạng	LED	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Trang_bị	chiếu	sáng	của	Wildtrak	2.2	L	nhỉnh	hơn	đối_thủ	đôi_chút	khi	sử_dụng	đèn_pha	Projector	,	đèn	cốt	Bi	-	xenon	và	dãy	đèn	LED	chạy	ban_ngày	0	0	0	0	1	2	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+17	Ở	hạng_mục	thiết_bị	tiện_nghi	,	Triton	MIVEC	tỏ	ra	nhỉnh	hơn	BT	-	50	3.2	AT	4WD	0	0	0	0	0	1	2	0	0	0	0	3	4	4	4	4	4
+38	Ngoài	lưới	tản_nhiệt	gồm	các	thanh	kim_loại	và	logo	chữ	S	bóng_bẩy	,	Suzuki	còn	mang	đến	đèn_pha	Halogen	kiểu	Projector	cho	khả_năng	chiếu	sáng	rõ_ràng	và	đẹp_mắt	hơn	so	với	bóng	Halogen	thông_thường	ở	City	1.5	CVT	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+21	High	Country	cũng	như	Triton	4x4	AT	MIVEC	sử_dụng	đèn_pha	,	đèn	cốt	Halogen	cho	khả_năng	chiếu	sáng	rõ_ràng	,	hiệu_quả	1	2	0	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+25	Cả	hai	cùng	trang_bị	hệ_thống	chiếu	sáng	là	đèn	Halogen	nhưng	Suzuki	nhỉnh	hơn	với	đèn_pha	kiểu	bóng	chiếu	Projector	và	hốc	đèn	sắc	nét	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+17	Suzuki	mang	đến	cụm	cốt	LED	kiểu	Projector	hiện_đại	so	với	với	loại	Halogen	Projector	ở	Trax	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+8	Mức	tiêu_hao	nhiên_liệu	cao	hơn	so	với	đối_thủ	0	0	0	0	0	0	0	3
+24	Tuy_nhiên	nhìn_chung	có_thể	thấy	,	Mazda	3	2015	nhỉnh	hơn	so	với	Civic	về	nhiều	mặt	,	bao_gồm	khả_năng	tiết_kiệm	xăng	,	trang_bị	an_toàn	0	0	0	0	0	1	2	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+22	Động_cơ	hybrid	của	QX60	tiết_kiệm	nhiên_liệu	hơn	với	lượng	tiêu_hao	là	9,04	l	/	100km	đô_thị	và	8,4	l	/	100km	đường_trường	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	Thêm	vào	đó	,	hệ_thống	đèn	LED	chạy	ban_ngày	làm	cho	xe	nổi_bật	hơn	đối_thủ	Nhật_Bản	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4

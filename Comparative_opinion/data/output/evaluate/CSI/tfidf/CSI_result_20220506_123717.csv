@@ -1,0 +1,7 @@
+,score
+Model,SVC()
+Ngram,2
+Threshold,0
+F1,0.8358938547486033
+Precision,0.9560702875399361
+Recall,0.7425558312655087

@@ -1,0 +1,8 @@
+,score
+Aspect,an_toàn
+Model,LGBMClassifier()
+K_best,3000
+Threshold,0.01
+F1,0.9393939393939394
+Precision,0.9117647058823529
+Recall,0.96875

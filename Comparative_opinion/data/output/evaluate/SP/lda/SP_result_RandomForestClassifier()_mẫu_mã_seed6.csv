@@ -1,0 +1,10 @@
+,score
+Aspect,mẫu_mã
+seed,6
+Model,RandomForestClassifier()
+p-negative,0.9642857142857143
+r-negative,0.7105263157894737
+F1-negative,0.8181818181818182
+p-positive,0.9642857142857143
+r-positive,0.7105263157894737
+F1-positive,0.8181818181818182

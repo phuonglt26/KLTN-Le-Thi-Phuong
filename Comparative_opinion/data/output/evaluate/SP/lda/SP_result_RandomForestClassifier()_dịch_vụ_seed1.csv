@@ -1,0 +1,10 @@
+,score
+Aspect,dịch_vụ
+seed,1
+Model,RandomForestClassifier()
+p-negative,0.9090909090909091
+r-negative,0.5555555555555556
+F1-negative,0.6896551724137931
+p-positive,0.9090909090909091
+r-positive,0.5555555555555556
+F1-positive,0.6896551724137931

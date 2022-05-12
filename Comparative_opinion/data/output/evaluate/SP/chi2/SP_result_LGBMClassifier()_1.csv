@@ -1,0 +1,5 @@
+,score
+Model,LGBMClassifier()
+Macro-F1 negative,0.7707621103112606
+Macro-F1 positive,0.8932495555446376
+Macro-F1 neutral,0.821811391223156

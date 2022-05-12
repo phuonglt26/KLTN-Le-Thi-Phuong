@@ -1,0 +1,4 @@
+,score
+Model,RandomForestClassifier(random_state=42)
+Macro-F1 negative,0.6559694434694434
+Macro-F1 positive,0.9813701881151784

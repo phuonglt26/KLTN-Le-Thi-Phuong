@@ -1,0 +1,10 @@
+,score
+Aspect,phụ_kiện
+seed,1
+Model,LogisticRegression()
+p-negative,0.625
+r-negative,0.5
+F1-negative,0.5555555555555556
+p-positive,0.625
+r-positive,0.5
+F1-positive,0.5555555555555556

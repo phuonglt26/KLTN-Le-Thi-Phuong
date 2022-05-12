@@ -1,0 +1,7 @@
+,score
+Aspect,giá
+Model,LogisticRegression()
+K_best,3000
+F1-negative,0.8775510204081632
+F1-positive,0.8571428571428571
+F1-neutral,0.7499999999999999

@@ -1,0 +1,10 @@
+,score
+Aspect,chính_hãng
+seed,6
+Model,RandomForestClassifier()
+p-negative,1.0
+r-negative,0.2857142857142857
+F1-negative,0.4444444444444445
+p-positive,1.0
+r-positive,0.2857142857142857
+F1-positive,0.4444444444444445

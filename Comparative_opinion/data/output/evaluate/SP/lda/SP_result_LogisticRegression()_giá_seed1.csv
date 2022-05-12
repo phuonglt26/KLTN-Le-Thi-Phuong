@@ -1,0 +1,10 @@
+,score
+Aspect,giá
+seed,1
+Model,LogisticRegression()
+p-negative,0.0
+r-negative,0.0
+F1-negative,0.0
+p-positive,0.0
+r-positive,0.0
+F1-positive,0.0

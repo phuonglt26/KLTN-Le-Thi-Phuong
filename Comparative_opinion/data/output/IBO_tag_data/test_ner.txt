@@ -1,0 +1,200 @@
+19	Về	trang_bị	an_toàn	,	Toyota_Vios	GR	-	S	2021	nhỉnh	hơn	nhờ	hệ_thống	kiểm_soát	lực	kéo	và	cảm_biến	lùi	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0
+11	Điểm	vượt_trội	của	Sorento	so	với	đối_thủ	đến	từ	công_nghệ	an_toàn	0	0	0	1	0	0	3	0	0	0	0
+29	Trong	khi	đó	,	Kia	Sorento	2021	là	một	chiếc	xe	trẻ_trung	,	nội_thất	tiện_nghi	,	công_nghệ	an_toàn	dẫn_đầu	và	mang	đến	những	trải	nghiệm	êm_ái	cho	người	dùng	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25	Trong	khi	đó	,	Ford	EcoSport	vẫn	mang	đến	những	tính_năng	an_toàn	khá	cơ_bản	nếu	không	muốn	nói	là	thiếu	khá	nhiều	so	với	đối_thủ	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+20	Đặc_biệt	,	chiếc	xe	này	có	những	công_nghệ	an_toàn	hàng_đầu	phân	khúc	xứng_đáng	là	lựa_chọn	đáng	tiền	ở	thời_điểm	hiện_tại	0	0	1	2	2	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0
+15	Nhờ	đó	,	những	chiếc	xe	Subaru	luôn	được	biết	đến	là	an_toàn	nhất	thế_giới	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3
+23	So	với	CR	-	V	,	đội_ngũ	so_sánh	xe	chúng_tôi	cảm_thấy	an_toàn	hơn	với	loạt	tính_năng	hỗ_trợ	người	lái	thuộc	gói	an_toàn	EyeSight	0	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	Với	những	công_nghệ	an_toàn	được	trang_bị	,	Mitsubishi	Xpander	2020	đang	tỏ	ra	vượt_trội	hơn	đối_thủ	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	3
+29	Ford	Everest	là	mẫu	xe	đi	đầu	trong	việc	trang_bị	những	công_nghệ	an_toàn	tiên_tiến	và	hiện_đại	nhất	trong	phân	khúc	SUV	7	chỗ	tại	Việt_Nam	từ	2	năm	trước	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4	0	0	0	0
+27	Mitsubishi	Pajero	Sport	2021	mới	được	nâng_cấp	với	ngoại_hình	trẻ_trung	hơn	và	đặc_biệt	là	mẫu	SUV	này	giờ_đây	đã	đầy_ắp	công_nghệ	an_toàn	so	với	chính	phiên_bản	tiền_nhiệm	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+25	Toyota_Fortuner	2021	bổ_sung	bản	Legender	với	ngoại_hình	tươi	mới	,	đặc_biệt	chiếc	xe	này	đã	sở_hữu	nhiều	công_nghệ	an_toàn	hơn	hẳn	so	với	đời	cũ	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+29	Như_vậy	,	có_thể	thấy	MG	ZS	2021	nhỉnh	hơn	đối_thủ	ở	phương_diện	an_toàn	,	đồng_thời	chiếc	xe	này	còn	mới	đạt	chứng_nhận	an_toàn	5	sao	do	ASEAN	NCAP	cấp	0	0	0	0	1	2	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Tuy_nhiên	,	chiếc	xe	do	Thaco	lắp_ráp	có	khá	ít	công_nghệ	an_toàn	so	với	đối_thủ	trực_tiếp	là	một	nhược_điểm	lớn	của	xe	0	0	1	2	2	2	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0
+14	Trước_đây	,	Ford	Everest	luôn	dẫn_đầu	phân	khúc	nhờ	sở_hữu	hàng_loạt	công_nghệ	an_toàn	cao_cấp	0	0	1	2	0	0	3	4	0	0	0	0	0	0
+12	Hyundai	có	cảm_biến	góc	đầu	xe	,	trang_bị	hơn	hẳn	đối_thủ	Corolla_Altis	1	0	0	0	0	0	0	0	0	0	3	4
+16	Mitsubishi	Xpander	Cross	2020	sẽ	tương_tự	như	Xpander	đang	bán	ở	Việt_Nam	về	các	công_nghệ	an_toàn	1	2	2	2	0	0	0	3	4	4	4	4	0	0	0	0
+23	Và	Mitsubishi	Triton	2020	và	Toyota_Hilux	2020	sở_hữu	công_nghệ	an_toàn	hàng_đầu	phân	khúc	giúp	hỗ_trợ	người	lái	an_toàn	hơn	khi	di_chuyển	trên	đường	0	1	2	2	2	2	2	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0
+29	Trong	khi	đó	,	MG	ZS	2020	có	lợi_thế	với	nhiều	công_nghệ	an_toàn	hơn	,	đây	là	yếu_tố	thường	thấy	của	những	mẫu	xe	thuộc	sở_hữu	của	người	Trung_Quốc	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	So	với	đối_thủ	,	Tucson	thiếu	camera	quan_sát	phía	trước	,	bởi	đơn_giản	chiếc	xe	này	không	có	gói	an_toàn	camera	360	độ	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Không	có	quá	nhiều	công_nghệ	an_toàn	như	đối_thủ	nên	tay_lái	của	Tucson	chỉ	có	những	phím	chức_năng	cơ_bản	như	điều_chỉnh	âm_lượng	,	ra_lệnh	giọng	nói	,	chuyển	kênh	radio	.	.	0	0	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18	Có_thể	nói	,	BMW	X7	2020	đang	là	chiếc	xe	dẫn_đầu	khi	được	trang	hàng_loạt	công_nghệ	an_toàn	cao_cấp	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+29	Đến	nay	,	Toyota_Rush	2020	vẫn	là	mẫu	xe	an_toàn	nhất	phân	khúc	MPV	tại	Việt_Nam	khi	đạt	tiêu_chuẩn	an_toàn	5	sao	của	ASEAN	NCAP	nhờ	hàng_loạt	tính_năng	an_toàn	0	0	0	1	2	0	0	0	0	0	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+19	Toyota_Fortuner	2020	là	mẫu	xe	hiện	được	cung_cấp	ít	công_nghệ	an_toàn	nhất	phân	khúc	SUV	7	chỗ	tại	Việt_Nam	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20	Nhắc	đến	công_nghệ	an_toàn	,	Ford	Everest	2020	có_thể	"	vỗ_ngực	"	tuyên_bố	mình	sở_hữu	nhiều	trang_bị	nhất	phân	khúc	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	3	4
+21	Theo	công_bố	,	MG	HS	2020	là	một	trong	những	chiếc	xe	an_toàn	nhất	phân	khúc	nhờ	sở_hữu	nhiều	công_nghệ	tiên_tiến	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0
+17	Trong	phân	khúc	CUV	tại	Việt_Nam	,	Subaru	Forester	GT	Edition	2020	sở_hữu	nhiều	trang_bị	an_toàn	nhất	3	4	4	4	4	4	0	1	2	2	2	0	0	0	0	0	0
+13	Toyota_Rush	2020	chính	là	chiếc	xe	an_toàn	nhất	phân	khúc	MPV	tại	Việt_Nam	1	2	0	0	0	0	0	0	3	4	0	0	0
+18	Mazda	3	2020	đang	là	chiếc	xe	nhiều	công_nghệ	an_toàn	nhất	phân	khúc	xe	hạng	C	tại	Việt_Nam	1	2	2	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4
+9	Toyota_Vios	2020	có	nhiều	trang_bị	an_toàn	hơn	hẳn	đối_thủ	1	2	0	0	0	0	0	0	3
+19	Mazda	3	2020	đang	là	mẫu	xe	sở_hữu	nhiều	công_nghệ	an_toàn	nhất	phân	khúc	sedan	hạng	C	tại	Việt_Nam	1	2	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4
+10	BMW	X3	2020	được	trang_bị	ít	công_nghệ	an_toàn	hơn	đối_thủ	1	2	2	0	0	0	0	0	0	3
+26	Theo	đó	,	Subaru	Forester	thế_hệ	thứ	5	là	mẫu	xe	an_toàn	nhất	phân	khúc	CUV	với	hàng_loạt	tính_năng	hỗ_trợ	lái_xe	an_toàn	tiên_tiến	nhất	thế_giới	hiện_nay	0	0	0	1	2	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0	0	0
+31	Thứ_ba	,	thời_điểm	hiện_tại	,	Mitsubishi	Outlander	mới	đang	tỏ	ra	là	mình	có	nhiều	công_nghệ	an_toàn	hơn	,	đặc_biệt	khi	mua	xe	bản	cao_cấp	còn	được	tặng	camera	360	độ	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	So	với	Hyundai_Accent	2019	,	Toyota_Vios	2019	sở_hữu	ít	tính_năng	an_toàn	hơn	0	0	3	4	0	1	2	0	0	0	0	0
+17	Các	tính_năng	an_toàn	trên	Mazda	CX	-	8	được	đánh_giá	là	đầy_đủ	nhất	phân	khúc	tại	Việt_Nam	0	0	0	0	1	2	2	2	0	0	0	0	0	3	4	4	4
+48	Các	trang_bị	an_toàn	của	Suzuki_Ciaz	2019	nghèo_nàn	hơn	so	với	đối_thủ	khi	chỉ	có	2	túi	khí	,	hệ_thống	phân_phối	lực	phanh	điện_tử	EBD	,	hệ_thống	chống	bó	cứng	phanh	ABS	,	hệ_thống	hỗ_trợ_lực	phanh	khẩn_cấp	EBA	,	hệ_thống	chống	trộm	và	camera	lùi	phía	sau	góc	rộng	0	0	0	0	1	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Tổng_kết	lại	,	Mazda	CX	-	8	2019	đang	có	phần	lợi_thế	hơn	nếu	xét	về	ngoại_hình	và	công_nghệ	an_toàn	,	tiện_nghi	so	với	đối_thủ	Ford_Everest	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+13	Xét	về	những	trang_bị	an_toàn	thì	Honda	City	2019	vượt_trội	so	với	đối_thủ	0	0	0	0	0	0	1	2	2	0	0	0	3
+30	Người	dùng	Honda	City	sẽ	phải	chi	ra	khoản	tiền	lớn	nhất	phân	khúc	,	cùng	với	đó	xe	cũng	sở_hữu	nhiều	công_nghệ	an_toàn	vượt_trội	hoàn_toàn	so	với	Kia_Soluto	2019	0	0	1	2	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25	Ở	phiên_bản	vừa	nâng_cấp	với	gói	công_nghệ	i	-	Activsense	,	Mazda	CX	-	5	trở_thành	mẫu	xe	sở_hữu	nhiều	công_nghệ	an_toàn	nhất	phân	khúc	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	3	4
+25	Ở	phiên_bản	vừa	nâng_cấp	với	gói	công_nghệ	i	-	Activsense	,	Mazda	CX	-	5	trở_thành	mẫu	xe	sở_hữu	nhiều	công_nghệ	an_toàn	nhất	phân	khúc	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	3	4
+26	Nhìn_chung	,	xét	nhiều	khía_cạnh	thì	Mazda	CX	-	5	thế_hệ	6.5	đang	tỏ	ra	vượt_trội	hơn	Hyundai_Tucson	2019	về	mặt	trang_bị	an_toàn	,	khả_năng	vận_hành	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+39	Xét	một_cách	tổng_thể	,	Nissan	X	-	Trail	V	-	Series	2019	chỉ	hơn	Hyundai	Tucson	ở	một_số	công_nghệ	an_toàn	và	hàng	ghế	thứ	3	,	còn	hầu_hết	thiết_kế	nội	/	ngoại_thất	đều	kém	xa	đối_thủ	đến	từ	Hàn_Quốc	0	0	0	0	1	2	2	2	2	2	2	2	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	Về	trang_bị	an_toàn	,	V	-	Class	có	chút	nhỉnh	hơn	với	10	túi	khí	bởi	lẽ	Traveller	chỉ	có	6	túi	khí	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+22	Tuy_nhiên	,	xét	về	tổng_thể	thì	Peugeot	Traveller	vượt_trội	hơn	đối_thủ	khá	nhiều	,	cả	về	trang_bị	,	không_gian	cho	tới	an_toàn	0	0	0	0	0	0	1	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+27	Tuy_nhiên	,	Toyota_Hilux	vẫn	tốt	hơn	một_chút	vì	có	tới	6	túi	khí	an_toàn	,	gấp	3	lần	so	với	Colorado	chỉ	có	2	túi	khí	cơ_bản	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0
+9	Tuy_nhiên	,	Mazda	6	nhỉnh	hơn	về	trang_bị	an_toàn	0	0	1	2	0	0	0	0	0
+13	Tương_tự	như	Everest	thì	Pajero_Sport	2019	cũng	được	trang_bị	7	túi	khí	an_toàn	0	0	3	0	1	2	0	0	0	0	0	0	0
+30	Mẫu	SUV	Nhật_Bản	có	phần	nhỉnh	hơn	về	trang_bị	an_toàn	khi	được	bố_trí	lên	tới	7	túi	khí	,	bổ_sung	hệ_thống	kiểm_soát	lực	kéo	hoạt_động	cùng	với	hệ_thống	cân_bằng	điện_tử	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15	Ford	Everest_Titanium	2019	tiếp_tục	nhỉnh	hơn	đối_thủ	về	trang_bị	an_toàn	khi	sở_hữu	hàng_loạt	tính_năng	cao_cấp	1	2	2	0	0	0	3	0	0	0	0	0	0	0	0
+13	Tương_tự	như	Everest	thì	Pajero_Sport	2019	cũng	được	trang_bị	7	túi	khí	an_toàn	0	0	3	0	1	2	0	0	0	0	0	0	0
+19	Ở	trang_bị	an_toàn	,	Kia_Cerato	2019	2.0	AT	cũng	cao_cấp	và	được	chú_trọng	hơn	so	với	bản	1.6	AT	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	3	4	4
+26	Về	trang_bị	an_toàn	,	Vinfast_Fadil	đã	vượt	xa	Spark	và	có_thể	được	coi	là	mẫu	xe	an_toàn	nhất	phân	khúc	khi	sở_hữu	những	công_nghệ	đắt	tiền	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0
+16	Tuy_nhiên	,	về	mặt	trang_bị	an_toàn	dường_như	Fadil	đang	lấn_át	khá	nhiều	đối_thủ	,	kể_cả	Brio	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0
+16	Ở	khía_cạnh	an_toàn	,	Camry	dường_như	nhỉnh	hơn	đối_thủ	một_chút	khi	có	thêm	hẳn	loạt	tính_năng	0	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0
+22	Nhìn_chung	,	VinFast	Fadil	2019	được	trang_bị	nhiều	tiện_nghi	hiện_đại	và	ứng_dụng	nhiều	công_nghệ	nâng	cao	tính_năng	an_toàn	so	với	Toyota_Wigo	2019	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+11	Mẫu	Hatchback	của	Honda	có	phần	vượt_trội	hơn	về	trang_bị	an_toàn	1	2	2	2	0	0	0	0	0	0	0
+14	Nissan	Sunny	XV	tiếp_tục	"	yếu_thế	"	hơn	Toyota_Vios	G	ở	các	trang_bị	an_toàn	1	2	2	0	0	0	0	0	3	4	0	0	0	0
+37	Tuy_nhiên	,	nếu_như	bạn	muốn	chọn	một	chiếc	xe	an_toàn	thì	sự	đầm	chắc	của	Z8	sẽ	làm_bạn	hài_lòng	,	bởi	chiếc	xe	ổn_định	hơn	đối_thủ	CX	-	5	,	tình_trạng	trượt	hay	trôi	gần	như_không	xuất_hiện	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	4	4	4	0	0	0	0	0	0	0	0
+18	Toyota_Wigo	cũng	được	trang_bị	những	hệ_thống	an_toàn	tương_tự	như	Morning	nhưng	thiếu	hệ_thống	phân_bổ	lực	phanh	điện_tử	EBD	1	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+34	Điểm	vớt_vát	duy_nhất	của	EcoSport	là	có	7	túi	khí	,	nhiều	hơn	1	túi	khí	đầu_gối	so	với	Kona	,	đi	kèm	dây	an_toàn	3	điểm	khá	quan_trọng	khi	xảy	ra	tai_nạn	thực_sự	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20	Ngoài_ra	,	Toyota_Corolla	2019	với	hộp_số	CVT	có	danh_sách	toàn_diện	hơn	về	công_nghệ	an_toàn	so	với	bản	sử_dụng	hộp_số	MT	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4
+18	Solati	dù	không	có	nhiều	tính_năng	an_toàn	hấp_dẫn	như	đối_thủ	nhưng	bù	lại	có	thêm	2	túi	khí	1	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+13	Về	hệ_thống	an_toàn	,	Chevrolet	Trailblazer	tiếp_tục	thể_hiện	sự	yếu_kém	trước	đối_thủ	Nhật_Bản	0	0	0	0	1	2	0	0	0	0	0	3	0
+26	Chưa	kể	,	Accent	cũng	sử_dụng	thân	xe	chế_tạo	với	tỷ_lệ	54,5	%	thép	cường_lực	,	chống	vặn	xoắn	32	%	nên	sẽ	an_toàn	hơn	đối_thủ	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+41	Tuy_nhiên	,	Mirage	vẫn	có_thể	ngẩng	cao	đầu	hơn	trước	đối_thủ	bởi	chiếc	xe	này	có	thêm	cột	lái	tự_động	và	đạp	phanh	tự	đổ	,	giúp	xe	dễ_dàng	đạt	được	5	sao	an_toàn	trong	thử_nghiệm	va_chạm	của	A	-	NCAP	0	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Dù_vậy	,	SantaFe	lại	cung_cấp	nhiều	túi	khí	hơn	hẳn	khi	ở	các	phiên_bản	cao_cấp	hơn	,	ngoài_ra	là	thêm	cả	phanh	tay	điện_tử	để	giúp	quá_trình	đỗ	xe	an_toàn	hơn	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+60	Về	trang_bị	an_toàn	cả	Altis	và	Vios	phiên_bản	2017	đều	nhận	5	sao	điểm	an_toàn	của	ASEAN	NCAP	,	và	thậm_chí	Toyota_Corolla	Altis	còn	làm	tốt	hơn	với	chứng_nhận	5	sao	của	Cục	QL	đường_cao_tốc	và	an_toàn	giao_thông	quốc_gia	Mỹ	(	NHTSA	)	,	giành	được	giải	Top	Safety	Pick	+	của	Viện	Bảo_hiểm	An_toàn	xa_lộ	Mỹ	(	IIHS	)	0	0	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+52	Về	tính_năng	an_toàn	,	Hyundai	Tucson	CKD	2017	có	vẻ	nhỉnh	hơn	hẳn	đối_thủ	khi	lắp_đặt	chế_độ	Drive	Mode	3	chế_độ	,	6	túi	khí	,	ABS	,	BA	,	EBD	,	TCS	,	VSM	,	ESC	,	HAC	,	DBC	,	hỗ_trợ	đỗ	xe	PAS	,	chống	trộm	Immobilizer	.	.	0	0	0	0	1	2	2	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	Tương_tự	như	hệ_thống	giải_trí	,	Kia	Cerato	2017	cũng	hoàn_toàn	trội	hơn	ở	loạt	trang_bị	an_toàn	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0
+23	Tuy_nhiên	,	XC60	2018	có	nhiều	trang_bị	an_toàn	tiêu_chuẩn	cũng	như	tùy	chọn	hơn	,	gồm	tính_năng	bảo_vệ	và	giảm_thiểu	va_chạm	trên	đường	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Về	trang_bị	an_toàn	,	mẫu	xe	Hàn_Quốc_thể_hiện	sự	vượt_trội	so	với	đối_thủ	khi	có	tới	6	túi	khí	(	Cruze	chỉ	có	4	túi	khí	)	0	0	0	0	1	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	Về	khía_cạnh	này	,	các	chuyên_gia	đánh_giá	Mercedes	-	Benz	CLA	-	Class	2017	nổi_bật	hơn	khi	bao_gồm	nhiều	tính_năng	an_toàn	tiêu_chuẩn	hơn	0	0	0	0	0	0	0	1	2	2	2	2	2	2	0	0	0	0	0	0	0	0	0
+51	Về	tính_năng	an_toàn	,	X	-	Trail	tỏ	rõ	vị_trí	bề_trên	so	với	CR	-	V	với	hàng_loạt	tính_năng	vượt_trội	như	hệ_thống	điều_khiển	hành_trình	,	kiểm_soát	độ	bám	đường	,	chống	trượt	,	phanh	chủ_động	hạn_chế	trượt	bánh	,	hỗ_trợ	đổ	đèo	,	kiểm_soát	lái	chủ_động	,	kiểm_soát	vào	cua	chủ_động	0	0	0	0	1	2	2	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+29	Về	phía	Mitsubishi	,	Triton	cũng	trang_bị	các	tính_năng	an_toàn	tiêu_chuẩn	,	chỉ	tiếc	là	không	có	camera	lùi	,	cảnh_báo	áp_suất	lốp	và	cảnh_báo	chệch	làn_đường	như	đối_thủ	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+41	Về	tính_năng	an_toàn	,	cuối_cùng	mẫu	xe	nhà	Mazda	cũng	có	1	lần	bật	lại	được	đối_thủ	khi	lắp_đặt	thêm	tính_năng	hỗ_trợ	phanh	gấp	BA	,	hỗ_trợ	xuống_dốc	HDC	và	6	túi	khí	(	Triton	chỉ	có	2	túi	khí	)	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	Dù_vậy	,	Triton	vẫn	khó	có_thể	lép_vế	trước	đối_thủ	bởi	mẫu	xe	này	vừa	lọt	top	an_toàn	5	sao	của	ANCAP	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+35	Về	tính_năng	an_toàn	,	cả	2	mẫu	xe	Aveo	và	Attrage	đều	chỉ	lắp_đặt	những	trang_bị	cơ_bản	nhất	như	:	chống	bó	cứng	phanh	tự_động	,	dây	an_toàn	các	hàng	ghế	và	2	túi	khí	0	0	0	0	0	0	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	Nhìn	vào	danh_sách	trang_bị	an_toàn	,	có_thể	thấy	Honda	City	hoàn_toàn	vượt	mặt	đối_thủ	0	0	0	0	0	0	0	0	1	2	0	0	0	3
+14	Về	mức_độ	an_toàn	thì	có_lẽ	mẫu	xe	Nhật	sẽ	có	được	lợi_thế	cao	hơn	0	0	0	0	0	1	2	2	0	0	0	0	0	0
+15	Hơn_nữa	,	hệ_thống	an_toàn	chủ_động	trên	Mazda	2	hatchback	vượt_trội	hơn	hẳn	so	với	Toyota_Yaris	0	0	0	0	0	0	1	2	2	0	0	0	0	0	3
+34	Tuy_nhiên	,	các	trang_bị	an_toàn	của	Nissan	NP300	Navara	lại	vượt_trội	hơn	hẳn	so	với	Mitsubishi	Triton	4x4	AT	với	hàng_loạt	hệ_thống	an_toàn	chủ_động	,	nhờ	đó	chiếc	xe	vận_hành	ổn_định	và	tin_cậy	hơn	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Về	trang_bị	an_toàn	,	Honda	City	2016	thể_hiện	sự	trội	hơn	so	với	Hyundai	Accent	2015	khi	có	danh_sách	các	trang_bị	an_toàn	dài	hơn	0	0	0	0	1	2	2	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0
+39	Về	trang_bị	an_toàn	,	nếu_như	Mirage	chỉ	được	trang_bị	cơ_bản	với	2	túi	khí	trước	,	hệ_thống	chống	bó	cứng	phanh	tự_động	,	phân_phối	lực	phanh	điện_tử	và	chìa	khóa	mã_hóa	chống	trộm	thì	Kia_Morning	lại	vượt_trội	hơn	hẳn	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+22	Tuy_nhiên	,	Captiva_Revv	sẽ	khiến	các	gia_đình	hài_lòng	hơn	nhờ	trang_bị	6	túi	khí	,	hơn	tới	4	túi	so	với	đối_thủ	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+15	Về	trang_bị	an_toàn	,	Toyota_Camry	2.5	Q	2015	lại	tỏ	ra	trội	hơn	hẳn	Honda_Accord	0	0	0	0	1	2	2	2	0	0	0	0	0	0	3
+25	Xe	còn	được	trang_bị	tiêu_chuẩn	nhiều	tính_năng	an_toàn	mà	các	đối_thủ	cạnh_tranh	thậm_chí	không	hề	có	hoặc	nếu	có	cũng	phải	chi	thêm	kha_khá	tiền	1	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Thêm	nữa	,	với	hàng_loạt	các	trang_bị	an_toàn	tiêu_chuẩn	,	Mercedes	-	Benz	GLA	2018	dễ_dàng	đánh_bại	đối_thủ	để	trở_thành	kẻ	chiến_thắng	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	3	0	0	0	0
+12	Về	trang_bị	an_toàn	,	MG	ZS	LUX	có	lợi_thế	hơn	hẳn	đối_thủ	0	0	0	0	1	2	2	0	0	0	0	3
+15	Về	an_toàn	,	City	1.5	G	nhỉnh	hơn	Accent	1.4	AT	ở	số	túi	khí	0	0	0	1	2	2	0	0	3	4	4	0	0	0	0
+29	Mẫu	sedan	hạng	C	của	Mazda	trang_bị	nhiều	công_nghệ	an_toàn	hơn	hẳn	,	trong	khi	đại_diện	của	Honda	vận_hành	vượt_trội	với	khối	động_cơ	mạnh_mẽ	và	cảm_giác	lái	năng_động	hơn	1	2	2	2	2	2	0	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0
+10	Danh_sách	trang_bị	an_toàn	trên	Toyota_Hilux	2.4	AT	nhiều	hơn	đối_thủ	0	0	0	0	1	2	2	0	0	3
+11	Trang_bị	an_toàn	của	Ford	EcoSport	nhỉnh	hơn	so	với	Suzuki	XL7	0	0	0	1	2	0	0	0	0	3	4
+16	Về	an_toàn	,	Pajero	Sport	4x2	hoàn_toàn	vượt_trội	hơn	Fortuner	với	khả_năng	chống	tăng_tốc	ngoài	ý_muốn	0	0	0	1	2	2	0	0	0	3	0	0	0	0	0	0
+15	Toyota_Camry	và	Honda	Accord	không	có	quá	nhiều	khác_biệt	về	trang_bị	tiện_nghi	và	tính_năng	an_toàn	1	0	3	4	0	0	0	0	0	0	0	0	0	0	0
+11	Trang_bị	an_toàn	trên	VinFast	Fadil	2021	nhỉnh	hơn	KIA	Morning	2021	0	0	0	1	2	2	0	0	3	4	4
+24	Về	an_toàn	,	với	lợi_thế_là	phiên_bản	giữa	của	dòng	sản_phẩm	,	Corolla	Cross	1.8	V	hoàn_toàn	vượt_trội	so	với	CX	-	5	2.0	Deluxe	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	3	4	4	4	4
+18	Trước_tiên	là	xét	về	trang_bị	an_toàn	thì	Ford	EcoSport	2021	có	phần	thua_thiệt_hơn	so	với	Hyundai	Kona	2021	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	3	4	4
+9	Về	an_toàn	,	Pajero_Sport	hoàn_toàn	vượt_trội	so	với	Fortuner	0	0	0	1	0	0	0	0	3
+27	Pajero	Sport	4x4	lại	vượt_trội	hơn	hai	mẫu	xe	đối_thủ	với	hệ_thống	phanh	tay	điện_tử	tích_hợp	giữ	phanh	tự_động	,	đảm_bảo	tính	thuận_tiện	và	an_toàn	khi	vận_hành	1	2	2	0	0	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+39	Về	mặt	an_toàn	thì	Grand	i10	và	Grand	i10	sedan	đều	có	hai	túi	khí	cho	hàng	ghế	trước	(	các	bản	thấp	hơn	chỉ	có	một	hoặc	không	có	túi	khí	)	,	phanh	chống	bó	cứng	ABS	0	0	0	0	1	2	0	1	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20	Đặc_biệt	,	trang_bị	gói	an_toàn	Mitsubishi_e	-	Assist	giúp	mẫu	xe	này	không	còn	thua_kém	các	đối_thủ	về	mắt	công_nghệ	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	3	4	0	0	0
+12	Trang_bị	an_toàn	của	Suzuki	Ertiga_Sport	và	Mitsubishi	Xpander	AT	cũng	khá	tương_đồng	0	0	0	1	2	0	3	4	4	0	0	0
+22	Về	mặt	an_toàn	cơ_bản	,	Hyundai	Tucson	1.6	T	-	GDi	và	Mazda	CX	-	5	2.0	L	Premium	cũng	khá	tương_đồng	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	4	4	4	0	0	0
+13	Subaru	Forester	2.0	i	-	L	cũng	nhỉnh	hơn	đôi_chút	ở	yếu_tố	an_toàn	1	2	2	2	2	2	0	0	0	0	0	0	0
+23	Bảng	so_sánh	về	trang_bị	an_toàn	trên	2	phiên_bản	AT	cho	thấy	,	Soluto	có	phần	kém	thuyết_phục	hơn	bởi	thiếu_vắng	khá	nhiều	trang_bị	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+28	Ngược_lại	,	Accent	bản	AT	đảm_bảo_an_toàn	cho	các	hành_khách	tốt	hơn	,	giúp	tạo	sự	thuận_tiện	hơn	cho	các	tay_lái	với	một	danh_sách	sang	bị	an_toàn	hậu_hĩnh	hơn	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+36	Về	trang_bị	an_toàn	,	Mitsubishi	Attrage	CVT	2020	bị	đối_thủ	bỏ	khá	xa	khi	thiếu	các	tính_năng	như	:	Cân_bằng	điện_tử	,	hệ_thống	ổn_định	thân	xe	,	hỗ_trợ	khởi_hành	ngang	dốc	hay	hệ_thống	kiểm_soát	lực	kéo	0	0	0	0	1	2	2	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	Suzuki	XL7	tạo	thế	cạnh_tranh	khá	cân_bằng	với	bản	Xpander_Cross	bởi	danh_sách	trang_bị	an_toàn	khá	đầy_đủ	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Tuy_nhiên	Hyundai	Santa	Fe	2020	vẫn	ưu_ái	hơn	với	người	dùng	ở	một_số	tính_năng	an_toàn	cao_cấp	hơn	như	cảnh_báo	điểm_mù	,	cảnh_báo	phương_tiện	cắt	ngang	phía	sau	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19	Với	một	loạt	trang_bị	an_toàn	hiện_đại	,	mẫu	hatchback	mới	tỏ	ra	vượt_trội	hơn	hẳn	so	với	các	đối_thủ	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3
+18	Sau	khi	được	nâng_cấp	,	Mitsubishi	Outlander	2020	đã	trở_nên	an_toàn	hơn	so	với	Mazda	CX	-	5	0	0	0	0	0	1	2	2	0	0	0	0	0	0	3	4	4	4
+21	Trong	khi	chỉ	các	phiên_bản	cao_cấp	hơn	,	Mazda	CX	-	5	2020	mới	được	trang_bị	các	tính_năng	an_toàn	tương_đồng	đối_thủ	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	3
+10	Tính_năng	an_toàn	của	Hyundai	i10	có	phần	trội	hơn	đối_thủ	0	0	0	1	2	0	0	0	0	3
+22	Về	an_toàn	,	có_thể	thấy	dù	là	phiên_bản	thấp	nhất	trong	gia_đình	GLC	nhưng	GLC200	vẫn	tỏ	ra	vượt_trội	so	với	Tiguan_Allspace	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3
+17	Mazda	CX	-	5	phiên_bản	nâng_cấp	được	trang_bị	các	tiện_ích	an_toàn	cao_cấp	hơn	hẳn	so	với	Hyundai_Tucson	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	Danh_sách	trang_bị	an_toàn	trên	2	mẫu	xe	đều	có	những	tính_năng	hiện_đại	và	cần_thiết	,	nhưng	nhìn_chung	Kona	vẫn	nhỉnh	hơn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+18	Trang_bị	an_toàn	cơ_bản	với	các	tính_năng	ABS	/	EBD	/	BA	tương_tự	các	mẫu	xe	cùng	tầm	tiền	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4
+11	Tính_năng	an_toàn	của	KIA	Morning	S	có	phần	trội	hơn	đối_thủ	0	0	0	1	2	2	0	0	0	0	3
+19	Và	các	trang_bị	an_toàn	của	xe	phải	nói	là	đầy	ấn_tượng	nếu	so	với	các	đối_thủ	trong	phân	khúc	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	4	4	4	4
+26	Đối_với	phiên_bản	cao_cấp	,	hệ_thống	an_toàn	của	xe	cũng	vượt	trôi	hơn	với	đến	6	túi	khí	trong	khi	các	đối_thủ	khác	chỉ	có	túi	khí	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0
+73	Xét	về	tính_năng	an_toàn	,	Toyota_Camry	lại	một	lần	nữa	tỏ	ra	thua_kém	so	với	đối_thủ	khi	mà	Mazda	6	được	trang_bị	các	công_nghệ	hiện_đại	hơn	như	hệ_thống	cảm_biến	an_toàn	thông_minh	I	-	activsense	với	các	camera	,	ra	-	da	,	và	cảm_biến	an_toàn	xung_quanh	xe	giúp	người	lái	phát_hiện	sớm	nguy_hiểm	và	đưa	ra	cách	xử_lý	tình_huống	kịp_thời	,	hệ_thống	cảnh_báo	điểm_mù	BSM	,	hệ_thống	cảnh_báo	chệch	làn_đường	LDWS.	.	.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+33	Một	lần	nữa	Kia	Cerato	2017	lại	vượt_trội	hơn	hẵn	đối_thủ	với	đầy_đủ	các	tính_năng	an_toàn	,	trong	khi	Chevy	Cruze	2017	chỉ	được	trang_bị	an_toàn	nhỉnh	hơn	những	mẫu	xe	hạng	B	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0	0	0	0
+34	Có_thể	thấy	,	Santafe	có	phần	nhỉnh	hơn	khi	được	trang_bị	thêm	một_số	tính_năng	an_toàn	như	hệ_thống	chống	trượt	thân	xe	VSM	,	hệ_thống	kiểm_soát	lực	kéo	TCS	,	hệ_thống	hỗ_trợ	xuống_dốc	-	DBC	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Vệ	tính_năng	an_toàn	,	Honda	City	được	coi	là	tốt	nhất	nhì	phân	khúc	khi	chẳng	có	đối_thủ	nào	được	trang_bị	tới	“	tận	răng	”	đến	thế	0	0	0	0	1	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+37	Sau	khi	nhận	được	sự	nâng_cấp	đáng_kể	về	tính_năng	an_toàn	,	Vios	1.5	G	nay	đã	có_thể	tự_tin	hơn	khi	so_kè	cùng	các	đối_thủ	trong	phân	khúc	ở	hạng_mục	này	với	phanh	ABS	/	EBD	/	BA	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0
+21	Danh_sách	an_toàn	của	hai	đối_thủ	gần	như	tương_đồng	khi	Triton	4x2	không	trang_bị	hệ_thống	hỗ_trợ	phanh	gấp	BA	so	với	đối_thủ	0	0	0	0	3	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3
+24	SantaFe	vẫn	trang_bị	hệ_thống	an_toàn	khá	giống	với	Mazda	CX	-	5	,	ngoài_ra	còn	có	hệ_thống	hỗ_trợ	khởi_hành	ngang	dốc	và	đổ	đèo	1	0	0	0	0	0	0	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0
+12
+	Trang_bị	an_toàn	kém	hơn	so	với	đối_thủ	KIA	Sportage	2.0	4WD	0	0	0	0	0	0	0	3	4	4	4	4
+27	Các	tính_năng	an_toàn	của	K3	2.0	AT	hoàn_toàn	vượt_trội	,	tuy_rằng	Kia	chỉ	trang_bị	cho	hành_khách	2	túi	khí	phía	trước	so	với	con_số	4	ở	đối_thủ	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+20	Tuy_nhiên	,	mức	giá	cao	hơn	31	triệu	đồng	so	với	đối_thủ	sẽ	là	chi_tiết	khiến	nhiều	băn_khoăn	khi	lựa_chọn	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+26	Lợi_thế	của	Kia	Seltos	Premium	2021	là	mức	giá	rẻ	hơn	đối_thủ	chỉ	720	triệu	đồng	cùng	thiết_kế	được	đánh_giá	là	ấn_tượng	hàng_đầu	trong	phân	khúc	0	0	1	2	2	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Peugeot	2008	2021	hiện	có	mức	giá	cao	hơn	so	với	phần_lớn	các	xe	cùng	phân	khúc	dao_động	từ	739	-	829	triệu	đồng	1	2	2	0	0	0	0	0	0	0	0	3	4	4	4	4	4	0	0	0	0	0	0	0
+28	Toyota_Corolla	Cross	1.8	V	vẫn	giữ	truyền_thống	là	thương_hiệu	xe	luôn	có	mức	giá	cao	nhất	phân	khúc	với	3	phiên_bản	dao_động	từ	720	-	918	triệu	đồng	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0
+30	Lợi_thế	lớn	nhất	của	Mitsubishi_Xpander	khi	cạnh_tranh	với	các	đối_thủ	cùng	phân	khúc	là	mức	giá	bán	rẻ	,	giá	xe	hiện	dao_động	trong	khoảng	555	-	630	triệu	đồng	0	0	0	0	1	0	0	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+29	Ở	chiều	ngược_lại	,	Toyota_Innova	2.0	G	2021	lại	đang	là	xe	MPV	có	mức	giá	cao	nhất	Việt_Nam	với	4	phiên_bản	dao_động	từ	750	-	989	triệu	đồng	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0
+30	Mitsubishi	Xpander	có	lợi_thế	về	thiết_kế	trẻ_trung	,	nội_thất	7	chỗ	đủ	dùng	và	quan_trọng	nhất	là	mức	giá	rẻ	hơn	200	triệu	đồng	so	với	phiên_bản	tương_tự	của	đối_thủ	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4
+20	Tuy_nhiên	,	mức	giá	cao	hơn	50	triệu	đồng	so	với	đối_thủ	Suzuki	XL7	sẽ	khiến	nhiều	người	phải	suy_nghĩ	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0
+37	Còn	với	Hyundai_Tucson	,	chiếc	xe	đến	từ	Hàn_Quốc	vẫn	luôn	được	biết	đến	là	chiếc	xe	sở_hữu	ngoại_thất	hấp_dẫn	,	tiện_nghi	khá	đầy_đủ	và	mức	giá	cũng	rẻ	hơn	so	với	các	đối_thủ	đến	từ	Nhật_Bản	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+14	Dù	là	xe_nhập	tư_nhân	,	nhưng	Baic	X55	2021	có_giá	rẻ	nhất	phân	khúc	0	0	0	0	0	0	1	2	2	0	0	0	3	4
+31	Khi	so	với	các	xe	cùng	phân	khúc	đến	từ	Nhật_Bản	như	Mazda	CX	-	5	,	Honda	CR	-	V	…	thì	Hyundai	Tucson	đang	là	xe	có_giá	hấp_dẫn	nhất	0	0	0	3	4	4	4	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0
+16	Tuy_nhiên	,	mức	giá	của	Hyundai	Tucson	hiện_hành	vẫn	cao	hơn	rất	nhiều	so	với	Baic_X55	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	3
+23	Với	Baic	X55	,	mẫu	xe	này	có	lợi_thế	cạnh_tranh	nhờ	mức	giá	rẻ	nhất	phân	khúc	,	trang_bị	ở	mức	đủ	dùng	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0
+22	Ở	chiều	ngược_lại	,	Honda	City	sở_hữu	cho	mình	một	phong_cách	thể_thao	,	đồng_nghĩa	xe	có	mức	giá	cao	nhất	phân	khúc	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4
+25	Thương_hiệu	đến	từ	Hàn_Quốc	chốt	mức	giá	bán	rẻ	nhất	phân	khúc	sedan	hạng	B	cho	Kia	Soluto	dao_động	từ	369	-	469	triệu	đồng	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	1	2	0	0	0	0	0	0	0
+15	Do	đó	,	hãng	xe	Nhật_Bản	tự_tin	cạnh_tranh	bằng	mức	giá	cao	nhất	phân	khúc	0	0	0	1	2	2	0	0	0	0	0	0	0	3	4
+30	Đội_ngũ	so_sánh	xe	chúng_tôi	đã	trải	nghiệm	cảm_giác	vận_hành	của	mẫu	xe	này	,	Honda	City	2021	cho	thấy	vì	sao	đây	là	chiếc	xe	có_giá	cao	nhất	phân	khúc	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	3	4
+21	Tuy_nhiên	,	nhược_điểm	sẽ	đến	từ	mức	giá	cao	nhất	phân	khúc	,	gần	600	triệu	đồng	cho	phiên_bản	cao_cấp	nhất	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0
+31	Trong	khi	đó	,	Ford	EcoSport	là	chiếc	xe	có_giá	bán	tốt	trong	phân	khúc	cùng	khả_năng	lái	thực_dụng	,	tin_cậy	nhờ	khối	động_cơ	1.0	EcoBoost	trứ_danh	của	thương_hiệu	xe_hơi	Mỹ	0	0	0	0	1	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+29	Subaru	Forester	2020	luôn	là	chiếc	xe	có_giá	cao	nhất	phân	khúc	tại	Việt_Nam	khi	dao_động	trong	khoảng	1,128	-	1,288	tỷ	đồng	cho	3	phiên_bản	tùy_chọn	khác	nhau	1	2	2	0	0	0	0	0	0	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+32	Với	việc	thay_đổi	nhẹ	trong	phiên_bản	nâng_cấp	lần	này	,	Honda	CR	-	V	2020	đã	có_giá	bán	nhỉnh	hơn	bản	tiền_nhiệm	,	giá	xe	dao_động	từ	998	-	1.118	triệu	đồng	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0
+13	Những	phiên_bản	màu	đỏ	mới	có	mức	giá	cao	hơn	5	triệu	đồng	1	2	2	2	0	0	0	0	0	0	0	0	0
+22	Baic	Beijing	X7	2020	đang	trở_thành	hiện_tượng	của	phân	khúc	nhờ	mức	giá	rẻ	nhất	dao_động	từ	528	-	688	triệu	đồng	1	2	2	2	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0
+34	Người	dùng	CR	-	V	sẽ	phải	ghen	tỵ	khi	Baic	Beijing	X7	2020	có_giá	rẻ	hơn	nhưng	lại	sở_hữu	màn_hình	giải_trí	lớn	đến	12,3	inch	hỗ_trợ	kết_nối	đa_phương_tiện	cùng	dàn	âm_thanh	11	loa	0	0	3	4	4	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	So	với	đời	cũ	,	giá	xe	Mitsubishi	Pajero	Sport	2021	tăng	đáng_kể	,	đặc_biệt	với	phiên_bản	cao_cấp	Diesel	4	×	4	AT	0	0	3	4	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+31	Đến	với	phiên_bản	nâng_cấp	mới	nhất	,	cả	2	mẫu	Ford	Everest	2021	và	Mitsubishi	Pajero	Sport	2021	đều	có	diện_mạo	thay_đổi	so	với	"	người	tiền_nhiệm	"	theo	xu_hướng	trẻ_hóa	0	0	0	0	0	0	0	0	0	0	1	2	2	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Điểm_trừ	đến	từ	phần	vô	-	lăng	nặng	không	phù_hợp	với	phái_đẹp	và	mức	giá	đã	tăng	đáng_kể	so	với	đời	cũ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+33	Baic	Beijing	X7	2020	đang	nổi	lên	như	một	hiện_tượng	không	chỉ	nhờ	thiết_kế	ấn_tượng	,	nhiều	option	mà	mẫu	xe	này	còn	có	mức	giá	rẻ	như	nhiều	chiếc	xe	Trung_Quốc	khác	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+21	Do	đó	,	mẫu	xe	này	có_giá	bán	tăng	mạnh	so	với	đời	cũ	dao_động	từ	1,099	-	1,349	tỷ	đồng	0	0	0	1	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+21	Toyota_Fortuner	2021	vẫn	giữ	truyền_thống	với	mức	giá	cao	nhất	phân	khúc	từ	995	-	1.426	triệu	đồng	cho	7	phiên_bản	1	2	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0
+21	Mặc_dù	là	mẫu	xe	có_giá	bán	cao	nhất	phân	khúc	,	nhưng	Toyota_Fortuner	Lengender	2.8	AT	vẫn	còn	khá	nhiều	nhược_điểm	0	0	0	0	0	0	0	0	3	4	0	0	0	2	0	0	0	0	0	0	0
+18	Do	sở_hữu	nhiều	tính_năng	hiện_đại	nên	so	với	bản	tiền_nhiệm	,	Kia	Sorento	2021	đã	tăng_giá	bán	đáng_kể	0	0	0	0	0	0	0	0	3	4	0	1	2	2	0	0	0	0
+28	Ở	phiên_bản	nâng_cấp	giữa	vòng	đời	,	MG	ZS	2021	có	mức	giá	bán	hấp_dẫn	so	với	lần	ra_mắt	đầu_tiên	(	từ	518	-	639	triệu	đồng	)	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	3	4	4	0	0	0	0	0	0	0	0
+28	Với	mức	giá	bán	mới	,	Toyota_Fortuner	Legender	2.8	4x4	AT	2020	có	mức	giá	cao	nhất	phân	khúc	SUV	7	chỗ	tại	Việt_Nam	đến	1,426	tỷ	đồng	0	0	0	0	0	0	1	2	2	2	2	2	0	0	0	0	0	3	4	4	4	4	4	4	0	0	0	0
+31	Ở	phiên_bản	mà	chúng_tôi	so_sánh	,	Toyota_Fortuner	2020	4x2	AT	có	lợi_thế	hơn	nhờ	mức	giá	1,080	tỷ	đồng	so	với	1,110	tỷ	đồng	của	Mitsubishi	Pajero	Sport	2020	4x2	AT	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4
+30	Trong	lần	nâng_cấp	lần	này	tại	Việt_Nam	,	cả	Mitsubishi	Pajero	Sport	2020	và	Toyota_Fortuner	2020	đều	có	sự	thay_đổi	nhẹ	về	ngoại_hình	giúp	xe	trẻ_trung	so	với	bản	tiền_nhiệm	0	0	0	0	0	0	0	0	0	1	2	2	2	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Đổi	lại	,	mức	giá	của	xe	cao	hơn	đối_thủ	đến	60	triệu	đồng	cũng	là	điều	khiến	nhiều	người	cần	lưu_tâm	0	0	0	0	0	0	1	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+19	Mitsubishi	Xpander	Cross	2020	vừa	ra_mắt	được	công_bố	mức	giá	cao	nhất	phân	khúc	MPV	lai	SUV	tại	Việt_Nam	1	2	2	2	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4
+19	Tuy_nhiên	,	mức	giá	cao	nhất	phân	khúc	cũng	là	rào_cản	khi	người	dùng	tiếp_cận	với	Toyota_Corolla	Cross	2020	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	1	2	2
+29	Đổi	lại	,	bạn	sẽ	có	một	mẫu	xe	có	mức	giá	rẻ	hơn	đến	150	triệu	đồng	so	với	bản	cao_cấp	và	thấp	hơn	đối_thủ	19	triệu	đồng	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+29	Dù	cùng	cạnh_tranh	với	các	đối_thủ	nhưng	Toyota_Granvia	lại	có	những	điểm	nhấn	khác_biệt	đến	từ	cấu_hình	9	chỗ	ngồi	thay_vì	7	và	mức	giá	cũng	cao	hơn	đáng_kể	0	0	0	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+34	Trong	khi	đó	,	rõ_ràng	màn	"	ve_sầu	lột_xác	"	của	Honda	Accord	2020	hẳn	đã	khiến	người	tiêu_dùng	hài_lòng	với	một	mẫu	xe	có_giá	bán	cao	nhất	phân	khúc	tính	đến	thời_điểm	này	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0
+17	Vẫn	còn	đó	nét	hoài_cổ	trong	thiết_kế	khu_vực	này	của	mẫu	xe	có_giá	cao	nhất	phân	khúc	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	3	4
+25	Còn	Accord	2020	,	với	truyền_thống	của	Honda	khi	các	phân	khúc	đều	có_giá	bán	cao	nhất	thì	việc	doanh_số	đối_với	họ	không	quá	quan_trọng	0	1	2	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+20	Đồng_nghĩa	,	để	sở_hữu	mẫu	xe	đến	từ	Mỹ	,	khách_hàng	sẽ	phải	chấp_nhận	mức	giá	cao	nhất	phân	khúc	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	3	4
+34	Subaru	Forester	2020	hiện	đang	là	mẫu	xe	có	mức	giá	cao	nhất	phân	khúc	tại	Việt_Nam	,	xe	được	phân_phối	với	4	phiên_bản	với	mức	giá	niêm_yết	từ	1,128	-	1,307	tỷ	đồng	1	2	2	0	0	0	0	0	0	0	0	0	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Subaru	Forester	GT	Edition	2020	đang	là	chiếc	xe	có	mức	giá	cao	nhất	phân	khúc	và	giá_trị	xe	mang	lại	cũng	hoàn_toàn	xứng_đáng	1	2	2	2	2	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0
+18	Toyota_Rush	2020	là	mẫu	xe	có_giá	theo	truyền_thống	của	Toyota	với	mức	giá	luôn	cao	nhất	phân	khúc	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+25	Mặc_dù	có_giá	bán	cao	nhất	phân	khúc	,	nhưng	Toyota_Rush	cũng	trang_bị	ghế_ngồi	ở	mức	cơ_bản	với	chất_liệu	nỉ	hoàn_toàn	và	ghế	lái	chỉnh	cơ	0	0	0	0	0	3	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9	Mazda	3	2020	có	mức	giá	cao	hơn	Altis	1	2	2	0	0	0	0	0	3
+29	Trong	khi	đó	,	Mazda	3	2020	dù	có	mức	giá	cao	nhất	phân	khúc	sedan	hạng	C	,	nhưng	đây	rõ_ràng	là	chiếc	xe	đáng	chọn	nhất_thời_điểm	hiện_tại	0	0	0	0	1	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Với	giá	bán	chỉ	cao	hơn	5	triệu	đồng	,	chiếc	xe	mang	thương_hiệu	Nhật_Bản	đang	chiếm	ưu_thế	hơn	so	với	đối_thủ	Hàn_Quốc	vốn	đang	thành_công_bằng	chiến_lược	giá	rẻ	nhiều	option	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0
+29	Mazda	2	2020	là	phiên_bản	nâng_cấp	với	ngoại_thất	mới_mẻ	,	ngập_tràn	công_nghệ	nhưng	khách_hàng	sẽ	phải	đánh_đổi	bằng	việc	trả	mức	giá	cao	nhất	phân	khúc	sedan	hạng	B	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+29	BMW	X3	2020	hiện	là	mẫu	xe	có	mức	giá	cao	nhất	phân	khúc	SUV	hạng	sang	cỡ	nhỏ	như	nhiều	"	người	anh_em	"	khác	trong	gia_đình	BMW	1	2	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4	0	0	0	0	0	0	0	0	0	0
+39	Giá	bán	chính	là	điểm	khác_biệt	nhất	giữa	2	mẫu	xe	của	thương_hiệu	Hàn_Quốc	và	Nhật_Bản	khi	Hyundai	Tucson	2020	có_giá	rẻ	nhất	phân	khúc	còn	Subaru	Forester	2020	lại	là	xe	được	phân_phối	với	mức	giá	cao	nhất	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	Bằng_chứng	là	Honda_Civic	,	Toyota_Corolla	Altis	giá	cao	nhất	hơn	900	triệu	đồng	và	luôn	lọt	Top	xe	bán	chậm	trong	phân	khúc	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+22	Hai	mẫu	xe	được	thiết_kế	với	phong_cách	thể_thao	nhưng	mức	giá	cũng	thuộc	hàng	cao	nhất	phân	khúc	hạng	C	tại	Việt_Nam	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	0	0
+25	VinFast	Fadil	2020	đang	là	mẫu	xe	hạng	A	có_giá	bán	cao	nhất	phân	khúc	với	3	phiên_bản	dao_động	từ	441	-	491	triệu	đồng	1	2	2	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0
+17	Hiện_tại	,	đây	cũng	là	mẫu	xe	có	mức	giá	cao	nhất	phân	khúc	hạng	A	hiện_nay	0	0	0	0	0	1	2	0	0	0	0	0	3	4	4	4	0
+19	Hyundai	Accent	có	nhiều	lựa_chọn	hơn	khi	cung_cấp	tới	4	phiên_bản	nhưng	mức	giá	cao	hơn	đối_thủ	Kia_Soluto	2019	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+46	Mặc_dù	mới	mở	bán	tại	nước	ta	không	lâu	,	nhưng	Mazda	CX	-	8	2019	là	cái	tên	gây	được	sự	chú_ý	không	chỉ	bởi	mức	giá	cao	nhất	phân	khúc	(	sau	ưu_đãi	)	mà	đây	cũng	là	chiếc	xe	sở_hữu	nhiều	công_nghệ	an_toàn	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+55	Những	khách_hàng	đầu_tiên	mua	xe	Mazda	CX	-	8	2019	được	áp_dụng	mức	ưu_đãi	từ	1,149	-	1,399	tỷ	đồng	,	sau	đó	xe	sẽ	về	mức	giá	thực	dao_động	từ	1,199	-	1,444	tỷ	đồng	,	với	mức	giá	trên	đây	là	mẫu	xe	có_giá	cao	nhất	phân	khúc	SUV	7	chỗ	tại	Việt_Nam	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4
+27	Điểm_trừ	là	dù	được	lắp_ráp	trong	nước	nhưng	Mazda	CX	-	8	lại	có_giá	cao	nhất	phân	khúc	và	hàng	ghế	thứ	3	không	được	đánh_giá	cao	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0
+19	Khi	còn	là	xe	nhập_khẩu	từ	Nhật	,	Subaru	Forester	luôn	thiết_lập	mức	giá	cao	nhất	nhì	phân	khúc	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	3	4
+43	Như_vậy	,	cả	2	mẫu	Mazda	CX	-	5	và	Honda	CR	-	V	đều	có	động_cơ	với	188	mã_lực	tương_đương	nhau	,	nhưng	CX	-	5	sẽ	mang	đến	cho	khách_hàng	tùy	chọn	máy	2.0	L	với	mức	giá	rẻ	hơn	đối_thủ	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+37	Tỷ_lệ_thuận	với	công_nghệ	vượt_trội	thì	CX	-	5	cũng	có	mức	giá	cao	nhất	phân	khúc	dao_động	từ	929	-	1.179	triệu	đồng	còn	CR	-	V	vẫn	thực_dụng	cùng	mức	giá	983	-	1.093	triệu	đồng	0	0	0	0	0	1	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Mazda	CX	-	8	chỉ	vừa	ra_mắt	ở	thị_trường	nước	ta	không	lâu	,	sở_hữu	giá	bán	cao	nhất	phân	khúc	,	từ	1,199	-	1,444	tỷ	đồng	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+34	Tuy_nhiên	,	điều	này	cũng	khá	dễ	hiểu	vì	giá	bán	của	CX	-	8	cao	hơn	đối_thủ	tới	vài	trăm	triệu	đồng	,	vậy	nên	cuộc	đua	này	khó	có_thể	kết_luận	thắng	thua	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27	Riêng	đối_thủ	Land	Rover	Discovery	Sport	2020	,	dù	có	mức	giá	cao	hơn	nhưng	xe	vẫn	dùng	bóng	LED	thông_thường	với	tạo_hình	mới	hơn	phiên_bản	tiền_nhiệm	0	3	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

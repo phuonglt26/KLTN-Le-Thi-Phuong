@@ -1,0 +1,7 @@
+,score
+Aspect,an_toàn
+Model,LogisticRegression()
+K_best,3000
+F1-negative,0.7777777777777777
+F1-positive,0.7457627118644068
+F1-neutral,0.7499999999999999

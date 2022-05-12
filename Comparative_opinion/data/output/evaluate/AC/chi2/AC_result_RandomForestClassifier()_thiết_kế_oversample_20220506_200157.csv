@@ -1,0 +1,8 @@
+,score
+Aspect,thiết_kế
+Model,RandomForestClassifier()
+K_best,3000
+Threshold,0.47000000000000003
+F1,0.9451697127937336
+Precision,0.9476439790575916
+Recall,0.9427083333333334

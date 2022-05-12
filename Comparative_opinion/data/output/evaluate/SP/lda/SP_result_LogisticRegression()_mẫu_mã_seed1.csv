@@ -1,0 +1,10 @@
+,score
+Aspect,mẫu_mã
+seed,1
+Model,LogisticRegression()
+p-negative,0.8333333333333334
+r-negative,0.5263157894736842
+F1-negative,0.6451612903225806
+p-positive,0.8333333333333334
+r-positive,0.5263157894736842
+F1-positive,0.6451612903225806

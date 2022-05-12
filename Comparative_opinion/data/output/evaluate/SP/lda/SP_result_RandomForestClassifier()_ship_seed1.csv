@@ -1,0 +1,10 @@
+,score
+Aspect,ship
+seed,1
+Model,RandomForestClassifier()
+p-negative,0.5454545454545454
+r-negative,0.2727272727272727
+F1-negative,0.3636363636363636
+p-positive,0.5454545454545454
+r-positive,0.2727272727272727
+F1-positive,0.3636363636363636

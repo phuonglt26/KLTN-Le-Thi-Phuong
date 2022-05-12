@@ -1,0 +1,8 @@
+,score
+Aspect,giá
+Model,RandomForestClassifier()
+K_best,500
+Threshold,0.47000000000000003
+F1,0.9478672985781991
+Precision,0.9433962264150944
+Recall,0.9523809523809523

@@ -1,0 +1,10 @@
+,score
+Aspect,cấu_hình
+seed,6
+Model,LogisticRegression(random_state=42)
+p-negative,0.6363636363636364
+r-negative,0.7777777777777778
+F1-negative,0.7000000000000001
+p-positive,0.6363636363636364
+r-positive,0.7777777777777778
+F1-positive,0.7000000000000001

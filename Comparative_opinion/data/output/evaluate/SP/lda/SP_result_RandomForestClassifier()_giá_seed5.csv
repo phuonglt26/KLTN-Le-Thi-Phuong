@@ -1,0 +1,10 @@
+,score
+Aspect,giá
+seed,5
+Model,RandomForestClassifier()
+p-negative,1.0
+r-negative,0.3333333333333333
+F1-negative,0.5
+p-positive,1.0
+r-positive,0.3333333333333333
+F1-positive,0.5

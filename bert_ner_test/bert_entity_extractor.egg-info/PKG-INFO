@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: bert-entity-extractor
+Version: 1.0
+Summary: AI models for entity Extractor
+Home-page: https://github.com/pypa/sampleproject
+Author: hihi
+Author-email: hihi@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+
+UNKNOWN
+

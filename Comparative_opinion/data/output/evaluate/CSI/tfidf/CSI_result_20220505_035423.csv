@@ -1,0 +1,7 @@
+,score
+Model,LGBMClassifier()
+Ngram,3
+Threshold,0.352
+F1,0.917639827904118
+Precision,0.9092570036540804
+Recall,0.9261786600496278

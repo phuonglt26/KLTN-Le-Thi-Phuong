@@ -1,0 +1,138 @@
+21	??n	E	O	O	O
+21	nay	P	O	O	O
+21	","	F	O	O	O
+21	Toyota_Rush	Np	B-SUB	B-SUB	B-SUB
+21	2020	M	I-SUB	I-SUB	I-SUB
+21	v?n	R	O	O	O
+21	là	V	O	O	O
+21	m?u	N	O	O	O
+21	xe	N	O	O	O
+21	an_toàn	A	O	O	O
+21	nh?t	R	O	O	O
+21	phân	V	B-OBJ	B-OBJ	B-OBJ
+21	khúc	N	I-OBJ	I-OBJ	I-OBJ
+21	MPV	Ny	I-OBJ	I-OBJ	I-OBJ
+21	t?i	E	I-OBJ	I-OBJ	I-OBJ
+21	Vi?t_Nam	Np	I-OBJ	I-OBJ	I-OBJ
+21	khi	N	O	O	O
+21	??t	V	O	O	O
+21	tiêu_chu?n	N	O	O	O
+21	an_toàn	A	O	O	O
+21	5	M	O	O	O
+21	sao	N	O	O	O
+21	c?a	E	O	O	O
+21	ASEAN	Ny	O	O	B-SUB
+21	NCAP	Ny	O	O	I-SUB
+21	nh?	V	O	O	O
+21	hàng_lo?t	N	O	O	O
+21	tính_n?ng	N	O	O	O
+21	an_toàn	A	O	O	O
+					
+					
+					
+					
+27	Mazda	N	B-SUB	B-SUB	B-SUB
+27	3	M	I-SUB	I-SUB	I-SUB
+27	2020	M	I-SUB	I-SUB	I-SUB
+27	?ang	R	O	O	O
+27	là	V	O	O	O
+27	chi?c	Nc	O	O	O
+27	xe	N	O	O	O
+27	nhi?u	A	O	O	O
+27	công_ngh?	N	O	O	O
+27	an_toàn	A	O	O	O
+27	nh?t	R	O	O	O
+27	phân	V	B-OBJ	B-OBJ	B-OBJ
+27	khúc	N	I-OBJ	I-OBJ	I-OBJ
+27	xe	N	I-OBJ	O	O
+27	h?ng	N	I-OBJ	O	O
+27	C	Np	I-OBJ	O	O
+27	t?i	E	I-OBJ	O	O
+27	Vi?t_Nam	Np	I-OBJ	O	O
+					
+					
+					
+501	Theo	E	O	O	O
+501	?ó	P	O	O	O
+501	","	F	O	O	O
+501	Subaru	Np	B-SUB	B-SUB	B-SUB
+501	Forester	Np	I-SUB	I-SUB	I-SUB
+501	th?_h?	N	O	O	O
+501	th?	N	O	O	O
+501	5	M	O	O	O
+501	là	V	O	O	O
+501	m?u	N	O	O	O
+501	xe	N	O	O	O
+501	an_toàn	A	O	O	O
+501	nh?t	R	O	O	O
+501	phân	V	B-OBJ	B-OBJ	B-OBJ
+501	khúc	N	I-OBJ	I-OBJ	I-OBJ
+501	CUV	Ny	I-OBJ	O	I-OBJ
+501	v?i	E	O	O	O
+501	hàng_lo?t	N	O	O	O
+501	tính_n?ng	N	O	O	O
+501	h?_tr?	V	O	O	O
+501	lái_xe	N	O	O	O
+501	an_toàn	A	O	O	O
+501	tiên_ti?n	A	O	O	O
+501	nh?t	A	O	O	O
+501	th?_gi?i	N	O	O	O
+501	hi?n_nay	N	O	O	O
+					
+					
+502	T??ng_t?	A	O	O	O
+502	nh?	C	O	O	O
+502	Everest	Np	B-OBJ	O	B-OBJ
+502	thì	C	O	O	O
+502	Pajero_Sport	Np	B-SUB	B-SUB	B-SUB
+502	2019	M	I-SUB	I-SUB	I-SUB
+502	c?ng	R	O	O	O
+502	???c	V	O	O	O
+502	trang_b?	V	O	O	O
+502	7	M	O	O	O
+502	túi	N	O	O	O
+502	khí	N	O	O	O
+502	an_toàn	A	O	O	O
+					
+					
+Tuy_nhiên	C	O	O	O	
+		F	O	O	O
+Mirage	Np	B-SUB	B-SUB	B-SUB	
+v?n	R	O	O	O	
+có_th?	A	O	O	O	
+ng?ng	V	O	O	O	
+cao	A	O	O	O	
+??u	N	O	O	O	
+h?n	A	O	O	O	
+tr??c	E	O	O	O	
+??i_th?	N	B-OBJ	B-OBJ	B-OBJ	
+b?i	E	O	O	O	
+chi?c	Nc	O	O	O	
+xe	N	O	O	O	
+này	P	O	O	O	
+có	V	O	O	O	
+thêm	V	O	O	O	
+c?t	N	O	O	O	
+lái	N	O	O	O	
+t?_??ng	A	O	O	O	
+và	C	O	O	O	
+??p	V	O	O	O	
+phanh	N	O	O	O	
+t?	P	O	O	O	
+??	V	O	O	O	
+		F	O	O	O
+giúp	V	O	O	O	
+xe	N	O	O	O	
+d?_dàng	A	O	O	O	
+??t	V	O	O	O	
+???c	R	O	O	O	
+5	M	O	O	O	
+sao	N	O	O	O	
+an_toàn	A	O	O	O	
+trong	E	O	O	O	
+th?_nghi?m	V	O	O	O	
+va_ch?m	N	O	O	O	
+c?a	E	O	O	O	
+A	Np	O	B-OBJ	B-OBJ	
+-	F	O	I-OBJ	I-OBJ	
+NCAP	Np	O	I-OBJ	I-OBJ	

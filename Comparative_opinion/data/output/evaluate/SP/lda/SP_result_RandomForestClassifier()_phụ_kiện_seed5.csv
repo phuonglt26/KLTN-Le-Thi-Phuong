@@ -1,0 +1,10 @@
+,score
+Aspect,phụ_kiện
+seed,5
+Model,RandomForestClassifier()
+p-negative,0.6666666666666666
+r-negative,0.8571428571428571
+F1-negative,0.75
+p-positive,0.6666666666666666
+r-positive,0.8571428571428571
+F1-positive,0.75

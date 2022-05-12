@@ -1,0 +1,10 @@
+,score
+Aspect,dịch_vụ
+seed,1
+Model,LogisticRegression()
+p-negative,0.875
+r-negative,0.3684210526315789
+F1-negative,0.5185185185185185
+p-positive,0.875
+r-positive,0.3684210526315789
+F1-positive,0.5185185185185185

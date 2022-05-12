@@ -1,0 +1,7 @@
+,score
+Aspect,sức_mạnh
+Model,LogisticRegression()
+K_best,3000
+F1-negative,0.4761904761904762
+F1-positive,0.8
+F1-neutral,0.8

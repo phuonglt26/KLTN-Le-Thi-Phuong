@@ -1,0 +1,10 @@
+,score
+Aspect,ship
+seed,1
+Model,LogisticRegression()
+p-negative,1.0
+r-negative,0.09090909090909091
+F1-negative,0.16666666666666669
+p-positive,1.0
+r-positive,0.09090909090909091
+F1-positive,0.16666666666666669

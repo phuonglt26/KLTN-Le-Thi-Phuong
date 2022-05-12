@@ -1,0 +1,8 @@
+,score
+Aspect,sức_mạnh
+Model,LGBMClassifier()
+K_best,3000
+Threshold,0.093
+F1,0.9365079365079365
+Precision,0.9516129032258065
+Recall,0.921875

@@ -1,0 +1,7 @@
+,score
+Aspect,an_toàn
+Model,LGBMClassifier()
+K_best,3000
+F1-negative,0.7368421052631577
+F1-positive,0.8928571428571429
+F1-neutral,0.7058823529411764

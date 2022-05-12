@@ -1,0 +1,8 @@
+,score
+Aspect,an_toàn
+Model,RandomForestClassifier()
+K_best,500
+Threshold,0.25
+F1,0.9411764705882353
+Precision,0.8888888888888888
+Recall,1.0

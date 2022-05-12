@@ -1,0 +1,10 @@
+,score
+Aspect,cấu_hình
+seed,6
+Model,RandomForestClassifier()
+p-negative,0.6764705882352942
+r-negative,0.8518518518518519
+F1-negative,0.7540983606557378
+p-positive,0.6764705882352942
+r-positive,0.8518518518518519
+F1-positive,0.7540983606557378

@@ -1,0 +1,89 @@
+28	Vậy	nên	nếu	chọn	so_sánh	Elantra_Sport	và	Cerato	Premium	thì	giá	xe	của	Elantra	vẫn	cao	hơn	đối_thủ	khá	nhiều	,	rơi	vào	khoảng	gần	100	triệu	đồng	0	0	0	0	0	1	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Mazda	CX	-	5	2019	cũng	mang	đến	cho	người	tiêu_dùng	nhiều	phiên_bản	lựa_chọn	hơn	cùng	mức	giá	rẻ	hơn	đối_thủ	Subaru_Forester	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+25	Đặt	Toyota_Hilux	2.8	G	4x4	AT	cạnh	Colorado	2.5	L	HIGH	COUNTRY	,	có_thể	thấy	giá	bán	của	Hilux	cao	hơn	đối_thủ	59	triệu	đồng	0	1	2	2	2	2	0	3	4	4	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+40	Mazda	CX	-	8	2019	hiện	đang	được	Thaco	áp_dụng	mức	giá	sau	ưu_đãi	dao_động	từ	1,199	-	1,444	tỷ	đồng	,	với	mức	giá	trên	đây	là	mẫu	xe	có_giá	cao	nhất	phân	khúc	SUV	7	chỗ	tại	Việt_Nam	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4	4
+17	Tuy_nhiên	,	điểm	yếu	của	Solati	chính	là	giá	bán	cao	hơn	đối_thủ	tới	80	triệu	đồng	0	0	0	0	0	1	0	0	0	0	0	0	3	0	0	0	0
+17	Nhìn	qua	có_thể	thấy	,	Mazda	2	có	mức	giá	cao	hơn	đối_thủ	trung_bình	50	triệu	đồng	0	0	0	0	0	1	2	0	0	0	0	0	3	0	0	0	0
+40	Có_thể	thấy	rằng	ở	mức	giá	niêm_yết	,	phiên_bản	tiêu_chuẩn	của	Mazda	6	có_giá	cao	hơn	phiên_bản	cao_cấp	nhất	của	Mazda	6	2018	lên	đến	400	triệu	đồng	và	cao	hơn	phiên_bản	thấp	nhất	lên	tới	hơn	600	triệu	đồng	0	0	0	0	0	0	0	0	0	0	4	1	2	0	4	0	0	0	4	4	1	2	4	0	0	0	0	0	0	4	0	0	0	4	0	0	0	0	0	0
+24	Phiên_bản	ít	trang_bị	nhất	của	Honda	Jazz	có_giá	bán	thấp	hơn	Honda	City	nhưng	phiên_bản	cao	nhất	là	RS	lại	có_giá	cao	hơn	đối_thủ	0	2	0	2	2	2	2	0	0	0	0	2	4	0	0	0	2	0	0	0	0	0	0	0
+12	Chiếc	sedan	có_giá	bán	thấp	hơn	nhưng	trang_bị	lại	không	thua_kém	đối_thủ	1	2	0	0	0	0	0	0	0	0	0	3
+41	Với	mức	giá	này	,	Honda	HR	-	V	hiện	đang	có_giá	bán	cao	nhất	phân	khúc	,	đặc_biệt	là	cao	hơn	đối_thủ	Hyundai_Kona	(	615	-	725	triệu	đồng	)	và	Ford	EcoSport	(	545	-	689	triệu	đồng	)	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Ở	phía	đối_thủ	,	giá	xe	Toyota	RAV4	2018	thậm_chí	còn	cao	hơn	khởi_điểm	từ	24.510	USD	(	57	triệu	đồng	)	0	0	3	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	Ở	phía	Hyundai_Solati	,	khá	bất_ngờ	là	mẫu	xe	Hàn_Quốc	này	chỉ	bán	ra	với	duy_nhất	1	phiên_bản	với	mức	giá	cao	hơn	đối_thủ	tới	161	triệu	đồng	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+28	Tuy_nhiên	,	với	vị_trí	vững_chắc	của	Toyota_Vios	trên	thị_trường	thì	việc	giá	xe	cao	hơn	một_chút	so	với	các	đối_thủ	còn	lại	không	phải	là	vấn_đề	quá	quan_trọng	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+33	Đầu_tiên	,	khi	so_sánh	QX60	và	Audi	Q7	về	giá	bán	thì	Infiniti	QX60	có_giá	bán	đắt	hơn	ở	phiên_bản	thường	nhưng	lại	rẻ	hơn	ở	phiên_bản	cao_cấp	so	với	đối_thủ	từ	Đức	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+18	Về	phía	đối_thủ	,	Nissan	X	-	Trail	có_giá	bán	khởi_điểm_cao	hơn	so	với	Honda	CR	-	V	0	0	0	0	1	2	2	2	0	0	0	0	0	0	3	4	4	4
+37	Sở_hữu	giá	bán	cao	hơn	khá	nhiều	nên	Ford	Everest	có	một_chút	bề_thế	hơn	so	với	đối_thủ	,	cụ_thể	chiều	dài	x	rộng	tương_ứng	hơn	97mm	và	5mm	,	trong	khi	chiều	dài	cơ_sở	xe	hơn	105mm	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	Suzuki	Ciaz	có	mức	giá	cao	hơn	đối_thủ	những	42	triệu	đồng	1	2	0	0	0	0	0	3	0	0	0	0
+35	Bên	cạnh	đó	,	dù	mức	giá	đã	giảm	đáng_kể	so	với	thời	nhập_khẩu	nguyên	chiếc	,	nhưng	SantaFe	lắp_ráp	trong	nước	vẫn	là	dòng	xe	giữ	mức	giá	cao	nhất	trong	phân	khúc	SUV	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	3	4	4
+27	Với	giá	bán	cao	hơn	72	triệu	đồng	,	Hyundai	Accent	AT	tiêu_chuẩn	2021	sở_hữu	những	công_nghệ	hiện	địa	hơn	hẳn	đối_thủ	đồng_hương	Kia	Soluto	AT	Deluxe	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4	4
+21	Như_vậy	,	ở	thế_hệ	mới	,	giá	bán	của	Morning	2021	đã	tăng	đáng_kể	,	vào	top	cao	nhất	phân	khúc	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	3	4
+20	Tính	đến	nay	,	Hyundai	Kona	đang	là	mẫu	xe	được	đánh_giá	cao	nhất	nhì	phân	khúc	SUV	hạng	B	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+15	Giá	bán	của	Morning	2021	đã	tăng	đáng_kể	,	vào	top	cao	nhất	phân	khúc	0	0	0	1	2	0	0	0	0	0	0	0	0	3	4
+24	So	với	đối_thủ	đến	từ	Hàn	,	phiên_bản	cao_cấp	nhất	của	Honda	Brio	được	định_giá	bán	cao	hơn	với	mức	chênh_lệch	65	triệu	đồng	0	0	3	4	4	4	0	0	0	2	2	2	2	0	0	0	2	0	0	0	0	0	0	0
+25	Hiện_tại	,	Honda	CR	-	V	đang	được	bán	tại	Việt_Nam	dưới	dạng	nhập_khẩu	với	3	phiên_bản	và	có	mức	giá	cao	nhất	phân	khúc	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+37	Trong	khi	,	Honda	Accord	2020	định_vị	ở	phân	khúc	cao	với	giá	bán	vào	loại	cao	nhất	phân	khúc	,	thì	Mazda6	2020	tiếp_tục	trung_thành	với	chính_sách	giá	thấp	,	tiệm	cận	với	phân	khúc	C	0	0	0	1	2	2	0	0	3	4	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0
+20	Như_vậy	,	mẫu	SUV	đến	từ	Pháp	có_giá	bán	cao	hơn	214	triệu	đồng	so	với	đối_thủ	đến	từ	Hàn	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	3	0	0	0
+26	Với	tầm	tiền	rẻ	hơn	nhưng	danh_sách	trang_bị	an_toàn	trên	Hyundai	SantaFe	bản	máy	xăng	cao_cấp	là	hấp_dẫn	hơn	so	với	mẫu	xe	mang	thương_hiệu	Việt	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+24	Hyundai	Kona	được	lắp_ráp	trong	nước	,	trong	khi	đó	Honda	HR	-	V_nhập_khẩu	nguyên	chiếc	nên	có_giá	bán	cao	hơn	đối_thủ	36	triệu	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	0	0
+23	Có_lẽ	danh_sách	an_toàn	là	lý_do	hợp_lý	hơn	cả	để	giải_thích	cho	giá	bán	cao	hơn	đối_thủ	của	BT	-	50	3.2	AT	4WD	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	1	2	2	2	2	2
+27	Trong	khi	đó	High	Country	vốn	là	phiên_bản	nâng_cấp	từ	Colorado	LTZ	2.8	AT	4x4	2017	và	có_giá	bán	cao	hơn	đối_thủ	kha_khá	–	839	triệu	đồng	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+23	Ngay	ở	hiệp	đầu_tiên	của	trận_đấu	,	Triton	4x2	AT	đã	có	được	điểm	số	dẫn	trước	nhờ	giá	bán	tốt	hơn	đối_thủ	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+13	Hai	phiên_bản	xăng	của	SUV	Nhật_Bản	có_giá	bán	cao	hơn	hẳn	đối_thủ	Mỹ	1	2	2	2	2	2	0	0	0	0	0	3	4
+23	Phong_cách	thể_thao	thể_hiện	rõ	trên	mẫu	xe	này	ngoại	phần	ngoại_hình	trẻ_trung	,	nội_thất	ấn_tượng	và	khả_năng	vận_hành	vượt_trội	so	với	phân	khúc	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+47	Honda	City	2021	hiện	là	mẫu	xe	mạnh_mẽ	nhất	phân	khúc	nhờ	động_cơ	1.5	L	DOHC	i	-	VTEC	4	xy	-	lanh	thẳng	hàng	tạo	ra_công_suất	119	mã_lực	tại	6.600	vòng	/	phút	và	mô	-	men	xoắn	cực_đại	145	Nm	tại	4.300	vòng	/	phút	1	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24	Đồng_thời	,	mẫu	sedan	cỡ	nhỏ	của	Honda	hiện	còn	có	động_cơ	mạnh_mẽ	nhất	phân	khúc	và	những	trải	nghiệm	thực_sự	ấn_tượng	đối_với	chúng_tôi	0	0	1	2	2	2	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0
+20	Không_những	êm_ái	,	động_cơ	dầu	của	Sorento	mới	còn	mang	đến	những	trải	nghiệm	uy_lực	không	khác	gì	máy	xăng	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	4
+15	Về	cảm_giác	lái	,	Hyundai	Tucson	hiện_hành	đã	được	cải_thiện	đáng_kể	so	với	phiên_bản	tiền_nhiệm	0	0	0	0	1	2	0	0	0	0	0	0	0	3	4
+18	Nhược_điểm	của	xe	X55	là	cảm_giác	lái	thực_sự	chưa	tốt	khi	đặt	cạnh	các	đối_thủ	cùng	phân	khúc	0	0	1	2	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+24	Honda	City	2021	hiện	đang	là	mẫu	xe	mang	đến	trải	nghiệm	lái	thú_vị	nhất	cho	người	dùng	ở	phân	khúc	sedan	hạng	B	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	4	4
+25	Về	mặt	giấy_tờ	,	động_cơ	của	Honda	City	2021	chỉ	tăng	1	mã_lực	so	với	đời	trước	,	nhưng	lại	vượt_trội	hoàn_toàn	so	với	đối_thủ	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+24	Theo	trải	nghiệm	thực_tế	của	đội_ngũ	so_sánh	xe	chúng_tôi	,	MG	ZS	2021	có	khả_năng	vận_hành	ấn_tượng	hơn	bản	cũ	nhờ	việc	cải_tiến	hộp_số	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	3	4	0	0	0	0
+36	Bởi	chúng_tôi	đã	đạp	sâu	chân	ga	để	thử	khả_năng	tăng_tốc	,	song	chiếc	xe	vẫn	lên	khá	từ	từ	,	không	quá	bốc	như	những	gì	mà	đối_thủ	khác	cùng	phân	khúc	là	Kia_Seltos	thể_hiện	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+15	Ford	EcoSport	2021	ấn_tượng	hơn	đối_thủ	với	khả_năng	tăng_tốc	tốt	hơn	nhờ	động_cơ	Ecoboost	trứ_danh	1	2	2	0	0	3	0	0	0	0	0	0	0	0	0
+25	Toyota_Fortuner	Legender	phiên_bản	mới	đã	cải_thiện	ở	khả_năng	vận_hành	với	độ	nhạy	chân	ga	tốt	hơn	phiên_bản	tiền_nhiệm	nhờ	việc	công_suất	đã	được	tăng	đáng_kể	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0
+31	Nhìn_chung	,	nhờ	sử_dụng	khung	gầm	,	động_cơ	của	BMW	X5	nên	VinFast	Lux	SA2	.	0	2021	là	chiếc	xe	mang	đến	trải	nghiệm	lái	rõ_ràng	tốt	hơn	Toyota_Fortuner	2021	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	3	4
+23	Honda	là	một	trong	những	chiếc	xe	có	động_cơ	ấn_tượng	hàng_đầu	phân	khúc	mà	đội_ngũ	so_sánh	xe	chúng_tôi	đã	từng	được	trải	nghiệm	1	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0
+14	Động_cơ	trên	Subaru	Forester	2020	không	có	sức_mạnh	trên	giấy_tờ	quá	ấn_tượng	như	đối_thủ	0	0	1	2	2	0	0	0	0	0	0	0	0	3
+28	Ở	khả_năng	vận_hành	,	Honda	CR	-	V	2020	là	chiếc	xe	không	thay_đổi	động_cơ	nên_người	dùng	sẽ	có	những	trải	nghiệm	không	khác_biệt	so	với	phiên_bản	cũ	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+22	Với	trải	nghiệm	thực_tế	của	chúng_tôi	,	điểm	mạnh	của	Honda	CR	-	V	vẫn	nằm	ở	động_cơ	mạnh_mẽ	hàng_đầu	phân	khúc	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0	3	4
+15	Cũng	tương_tự	đối_thủ	,	Baic	Beijing	X7	2020	sử_dụng	động_cơ	Turbo	với	công_suất	188	mã_lực	0	0	3	0	1	2	2	2	0	0	0	0	0	0	0
+18	Nhìn	ngay	vào	thông_số	sức_mạnh	động_cơ	Baic	Beijing	X7	đang	tỏ	ra	vượt_trội	hơn	hẳn	so	với	Hyundai_Tucson	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3
+20	Không_những	êm_ái	,	động_cơ	dầu	của	Sorento	mới	còn	mang	đến	những	trải	nghiệm	uy_lực	không	khác	gì	máy	xăng	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	4
+16	Rõ_ràng	,	so	với	Fortuner	,	Kia	Sorento	là	chiếc	xe	có	thiên_hướng	vận_hành	thể_thao	hơn	0	0	0	0	3	0	1	2	0	0	0	0	0	0	0	0
+24	Không	chỉ	tăng	công_suất	về	mặt	lý_thuyết	,	Toyota_Fortuner	Legender	đã	cải_thiện	ở	khả_năng	vận_hành	với	độ	nhạy	chân	ga	tốt	hơn	phiên_bản	tiền_nhiệm	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+22	Ở	khả_năng	vận_hành	,	MG	ZS	đã	thực_sự	thay_đổi	so	với	phiên_bản	tiền_nhiệm	dù	động_cơ	của	xe	không	được	nâng_cấp	,	cải_tiến	0	0	0	0	1	2	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0
+21	Ford	Everest	Titanium	2020	là	một	chiếc	xe	sử_dụng	động_cơ	Bi	-	Turbo	và	có	sức_mạnh	tương_đương	đối_thủ	với	210	mã_lực	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+23	Hơn_nữa	,	động_cơ	trên	Everest	mới	êm_ái	hơn	rõ_ràng	so	với	loại	động_cơ	cũ	và	đặc_biệt	là	xe	có	hệ_thống	chống	ồn	chủ_động	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22	Đối_với	Toyota_Fortuner	2020	,	chiếc	xe	này	cũng	sử_dụng	động_cơ	dầu	2.4	L	,	nhưng	công_suất	thấp	hơn	đáng_kể	so	với	đối_thủ	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+28	Cùng	với	đó	,	khả_năng	vận_hành	vẫn	luôn	là	điểm	mạnh	của	mẫu	xe	này	trong	phân	khúc	với	động_cơ	,	khung	gầm	ổn_định	,	cảm_giác	lái	tốt	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	3	4	0	0	0	0	0	0	0	0	0	0
+26	Động_cơ	trên	mang	đến	sức_mạnh	188	mã_lực	và	cũng	với	CX	-	5	,	CRV	là	xe	có	sức_mạnh	lớn	nhất	phân	khúc	CUV	tại	Việt_Nam	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	4	4	4	4
+43	Toyota_Hilux	Adventure	2020	được	trang_bị	khối	động_cơ	dầu	Diesel	1GD	-	FTV	,	4	xi_lanh	thẳng	hàng	cho	công_suất	201	mã_lực	(	tăng	27	mã_lực	)	và	mô	-	men	xoắn	500	Nm	(	tăng	50	Nm	)	so	với	bản	cũ	trước_đây	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+30	Toyota_Hilux	Adventure	2020	giờ_đây	là	chiếc	xe	với	động_cơ	mạnh_mẽ	khi	công_suất	xe	đã	tăng	27	mã_lực	và	mô	-	men	xoắn	cũng	tăng	50	Nm	so	với	phiên_bản	tiền_nhiệm	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+26	Chiếc	xe	này	có	độ	nhạy	chân	ga	ấn_tượng	hơn	giúp	khả_năng	tăng_tốc	của	xe	được	cải_thiện	đáng_kể	so	với	chính	động_cơ	này	ở	đời	cũ	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+22	Nhìn_chung	,	cả	Toyota_Hilux	Adventure	2020	hay	Ford	Ranger	Wildtrak	2020	đều	là	những	chiếc	xe	bán	tải	có	khả_năng	vận_hành	ấn_tượng	0	0	0	1	2	2	0	3	4	4	4	0	0	0	0	0	0	0	0	0	0	0
+27	Nhìn	nhanh	vào	thông_số	trên	giấy_tờ	,	Hyundai	Kona	đang	tỏ	ra	chiếm	ưu_thế	hơn	nhờ	động_cơ	tăng	áp	1.6	L	lớn	hơn	1.4	L	của	Kia_Seltos	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+11	Hyundai	Tucson	có	phần	động_cơ_thể_hiện	sức_mạnh	tốt	hơn	với	155	mã_lực	1	2	0	0	0	0	0	0	0	0	0
+14	Động_cơ	với	sức_mạnh	tốt	hơn	cũng	là	điểm	nhấn	mà	thương_hiệu	Hàn_Quốc	mang	lại	0	0	0	0	0	0	0	0	0	0	1	2	0	0
+17	Peugeot	5008	Active	2020	cũng	dùng	động_cơ	tăng	áp	nhưng	sức_mạnh	thấp	hơn	đáng_kể	so	với	đối_thủ	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	3
+24	Động_cơ	1.5	L	trên	Toyota_Avanza	không	khác	với	đối_thủ	nên	sẽ	không	mang	lại	khả_năng	cầm	lái	thích_thú	hay	quá	lanh_lẹ	dành	cho	tài_xế	0	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	Nói	về	cảm_giác	lái	của	Honda	CR	-	V	2020	,	mẫu	xe	này	sử_dụng	động_cơ	tăng	áp	tạo	ra	đến	188	mã_lực	hơn	nhiều	đối_thủ	0	0	0	0	0	1	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4
+29	Ở	chiều	ngược_lại	,	Toyota_Fortuner	2020	dù	sử_dụng	động_cơ	dung_tích	lớn	đến	2.8	L	nhưng	công_suất	xe	ở	mức	177	mã_lực	,	thấp	hơn	khả	nhiều	so	với	đối_thủ	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+17	Trên	thực_tế	,	động_cơ	của	Toyota_Fortuner	2020	không	mang	đến	những	trải	nghiệm	quá	tốt	như	đối_thủ	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	3
+21	Theo	công_bố	,	MG	HS	2020	là	một	trong	những	chiếc	xe	an_toàn	nhất	phân	khúc	nhờ	sở_hữu	nhiều	công_nghệ	tiên_tiến	0	0	0	1	2	2	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0
+35	Cũng	tương_tự	đối_thủ	,	Suzuki	Ertiga	Sport	2020	dùng	động_cơ	cũ	mã_hiệu	KB15	,	4	xy	-	lanh	thẳng	hàng	,	dung_tích	1.5	L	cho	công_suất	103	mã_lực	và	mô	-	men	xoắn	138	Nm	0	0	3	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31	Tương_tự	,	Toyota_Rush	2020	đang	bán	ở	Việt_Nam	dùng	động_cơ	xăng	dung_tích	1.5	L	,	4	xi	-	lanh	cho	công_suất	tối_đa	102	mã_lực	và	mô	men	xoắn	tối_đa	134	Nm	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+30	Không	chỉ	đi	trong	đô_thị	,	xe	còn	có	khả_năng	vận_hành	tốt	ở	nhiều	cung	đường	hơn	với	khoảng	sáng	gầm	đến	200	mm	so	với	180	mm	của	Ertiga	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+29	Tương_tự	đối_thủ	,	Toyota_Rush	hiện_hành	được	trang_bị	khối	động_cơ	xăng	dung_tích	1.5	L	,	4	xy	lanh	cho	công_suất	cực_đại	102	mã_lực	và	mô	men	xoắn	tối_đa	134	Nm	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25	Đồng_thời	,	Kia	Soluto	2020	sử_dụng	khối	động_cơ	nhỏ	,	công_suất	thấp	hơn	nên	những	cú	nước_rút	,	vượt	xe	sẽ	có	phần	thua_kém	đối_thủ	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+22	Nhiều	người	cho	rằng	Kia_Soluto	2019	có	động_cơ	lớn	hơn	cho	công_suất	và	mô	-	men	xoắn	lớn	hơn	Mitsubishi	Attrage	2020	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+15	Kia	Rondo	2020	vượt_trội	hơn	so	với	Mitsubishi	Xpander	2020	về	sức_mạnh	và	khả_năng	vận_hành	1	2	2	0	0	0	0	3	4	4	0	0	0	0	0
+34	So	với	bản	cũ	,	động_cơ	trên	GLC	300	mới	mạnh	hơn	13	mã_lực	,	mô	-	men	xoắn	được	giữ	nguyên	cùng	hộp_số	tự_động	9	cấp	9G	-	Tronic	và	hệ_thống	dẫn_động	4Matic	0	0	3	4	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+32	Ở	phương_diện	động_cơ	,	Mer	GLC	300	4Matic	tiếp_tục	cho	thấy	khả_năng	hoạt_động	tốt	hơn	với	công_suất	nhỉnh	hơn	6	mã_lực	so	với	X3	dù	cùng	là	máy	tăng	áp	2.0	L	0	0	0	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+22	Bằng	việc	tăng	hầu_hết	thông_số	kích_thước	xe	và	hạ	thấp	trọng_tâm	,	Lexus	ES	250	2020	sẽ	có	khả_năng	vận_hành	tốt	hơn	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	0	0	0	0	0	0
+17	Mẫu	xe	của	Toyota	mang	lại	cảm_giác	tăng_tốc	tốt	hơn	đối_thủ	Hyundai_Accent	vì	sở_hữu	động_cơ	mạnh	hơn	1	2	2	2	0	0	0	0	0	0	3	4	0	0	0	0	0
+22	Như_vậy	,	khối	động_cơ	của	Ford	EcoSport	2020	thể_hiện	sức_mạnh	vận_hành	và	hiệu_suất	tiêu_hao	nhiên_liệu	tốt	hơn	so	với	Honda	Jazz	2020	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	3	4	4
+10	Công_suất	động_cơ	xe	Toyota_Hiace	2020	mạnh	hơn	Ford	Transit	2020	0	0	0	1	2	0	0	3	4	4
+23	Nhưng	có_lẽ	,	Hyundai	Elantra	chỉ	Sport	ở	tên	gọi	còn	khả_năng	vận_hành	ở	phân	khúc	này	thì	Honda	Civic	RS	nổi_trội	hơn	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0
+28	Động_cơ	trên	Mazda	3	2020	không	thay_đổi	so	với	bản	cũ	về	các	thông_số	nhưng	hãng	xe	Nhật_Bản	cho	biết	đã	tinh_chỉnh	để	có	khả_năng	vận_hành	hiệu_quả	hơn	0	0	1	2	2	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13	Honda	Civic	RS	2020	có	khả_năng	vận_hành	ấn_tượng	nhất	phân	khúc	hạng	C	1	2	2	2	0	0	0	0	0	3	4	4	4

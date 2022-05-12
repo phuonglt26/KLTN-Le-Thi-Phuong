@@ -1,0 +1,7 @@
+,score
+Aspect,giá
+Model,LGBMClassifier()
+K_best,3000
+F1-negative,0.9574468085106385
+F1-positive,0.9642857142857143
+F1-neutral,1.0

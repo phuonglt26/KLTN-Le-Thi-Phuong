@@ -1,0 +1,7 @@
+,score
+Aspect,sức_mạnh
+Model,LGBMClassifier()
+K_best,3000
+F1-negative,0.6666666666666666
+F1-positive,0.9090909090909091
+F1-neutral,0.8
